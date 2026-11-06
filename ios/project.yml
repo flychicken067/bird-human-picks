@@ -1,0 +1,65 @@
+# Generate the Xcode project with:  xcodegen generate   (run inside ios/)
+# Build the offline bundle first:   python3 scripts/make_bundle.py ../docs/picks.csv <photo cache> Resources
+name: BirdHumanPicks
+options:
+  bundleIdPrefix: io.github.flychicken067
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_VERSION: "5.10"
+    DEVELOPMENT_TEAM: ""          # fill in your Apple Developer team ID
+    CODE_SIGN_STYLE: Automatic
+targets:
+  BirdHumanPicks:
+    type: application
+    platform: iOS
+    sources:
+      - path: App
+      - path: Shared
+      - path: Resources/App/birds.json
+        buildPhase: resources
+      - path: Resources/App/Photos
+        type: folder
+        buildPhase: resources
+    info:
+      path: App/Info.plist
+      properties:
+        CFBundleDisplayName: 人选鸟图
+        CFBundleDevelopmentRegion: zh-Hans
+        LSApplicationCategoryType: public.app-category.reference
+        ITSAppUsesNonExemptEncryption: false
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        UISupportedInterfaceOrientations~ipad: [UIInterfaceOrientationPortrait, UIInterfaceOrientationPortraitUpsideDown, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: io.github.flychicken067.birdhumanpicks
+        TARGETED_DEVICE_FAMILY: "1,2"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+    dependencies:
+      - target: BirdWidget
+  BirdWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: Widget
+      - path: Shared
+      - path: Resources/Widget/birds.json
+        buildPhase: resources
+      - path: Resources/Widget/Thumbs
+        type: folder
+        buildPhase: resources
+    info:
+      path: Widget/Info.plist
+      properties:
+        CFBundleDisplayName: 今日一鸟
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: io.github.flychicken067.birdhumanpicks.widget
+        TARGETED_DEVICE_FAMILY: "1,2"
