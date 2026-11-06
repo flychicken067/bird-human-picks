@@ -6,7 +6,9 @@ struct ContentView: View {
     @State private var onlyFavorites = false
     @State private var showAbout = false
 
-    private var shown: [Bird] {
+    private var shown: [Bird] { filtered }
+
+    private var filtered: [Bird] {
         let q = query.trimmingCharacters(in: .whitespaces).lowercased()
         return store.birds.filter { b in
             (!onlyFavorites || store.favorites.contains(b.id)) &&
@@ -58,11 +60,18 @@ struct ContentView: View {
 
 struct BirdPhoto: View {
     let bird: Bird
+    var folder = "Thumbs"
+    @State private var image: PlatformImage?
+
     var body: some View {
-        if let img = BirdData.image(bird, folder: "Photos") {
-            Image(platformImage: img).resizable().scaledToFill()
-        } else {
+        ZStack {
             Color.secondary.opacity(0.15)
+            if let img = image ?? BirdData.cached(bird, folder: folder) {
+                Image(platformImage: img).resizable().scaledToFill()
+            }
+        }
+        .task(id: bird.id) {
+            if image == nil { image = await BirdData.load(bird, folder: folder) }
         }
     }
 }
@@ -71,10 +80,11 @@ struct BirdCell: View {
     let bird: Bird
     var body: some View {
         VStack(alignment: .leading, spacing: 4) {
-            BirdPhoto(bird: bird)
+            // A fixed-size frame with the photo as an overlay, so wide photos cannot widen the cell.
+            Color.clear
                 .frame(height: 130)
                 .frame(maxWidth: .infinity)
-                .clipped()
+                .overlay { BirdPhoto(bird: bird) }
                 .clipShape(RoundedRectangle(cornerRadius: 10))
             Text(bird.name).font(.subheadline.weight(.semibold)).lineLimit(1)
             Text(bird.sci).font(.caption).italic().foregroundStyle(.secondary).lineLimit(1)
@@ -87,9 +97,10 @@ struct TodayCard: View {
     let bird: Bird
     var body: some View {
         ZStack(alignment: .bottomLeading) {
-            BirdPhoto(bird: bird)
+            Color.clear
                 .frame(height: 220)
                 .frame(maxWidth: .infinity)
+                .overlay { BirdPhoto(bird: bird, folder: "Photos") }
                 .clipped()
             LinearGradient(colors: [.clear, .black.opacity(0.65)], startPoint: .center, endPoint: .bottom)
             VStack(alignment: .leading, spacing: 2) {

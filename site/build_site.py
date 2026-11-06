@@ -61,6 +61,12 @@ def clean_licence(l):
     return (l or "").replace("CC-BY-SA", "CC BY-SA").replace("CC-BY", "CC BY")
 
 
+def mass(g):
+    if not g:
+        return ""
+    return f"{g / 1000:.3g} kg" if g >= 1000 else f"{g:.3g} g"
+
+
 def photo_size(url, size):
     return re.sub(r"/(medium|small|large|original)\.", f"/{size}.", url)
 
@@ -232,7 +238,7 @@ class Site:
         traits = s.get("traits") or {}
         cells = [(self.tr(lang, "length"), fmt_range(size.get("bodyLengthCm"), "cm")),
                  (self.tr(lang, "wingspan"), fmt_range(size.get("wingspanCm"), "cm")),
-                 (self.tr(lang, "weight"), f"{traits['massG']:g} g" if traits.get("massG") else "")]
+                 (self.tr(lang, "weight"), mass(traits.get("massG")))]
         cells = [c for c in cells if c[1]]
         if cells:
             parts.append(f'<section><h2>{e(self.tr(lang, "size_title"))}</h2><dl class="kv">' + "".join(f"<dt>{e(k)}</dt><dd>{e(v)}</dd>" for k, v in cells) + "</dl></section>")

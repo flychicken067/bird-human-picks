@@ -25,6 +25,9 @@ targets:
       - path: Resources/App/Photos
         type: folder
         buildPhase: resources
+      - path: Resources/Widget/Thumbs
+        type: folder
+        buildPhase: resources
     info:
       path: App/Info.plist
       properties:
