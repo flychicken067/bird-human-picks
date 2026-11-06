@@ -1,0 +1,369 @@
+obs,scientific_name,verdict,problem
+141220060,Quiscalus nicaraguensis,reject,bird too small
+9729594,Bucephala clangula,reject,several birds
+3149248,Gallinago macrodactyla,reject,bird too small
+4680040,Pelecanus rufescens,reject,several birds
+297439649,Metallura aeneocauda,reject,bird hidden in leaves
+198652212,Pyrrhura molinae,reject,bird too small
+37099625,Sibirionetta formosa,reject,birds too small
+142367144,Odontophorus capueira,reject,two birds
+164596095,Tetraogallus altaicus,reject,bird not visible
+36524776,Chroicocephalus novaehollandiae,reject,adult with chick
+55754710,Hydrobates hornbyi,reject,bird held in hand
+22238849,Vanellus melanopterus,reject,flock
+1947486,Odontophorus guttatus,reject,two birds
+128573166,Trichoglossus johnstoniae,reject,bird not visible
+24001,Tangara schrankii,reject,"nest only, bird not visible"
+69110939,Nothocercus nigrocapillus,reject,hidden
+28931448,Chauna torquata,reject,obscured
+13357794,Branta leucopsis,reject,two chicks
+2629413,Anser cygnoides,reject,domestic form
+15334402,Cairina moschata,reject,domestic form
+11071008,Tadorna cana,reject,blurred
+9878520,Netta erythrophthalma,reject,obscured
+7900299,Aythya novaeseelandiae,reject,"lying down, possibly dead"
+116678138,Sibirionetta formosa,reject,two birds
+251046845,Anas eatoni,reject,too small
+258092865,Anas nesiotis,reject,not visible
+37852800,Penelope purpurascens,reject,obscured
+119865655,Penelope argyrotis,reject,obscured
+40823727,Penelope montagnii,reject,too small
+246707425,Ortalis vetula,reject,too small
+21532123,Ortalis leucogastra,reject,not visible
+17709114,Ortalis ruficauda,reject,too small
+196053062,Ptilopachus petrosus,reject,"several birds, blurred"
+224880457,Dendrortyx leucophrys,reject,obscured
+195294276,Dactylortyx thoracicus,reject,not visible
+59001643,Odontophorus stellatus,reject,blurred
+34989691,Odontophorus balliviani,reject,obscured
+70209043,Odontophorus speciosus,reject,not visible
+1967747,Dendragapus obscurus,reject,head only
+320580979,Canachites canadensis,reject,two birds
+123797591,Tetrao urogalloides,reject,too small
+74263366,Lyrurus tetrix,reject,obscured
+1014748,Syrmaticus reevesii,reject,part of body only
+3092076,Bambusicola fytchii,reject,not visible
+28218410,Gallus gallus,reject,domestic chicken
+69707373,Gallus lafayettii,reject,head only
+138528040,Scleroptila shelleyi,reject,obscured
+69494322,Synoicus chinensis,reject,obscured
+2717257,Synoicus monorthonyx,reject,obscured
+83433913,Coturnix coturnix,reject,too small
+67741311,Alectoris barbara,reject,with chicks
+269965904,Pternistis capensis,reject,with chick
+42406400,Pternistis adspersus,reject,possibly captive
+120048270,Podiceps auritus,reject,drawing
+46427295,Crinifer zonurus,reject,obscured
+59435552,Tauraco violaceus,reject,too small
+323225999,Tauraco leucolophus,reject,too small
+59435550,Tauraco persa,reject,obscured
+58935662,Tauraco corythaix,reject,too small
+21897230,Otis tarda,reject,photo of a screen
+146420515,Sypheotides indicus,reject,too small
+183749550,Neomorphus rufipennis,reject,hidden
+290777151,Neomorphus pucheranii,reject,too small
+63778780,Carpococcyx radiceus,reject,blurred
+102807448,Centropus chalybeus,reject,dark silhouette
+292518625,Centropus goliath,reject,obscured
+139205463,Ceuthmochares aereus,reject,obscured
+109858040,Taccocua leschenaultii,reject,too small
+69707375,Phaenicophaeus pyrrhocephalus,reject,obscured
+29349524,Phaenicophaeus tristis,reject,obscured
+57830779,Clamator coromandus,reject,obscured
+46386785,Clamator glandarius,reject,obscured
+2709441,Microdynamis parva,reject,too small
+4789753,Urodynamis taitensis,reject,obscured
+10806482,Cuculus solitarius,reject,obscured
+149886135,Cuculus gularis,reject,obscured
+3354458,Mesitornis unicolor,reject,blurred
+136713608,Pterocles decoratus,reject,too small
+71579362,Columbina talpacoti,reject,dead
+916100,Leptotila rufaxilla,reject,"lying down, possibly dead"
+90331745,Zenaida macroura,reject,feather only
+52059127,Zentrygon albifacies,reject,head only
+32308494,Reinwardtoena browni,reject,too small
+90158333,Macropygia ruficeps,reject,too small
+4531639,Patagioenas subvinacea,reject,obscured
+188184261,Columba torringtoniae,reject,obscured
+92212502,Columba palumbus,reject,head only
+109452444,Columba bollii,reject,obscured
+145970616,Treron phoenicopterus,reject,obscured
+175403489,Gallicolumba luzonica,reject,blurred
+51766931,Henicophaps albifrons,reject,on a person's arm
+223308803,Pampusana erythroptera,reject,part of body only
+197960616,Ducula cuprea,reject,obscured
+28807119,Ducula badia,reject,obscured
+25648453,Ducula oceanica,reject,obscured
+181152464,Ptilinopus porphyreus,reject,obscured
+64187822,Ptilinopus cinctus,reject,too small
+292518515,Ptilinopus hyogastrus,reject,obscured
+292518595,Ptilinopus monacha,reject,obscured
+175762495,Aramus guarauna,reject,obscured
+150453900,Podica senegalensis,reject,obscured
+67773545,Pardirallus maculatus,reject,obscured
+113966765,Rallus caerulescens,reject,obscured
+251150717,Gallirallus australis,reject,head only
+1584930,Porphyriops melanops,reject,obscured
+73921433,Porzana carolina,reject,obscured
+36060965,Porzana porzana,reject,obscured
+19002498,Coturnicops noveboracensis,reject,held in hand
+203363186,Amaurornis isabellina,reject,obscured
+106425046,Burhinus oedicnemus,reject,blurred
+59758791,Pluvianus aegyptius,reject,back view only
+41836300,Nycticryphes semicollaris,reject,obscured
+141969492,Microparra capensis,reject,too small
+104723016,Metopidius indicus,reject,too small
+106909199,Coenocorypha aucklandica,reject,hidden
+1865012,Coenocorypha pusilla,reject,part of body only
+39488299,Gallinago stenura,reject,obscured
+63556762,Gallinago gallinago,reject,obscured
+13493615,Tringa totanus,reject,backlit silhouette
+159354077,Tringa erythropus,reject,too small
+2507194,Fratercula corniculata,reject,two birds
+1149897,Sterna trudeaui,reject,too small
+170015278,Hydrocoloeus minutus,reject,blurred
+1223140,Larus atlanticus,reject,head only
+71449429,Larus delawarensis,reject,obscured
+562,Larus argentatus,reject,face only
+13855317,Gavia stellata,reject,dead
+123770073,Gavia immer,reject,head only
+19178820,Gavia adamsii,reject,blurred
+1577083,Aptenodytes patagonicus,reject,part of body only
+110489080,Phoebastria albatrus,reject,too small
+88338333,Hydrobates markhami,reject,dead
+173187700,Bulweria fallax,reject,"grounded, possibly dead"
+65734464,Procellaria westlandica,reject,obscured
+174092656,Ardenna gravis,reject,dead
+106604446,Puffinus gavia,reject,held in hand
+305164023,Halobaena caerulea,reject,dead or grounded
+2706320,Pachyptila vittata,reject,grounded
+116329163,Pterodroma inexpectata,reject,dead
+8252838,Pterodroma neglecta,reject,blurred
+2445308,Jabiru mycteria,reject,motion blur
+63888566,Ephippiorhynchus senegalensis,reject,too small
+168672353,Ciconia stormi,reject,obscured
+1149115,Sula sula,reject,face only
+65598864,Sula granti,reject,two birds
+139063956,Sula nebouxii,reject,several birds
+45299952,Anhinga anhinga,reject,silhouette
+37098164,Anhinga melanogaster,reject,silhouette
+293611333,Nannopterum harrisi,reject,partly hidden
+280496595,Leucocarbo atriceps,reject,dead
+239617890,Leucocarbo onslowi,reject,head only
+310556965,Urile urile,reject,obscured
+314963910,Eudocimus albus,reject,obscured
+104870519,Geronticus eremita,reject,head only
+194710359,Pelecanus erythrorhynchos,reject,part of body only
+104552014,Pelecanus occidentalis,reject,part of body only
+57915516,Pelecanus philippensis,reject,too small
+1815567,Cochlearius cochlearius,reject,head only
+33275523,Agamia agami,reject,obscured
+175863720,Botaurus exilis,reject,"odd angle, part of body"
+71136299,Botaurus stellaris,reject,part of body only
+5439263,Botaurus pinnatus,reject,obscured
+190869073,Botaurus flavicollis,reject,too small
+37706114,Nycticorax nycticorax,reject,obscured
+36100556,Butorides virescens,reject,obscured
+199380599,Ardeola idae,reject,obscured
+38052026,Eurostopodus diabolicus,reject,hidden
+4680459,Antrostomus arizonae,reject,back view only
+262292375,Chordeiles minor,reject,two birds
+9512315,Caprimulgus aegyptius,reject,too small
+323970765,Caprimulgus inornatus,reject,obscured
+189954862,Caprimulgus affinis,reject,blurred
+222477467,Steatornis caripensis,reject,"dark, odd angle"
+21629842,Batrachostomus moniliger,reject,hidden
+10374168,Batrachostomus cornutus,reject,hidden
+259377148,Hemiprocne comata,reject,head only
+180371298,Aeronautes saxatalis,reject,obscured
+198113464,Threnetes ruckeri,reject,too small
+19379791,Phaethornis guy,reject,obscured
+255016202,Phaethornis malaris,reject,too small
+197858748,Doryfera ludovicae,reject,obscured
+104993065,Colibri serrirostris,reject,obscured
+14277536,Coeligena prunellei,reject,silhouette
+38241997,Ensifera ensifera,reject,obscured
+71564990,Oreotrochilus estella,reject,hidden
+164321716,Lampornis amethystinus,reject,obscured
+18627033,Mellisuga minima,reject,obscured
+250712213,Calypte anna,reject,"WRONG BIRD: photo shows an owl, not Calypte anna"
+150703301,Calypte costae,reject,blurred
+253695332,Chlorostilbon lucidus,reject,obscured
+207723837,Basilinna xantusii,reject,nest only
+25179488,Eupherusa eximia,reject,obscured
+253536499,Chlorestes notata,reject,two birds
+112997110,Phodilus assimilis,reject,obscured
+134569984,Tyto inexspectata,reject,obscured
+19606109,Ninox boobook,reject,blurred
+175403484,Ninox philippensis,reject,obscured
+108211400,Athene superciliaris,reject,obscured
+37098176,Athene brama,reject,two birds
+39775725,Otus thilohoffmanni,reject,obscured
+179921626,Otus angelinae,reject,obscured
+38149228,Otus bakkamoena,reject,obscured
+25090145,Otus lettia,reject,obscured
+147738165,Otus lempiji,reject,obscured
+39573720,Otus cyprius,reject,obscured
+9494703,Otus hartlaubi,reject,obscured
+9541483,Otus brucei,reject,obscured
+243654480,Asio flammeus,reject,hidden
+190204045,Asio clamator,reject,feather only
+196125760,Jubula lettii,reject,obscured
+230246736,Bubo virginianus,reject,backlit silhouette
+281397966,Ketupa coromanda,reject,silhouette
+138947768,Strix uralensis,reject,obscured
+4921184,Coragyps atratus,reject,part of body only
+36697341,Trigonoceps occipitalis,reject,photo of a camera screen
+1658180,Spizaetus ornatus,reject,part of body only
+35866318,Aerospiza tachiro,reject,obscured
+234486116,Tachyspiza erythrauchen,reject,obscured
+50961561,Tachyspiza trinotata,reject,obscured
+191318120,Circus spilothorax,reject,too small
+201348650,Apalharpactes reinwardtii,reject,obscured
+154688689,Harpactes ardens,reject,obscured
+29620997,Aceros nipalensis,reject,head only
+3845101,Halcyon chelicuti,reject,obscured
+65067513,Psilopogon franklinii,reject,obscured
+222933020,Ramphastos sulfuratus,reject,too small
+244061235,Gecinulus viridis,reject,obscured
+4922044,Colaptes auratus,reject,hidden
+28664069,Cacatua haematuropygia,reject,obscured
+37717013,Cacatua ducorpsii,reject,not visible
+38772267,Amazona xantholora,reject,obscured
+70497006,Amazona mercenarius,reject,obscured
+904618,Pyrrhura molinae,reject,obscured
+19049916,Aratinga weddellii,reject,obscured
+320999030,Psittacula derbiana,reject,backlit
+18284018,Melopsittacus undulatus,reject,domestic colour form
+200451063,Chiroxiphia caudata,reject,obscured
+178881976,Empidonax traillii,reject,obscured
+20577639,Dendrocolaptes sanctithomae,reject,not visible
+133302629,Asthenes harterti,reject,not visible
+107526065,Synallaxis castanea,reject,obscured
+244551788,Synallaxis frontalis,reject,obscured
+16990191,Menura novaehollandiae,reject,obscured
+150405919,Acanthiza lineata,reject,nest
+22601340,Sericornis frontalis,reject,obscured
+44369234,Prionops retzii,reject,obscured
+144425877,Tephrodornis pondicerianus,reject,obscured
+80054536,Vireo flavoviridis,reject,obscured
+15597241,Rhipidura rennelliana,reject,obscured
+11249906,Dicrurus adsimilis,reject,obscured
+1711164,Lanius humeralis,reject,obscured
+80569343,Dendrocitta vagabunda,reject,obscured
+226365536,Poecile carolinensis,reject,too small
+36938735,Alaudala heinei,reject,obscured
+276425008,Phragmacia substriata,reject,obscured
+250363203,Oreolais ruwenzorii,reject,obscured
+10839070,Apalis thoracica,reject,obscured
+119203589,Orthotomus derbianus,reject,obscured
+20297154,Prinia socialis,reject,obscured
+29349519,Prinia inornata,reject,obscured
+1192772,Cisticola eximius,reject,obscured
+35790942,Cisticola natalensis,reject,obscured
+321970584,Cisticola haematocephalus,reject,obscured
+265476280,Cisticola anderseni,reject,obscured
+107153527,Cisticola marginatus,reject,obscured
+39137257,Nesillas mariae,reject,obscured
+102951009,Cettia cetti,reject,obscured
+19286451,Phylloscopus burkii,reject,obscured
+111624267,Phylloscopus occipitalis,reject,obscured
+59789175,Phyllastrephus scandens,reject,obscured
+20046942,Pycnonotus jocosus,reject,head only
+39163816,Zosterops mouroniensis,reject,obscured
+248995,Zosterops modestus,reject,hidden
+103240169,Zosterops erythropleurus,reject,hidden
+251258745,Zosterops lateralis,reject,obscured
+310006517,Illadopsis rufescens,reject,obscured
+34243390,Salpornis salvadori,reject,hidden
+174613910,Cyphorhinus phaeocephalus,reject,obscured
+12704382,Lamprotornis bicolor,reject,obscured
+218558110,Myadestes obscurus,reject,obscured
+11153110,Turdus olivaceus,reject,obscured
+38155277,Turdus assimilis,reject,obscured
+261284550,Muscicapa aquatica,reject,obscured
+28752210,Anthipes solitaris,reject,obscured
+40195770,Cinnyris minullus,reject,held in hand
+92665015,Irena puella,reject,obscured
+112129115,Ploceus galbula,reject,"behind wire, possibly captive"
+8203441,Mycerobas carnipes,reject,"indoors, possibly captive"
+9554966,Serinus pusillus,reject,obscured
+99335386,Ammodramus humeralis,reject,obscured
+1673886,Peucaea sumichrasti,reject,obscured
+256333922,Ammospiza maritima,reject,obscured
+158228289,Myiothlypis cinereicollis,reject,two birds
+24845155,Cardellina pusilla,reject,held in hand
+214705107,Passerina amoena,reject,part hidden
+103607618,Cardinalis cardinalis,reject,drawing
+32918905,Poospiza baeri,reject,obscured
+19106015,Iridosornis porphyrocephalus,reject,obscured
+66049570,Thraupis episcopus,reject,obscured
+17064640,Anser cygnoides,reject,domestic form
+9861393,Cairina moschata,reject,possibly domestic
+258092866,Anas nesiotis,reject,not visible
+146241173,Penelope argyrotis,reject,obscured
+106694094,Ptilopachus petrosus,reject,"blurred, obscured"
+203308459,Dendrortyx leucophrys,reject,obscured
+123774721,Tetrao urogalloides,reject,obscured
+3273189,Gallus gallus,reject,possibly domestic
+47972783,Coturnix coturnix,reject,dead
+102758885,Taccocua leschenaultii,reject,obscured
+107027093,Clamator glandarius,reject,obscured
+10806540,Cuculus solitarius,reject,obscured
+271762196,Zenaida macroura,reject,head only
+68194559,Pardirallus maculatus,reject,obscured
+251150736,Gallirallus australis,reject,head only
+134069278,Porzana carolina,reject,obscured
+154288841,Porzana porzana,reject,obscured
+35561617,Coturnicops noveboracensis,reject,obscured
+40306185,Burhinus oedicnemus,reject,blurred
+36868664,Nycticryphes semicollaris,reject,image did not load
+195540838,Coenocorypha aucklandica,reject,obscured
+78172,Aptenodytes patagonicus,reject,two birds
+174092657,Ardenna gravis,reject,dead
+1854775,Pachyptila vittata,reject,obscured
+70014273,Sula sula,reject,face only
+239908595,Nannopterum harrisi,reject,obscured
+258942498,Geronticus eremita,reject,head only
+9541462,Butorides virescens,reject,obscured
+240459098,Phaethornis malaris,reject,obscured
+106271453,Doryfera ludovicae,reject,too small
+149036980,Oreotrochilus estella,reject,obscured
+80467407,Phodilus assimilis,reject,obscured
+17840137,Ninox boobook,reject,obscured
+117510785,Otus thilohoffmanni,reject,obscured
+178195344,Otus lempiji,reject,obscured
+281400922,Ketupa coromanda,reject,obscured
+71125810,Strix uralensis,reject,face only
+197686964,Aerospiza tachiro,reject,obscured
+131524888,Ramphastos sulfuratus,reject,obscured
+54801786,Aratinga weddellii,reject,obscured
+17497608,Melopsittacus undulatus,reject,obscured
+151728881,Orthotomus derbianus,reject,obscured
+191452629,Prinia socialis,reject,obscured
+19286477,Phylloscopus burkii,reject,obscured
+120625368,Zosterops lateralis,reject,head only
+33948443,Salpornis salvadori,reject,hidden
+260295036,Turdus olivaceus,reject,obscured
+158228287,Myiothlypis cinereicollis,reject,obscured
+48906287,Anser cygnoides,reject,domestic form
+215592247,Dendrortyx leucophrys,reject,obscured
+140462065,Gallus gallus,reject,possibly domestic
+276010321,Coturnix coturnix,reject,head only
+148529148,Pardirallus maculatus,reject,obscured
+68187965,Porzana carolina,reject,"possibly held, two birds"
+258092852,Coenocorypha aucklandica,reject,hidden
+7496886,Ardenna gravis,reject,part of body only
+3719772,Pachyptila vittata,reject,dead
+255196197,Sula sula,reject,head only
+109679999,Phaethornis malaris,reject,obscured
+49843999,Strix uralensis,reject,obscured
+182874497,Orthotomus derbianus,reject,obscured
+19326817,Phylloscopus burkii,reject,obscured
+256732773,Zosterops lateralis,reject,obscured
+72299394,Anser cygnoides,reject,domestic form
+175776793,Dendrortyx leucophrys,reject,"unclear, lying down"
+81649658,Gallus gallus,reject,unclear dark shape
+195564314,Coenocorypha aucklandica,reject,hidden
+117887965,Gallus gallus,reject,chick
+species:Gallus_gallus,Gallus gallus,reject,"most photos show domestic birds; species left out"

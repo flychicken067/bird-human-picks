@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>鸟类人选精选</title>
+<style>
+:root{--bg:#fbfaf7;--card:#fff;--ink:#1d1d1b;--muted:#6b6a65;--line:#e4e1d9;--accent:#2f6b4f;--warn:#a5532a;--img:#f1efe9}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#171716;--card:#21211f;--ink:#ecebe6;--muted:#a3a29b;--line:#363631;--accent:#7fc29f;--warn:#e39a74;--img:#2a2a27}}
+:root[data-theme="dark"]{--bg:#171716;--card:#21211f;--ink:#ecebe6;--muted:#a3a29b;--line:#363631;--accent:#7fc29f;--warn:#e39a74;--img:#2a2a27}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,"PingFang SC","Noto Sans SC",sans-serif}
+main{max-width:1180px;margin:0 auto;padding:28px 16px 60px}
+h1{font-size:26px;margin:0 0 6px}
+.lead{color:var(--muted);margin:0 0 18px;max-width:760px}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:0 0 18px}
+.fact{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}
+.fact b{display:block;font-size:22px}
+.fact span{color:var(--muted);font-size:13px}
+details{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:0 0 18px}
+summary{cursor:pointer;font-weight:600}
+details li{margin:4px 0}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px;align-items:center}
+input,select{font:inherit;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+input{flex:1;min-width:200px}
+#count{color:var(--muted);font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line)}
+.pair figure{margin:0;background:var(--img);position:relative}
+.pair img{width:100%;height:170px;object-fit:contain;display:block}
+.pair figcaption{position:absolute;left:6px;top:6px;font-size:11px;background:rgba(0,0,0,.55);color:#fff;padding:1px 6px;border-radius:4px}
+.meta{padding:10px 12px;font-size:13px}
+.name{font-size:15px;font-weight:600}
+.sci{color:var(--muted);font-style:italic}
+.ev{color:var(--accent);margin-top:4px}
+.low{color:var(--warn)}
+.credit{color:var(--muted);font-size:12px;margin-top:4px;word-break:break-word}
+a{color:var(--accent)}
+#more{display:block;margin:18px auto;padding:9px 20px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;cursor:pointer}
+@media (max-width:420px){.grid{grid-template-columns:1fr}.pair img{height:140px}}
+</style>
+</head>
+<body>
+<main>
+<h1>鸟类人选精选</h1>
+<p class="lead">这一版只收录满足以下条件的鸟种：iNaturalist 上的野外照片，至少 3 个账号在至少 3 个不同月份认定为同一物种，而且没有人给出其他物种的鉴定。每种鸟都和花叔 2.2.0 的 AI 贴纸并排展示。图片全部由人拍摄，物种对错依据人的鉴定，不由模型判断。</p>
+<div class="facts" id="facts"></div>
+<details>
+<summary>规则和局限</summary>
+<ul>
+<li>鸟种必须在花叔版有贴纸，且 AviList 没有调整过它的物种划分，iNaturalist 的学名也必须完全一致。</li>
+<li>照片需在 2025-11-05 之前上传，授权为 CC0、CC BY 或 CC BY-SA，原图长边至少 1200 像素。</li>
+<li>每张照片先由鸟类检测模型筛选构图：画面里只能有一只鸟、鸟要够大、不能有人或手。之后由 Claude 逐张看过，排除被遮挡、只拍到头、死鸟、家禽、手绘画、翻拍屏幕和拍错鸟的照片，每条排除记录都在 eye-check.csv。模型和 Claude 都不判断物种。</li>
+<li>3 个账号不等于 3 位专家，他们也可能跟随别人的鉴定。这一版还没有经过鸟友评审。</li>
+<li>真实照片的姿态、光线和背景各不相同，不是统一的透明贴纸风格。</li>
+<li>图片直接从 iNaturalist 和 GitHub 加载，需要联网才能显示。</li>
+</ul>
+</details>
+<div class="bar">
+<input id="q" placeholder="搜中文名、英文名、学名或科名" aria-label="搜索">
+<select id="f" aria-label="筛选">
+<option value="all">全部</option>
+<option value="below">花叔贴纸未达他自己的标准</option>
+<option value="five">5 人以上认定</option>
+</select>
+<span id="count"></span>
+</div>
+<div class="grid" id="grid"></div>
+<button id="more">再显示 60 种</button>
+</main>
+<script>
+const D=__DATA__, S=__STATS__;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fact=(b,s)=>`<div class="fact"><b>${b}</b><span>${s}</span></div>`;
+document.getElementById("facts").innerHTML=
+ fact(S.selected.toLocaleString(),`入选鸟种，约为花叔 ${S.huashu_stickers.toLocaleString()} 种的 1/${Math.round(S.huashu_stickers/S.selected)}`)+
+ fact(S.huashu_below_bar_in_selection,"其中花叔的贴纸未达他自己的质量标准")+
+ fact(S.fetched_species.toLocaleString()+" / 11,011","已查询的鸟种，全量查询仍在进行，入选数会继续增加")+
+ fact("0","经过鸟友评审的鸟种");
+let shown=0, list=D;
+function card(r){
+ const [id,zh,en,sci,fam,agree,months,photo,obs,lic,credit,sticker,score,bar]=r;
+ return `<article class="card"><div class="pair">
+ <figure><img loading="lazy" src="${esc(sticker)}" alt="花叔版 ${esc(zh||en)}"><figcaption>花叔 AI 贴纸</figcaption></figure>
+ <figure><img loading="lazy" src="${esc(photo)}" alt="${esc(zh||en)} 照片"><figcaption>人拍照片</figcaption></figure></div>
+ <div class="meta"><div class="name">${esc(zh||en)} <span class="sci">${esc(sci)}</span></div>
+ <div>${esc(en)} · ${esc(fam)}</div>
+ <div class="ev">${agree} 人认定，跨 ${months} 个月 · <a href="${esc(obs)}" target="_blank" rel="noopener">看观测</a></div>
+ <div class="${bar==="no"?"low":""}">花叔评分 ${esc(score)}${bar==="no"?"，未达他的标准":""}</div>
+ <div class="credit">${esc(credit)} · ${esc(lic)}</div></div></article>`;
+}
+function render(reset){
+ if(reset){shown=0;document.getElementById("grid").innerHTML=""}
+ const next=list.slice(shown,shown+60);
+ document.getElementById("grid").insertAdjacentHTML("beforeend",next.map(card).join(""));
+ shown+=next.length;
+ document.getElementById("count").textContent=`${list.length.toLocaleString()} 种`;
+ document.getElementById("more").style.display=shown<list.length?"block":"none";
+}
+function apply(){
+ const q=document.getElementById("q").value.trim().toLowerCase(), f=document.getElementById("f").value;
+ list=D.filter(r=>(!q||[r[1],r[2],r[3],r[4]].join(" ").toLowerCase().includes(q))&&(f==="all"||(f==="below"&&r[13]==="no")||(f==="five"&&r[5]>=5)));
+ render(true);
+}
+document.getElementById("q").addEventListener("input",apply);
+document.getElementById("f").addEventListener("change",apply);
+document.getElementById("more").addEventListener("click",()=>render(false));
+render(true);
+</script>
+</body>
+</html>

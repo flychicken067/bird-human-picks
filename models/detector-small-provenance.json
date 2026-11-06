@@ -1,0 +1,9 @@
+{
+ "model": "onnx-community/yolov10s",
+ "revision": "7485ebdc9f6c8ffe6396a5b1ae02c09ac173be0c",
+ "file": "onnx/model.onnx",
+ "license": "AGPL-3.0",
+ "sha256": "e2df1b4f5190e1ab4b7305181b2a80eb84ed7cc36d11aee0318781e91b0ad0b8",
+ "hf_lfs_sha256_verified": true,
+ "purpose": "bird presence/count only, not species identification"
+}
