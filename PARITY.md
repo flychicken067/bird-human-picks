@@ -9,25 +9,27 @@ Benchmark: https://birdalbum.com（2026-11-06 抓取首页、关于、贴纸制�
 | 3 | 每页都有摘要、分享图、图标和规范网址 | **PASS** | PASS: 18165/18165 files match /<meta name="description" content="[^"]{20,}/<br>PASS: 18165/18165 files match /<meta property="og:image" content="https:///<br>PASS: 18165/18165 files match /rel="icon"/<br>PASS: 18165/18165 files match /rel="canonical"/<br>PASS: docs/assets/og.png<br>PASS: docs/assets/favicon.png |
 | 4 | 有现成的引用文字和摄影师撤回渠道 | **PASS** | PASS: 1209/1209 files match /class="cite"/<br>PASS: docs/method/index.html: /我是摄影师/ found '我是摄影师'<br>PASS: docs/en/method/index.html: /photographer/ found 'photographer'<br>PASS: .github/ISSUE_TEMPLATE/photographer-opt-out.yml |
 | 5 | 默认只显示我们的照片，对比是可选项 | **PASS** | PASS: docs/index.html: /<input id="cmp" type="checkbox">/ found '<input id="cmp" type="checkbox">'<br>PASS: 1209/1209 files match /<details class="compare">/ |
-| 6 | 对比用的是花叔最新的数据 | **PASS** | PASS: upstream alchaincyf/huashu-bird-sticker:data/species.json at 3abd6f6, site built from 3abd6f6 |
+| 6 | 对比用的是花叔最新的数据 | **FAIL** | FAIL: upstream alchaincyf/huashu-bird-sticker:data/species.json at b700c37, site built from 8f28a08 |
 | 7 | 每种入选鸟都有独立页面 | **PASS** | PASS: 1209 files for docs/birds/*/index.html, need >= 1209 |
 | 8 | 物种页有体型、保护等级、分布和其他语言名字 | **PASS** | PASS: 1146/1209 files match /IUCN/; e.g. missing in ['docs/birds/african-barred-owlet/index.html', 'docs/birds/african-green-pigeon/index.html', 'docs/birds/amethyst-brown-dove/index.html']<br>PASS: 1188/1209 files match /<h2>体型</h2>/; e.g. missing in ['docs/birds/besra/index.html', 'docs/birds/black-mantled-goshawk/index.html', 'docs/birds/black-sparrowhawk/index.html']<br>PASS: 1209/1209 files match /<h2>分布</h2>/<br>PASS: 1209/1209 files match /<h2>其他语言的名字</h2>/ |
 | 9 | 15 种语言，每种语言都有首页、方法页和全部物种页 | **PASS** | PASS: docs/en/index.html<br>PASS: docs/en/method/index.html<br>PASS: 1209 files for docs/en/birds/*/index.html, need >= 1209<br>PASS: docs/zh-hant/index.html<br>PASS: docs/zh-hant/method/index.html<br>PASS: 1209 files for docs/zh-hant/birds/*/index.html, need >= 1209<br>PASS: docs/ja/index.html<br>PASS: docs/ja/method/index.html<br>PASS: 1209 files for docs/ja/birds/*/index.html, need >= 1209<br>PASS: docs/ko/index.html<br>PASS: docs/ko/method/index.html<br>PASS: 1209 files for docs/ko/birds/*/index.html, need >= 1209<br>PASS: docs/de/index.html<br>PASS: docs/de/method/index.html<br>PASS: 1209 files for docs/de/birds/*/index.html, need >= 1209<br>PASS: docs/fr/index.html<br>PASS: docs/fr/method/index.html<br>PASS: 1209 files for docs/fr/birds/*/index.html, need >= 1209<br>PASS: docs/es/index.html<br>PASS: docs/es/method/index.html<br>PASS: 1209 files for docs/es/birds/*/index.html, need >= 1209<br>PASS: docs/pt-br/index.html<br>PASS: docs/pt-br/method/index.html<br>PASS: 1209 files for docs/pt-br/birds/*/index.html, need >= 1209<br>PASS: docs/it/index.html<br>PASS: docs/it/method/index.html<br>PASS: 1209 files for docs/it/birds/*/index.html, need >= 1209<br>PASS: docs/nl/index.html<br>PASS: docs/nl/method/index.html<br>PASS: 1209 files for docs/nl/birds/*/index.html, need >= 1209<br>PASS: docs/ru/index.html<br>PASS: docs/ru/method/index.html<br>PASS: 1209 files for docs/ru/birds/*/index.html, need >= 1209<br>PASS: docs/sv/index.html<br>PASS: docs/sv/method/index.html<br>PASS: 1209 files for docs/sv/birds/*/index.html, need >= 1209<br>PASS: docs/da/index.html<br>PASS: docs/da/method/index.html<br>PASS: 1209 files for docs/da/birds/*/index.html, need >= 1209<br>PASS: docs/pl/index.html<br>PASS: docs/pl/method/index.html<br>PASS: 1209 files for docs/pl/birds/*/index.html, need >= 1209 |
 | 10 | AI 翻译的语言页标明未经逐句校对 | **PASS** | PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/<br>PASS: 1/1 files match /class="note"/ |
 | 11 | 数据集达到花叔 data/ 的字段标准 | **PASS** | PASS: data/species.json<br>PASS: data/species.csv<br>PASS: data/names.csv<br>PASS: data/languages.json<br>PASS: data/field-guide.zh-Hans.json<br>PASS: data/coverage.json<br>PASS: data/README.md<br>PASS: 1209 files for docs/birds/*/index.html, need >= 1209<br>PASS: data/README.md: /\\| Field \\| What it is \\| Source \\| Coverage \\|/ found '\| Field \| What it is \| Source \| Coverage \|'<br>PASS: data/README.md: /## Sources/ found '## Sources'<br>PASS: data/species.json: /"huashuData": \{\s*"version"/ found '"huashuData": {\n  "version"' |
 | 12 | 每张照片都有来源页、尺寸、授权、授权链接和认定证据 | **PASS** | PASS: data/coverage.json[count] = 1209, want ge 1209<br>PASS: data/coverage.json: /"photo.page": 1209/ found '"photo.page": 1209'<br>PASS: data/coverage.json: /"photo.url": 1209/ found '"photo.url": 1209'<br>PASS: data/coverage.json: /"photo.width": 1209/ found '"photo.width": 1209'<br>PASS: data/coverage.json: /"photo.height": 1209/ found '"photo.height": 1209'<br>PASS: data/coverage.json: /"photo.authorUrl": 1209/ found '"photo.authorUrl": 1209'<br>PASS: data/coverage.json: /"photo.license": 1209/ found '"photo.license": 1209'<br>PASS: data/coverage.json: /"photo.licenseUrl": 1209/ found '"photo.licenseUrl": 1209'<br>PASS: data/coverage.json: /"photo.observation": 1209/ found '"photo.observation": 1209'<br>PASS: data/coverage.json: /"evidence.agreeingIdentifiers": 1209/ found '"evidence.agreeingIdentifiers": 1209'<br>PASS: data/coverage.json: /"evidence.identificationMonths": 1209/ found '"evidence.identificationMonths": 1209'<br>PASS: data/coverage.json: /"checks.framing": 1209/ found '"checks.framing": 1209'<br>PASS: data/coverage.json: /"checks.eyeCheck": 1209/ found '"checks.eyeCheck": 1209'<br>PASS: data/coverage.json: /"ids.inaturalist": 1209/ found '"ids.inaturalist": 1209' |
+| 13 | 仓库介绍和花叔一样：11 种语言 README、头图、画廊、同样的章节 | **PASS** | PASS: README.md<br>PASS: README.zh-Hans.md<br>PASS: README.zh-Hant.md<br>PASS: README.ja.md<br>PASS: README.ko.md<br>PASS: README.es.md<br>PASS: README.fr.md<br>PASS: README.de.md<br>PASS: README.pt.md<br>PASS: README.ru.md<br>PASS: README.ar.md<br>PASS: 11/11 files match /previews/header\.jpg/<br>PASS: 11/11 files match /previews/families/trochilidae\.jpg/<br>PASS: 11/11 files match /previews/orders\.jpg/<br>PASS: 11/11 files match /<details><summary>/<br>PASS: 11/11 files match /git sparse-checkout set data/<br>PASS: README.zh-Hans.md: /## 画廊[\s\S]*## 里面有什么[\s\S]*## 覆盖情况[\s\S]*## 照片怎么选的，质量如何[\s\S]*## 署名与撤下[\s\S]*## 怎么用[\s\S]*## 致谢/ found '## 画廊\n\n按已收录的鸟种分组，每组 12 张，同一个属尽量只放一张，优先认定人数多的。每张图下面列了摄影师。\n\n##'<br>PASS: previews/credits.json |
 
-12 of 12 items pass, 0 fail, 0 unknown.
+12 of 13 items pass, 1 fail, 0 unknown.
 
-## 人工检查（2026-11-06，本机浏览器）
+## Manual checks
 
-| 检查 | 页面和尺寸 | 结果 |
-|---|---|---|
-| 没有横向滚动 | 首页、林鳽物种页、俄语方法页，375×812 | 通过 |
-| 图片加载，勾选“并排显示”后出现花叔贴纸 | 首页 375 宽，60 张卡片都切换为并排 | 通过 |
-| 语言菜单切到同一种鸟的其他语言页面 | 林鳽页切日语，链接到 /ja/birds/forest-bittern/ | 通过 |
+| Check | Where | Result | Date |
+|---|---|---|---|
+| 没有横向滚动 | 首页、林鳽物种页、俄语方法页，375×812 | 通过 | 2026-11-06 |
+| 图片加载，勾选“并排显示”后出现花叔贴纸 | 首页 375 宽，60 张卡片都切换为并排 | 通过 | 2026-11-06 |
+| 语言菜单切到同一种鸟的其他语言页面 | 林鳽页切日语，链接到 /ja/birds/forest-bittern/ | 通过 | 2026-11-06 |
 
-## 改动记录
+## Changes
 
-- 2026-11-06：第 6 项两次报失败（花叔发布 2.2.7 和之后的 3abd6f6），每次按新数据用 `scripts/rebuild_all.sh` 重建后通过。
-- 2026-11-06：新增第 11、12 项，对标花叔 `data/` 的文件和字段标准。
+- 2026-11-06：第 6 项三次报失败（花叔发布 2.2.7、3abd6f6、8f28a08），每次用 scripts/rebuild_all.sh 按新数据重建后通过。
+- 2026-11-06：新增第 11、12 项，对标花叔 data/ 的文件和字段标准。
+- 2026-11-07：新增第 13 项，对标花叔仓库介绍：11 种语言 README、头图、画廊和同样的章节。

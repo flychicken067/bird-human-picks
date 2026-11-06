@@ -1,7 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 # Rebuild everything against huashu-bird-sticker's latest data.
 # Usage: scripts/rebuild_all.sh <project dir holding work/k and 精选版/>   (run from the repo root)
-set -e
+set -eo pipefail
+trap 'echo "rebuild_all.sh failed at line $LINENO" >&2' ERR
 W="$1"
 SHA=$(gh api "repos/alchaincyf/huashu-bird-sticker/commits?path=data/species.json&per_page=1" --jq '.[0].sha[0:7]')
 H="$W/work/huashu-latest"

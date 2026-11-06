@@ -29,12 +29,12 @@ text = f"""# Data
 
 | File | Contents | License |
 |---|---|---|
-| `species.json` | Everything below except the Chinese field-guide text | MIT for our compilation; fields copied from huashu-bird-sticker are MIT there; third-party fields keep their terms (see Sources) |
+| `species.json` | Everything below except the Chinese field-guide text | CC BY 4.0 for our compilation; fields copied from huashu-bird-sticker stay MIT; third-party fields keep their terms (see Sources) |
 | `species.csv` | Taxonomy, main names, IDs, photo, evidence and the matching huashu sticker | as above |
 | `names.csv` | Names in 43 languages for the {n:,} species, one column per language | English: CC BY 4.0 (AviList); others: CC BY 3.0 (IOC) |
 | `languages.json` | Language codes and the IOC multilingual column each comes from | MIT (huashu-bird-sticker) |
 | `field-guide.zh-Hans.json` | Chinese field-guide notes for {cov['fieldGuide']:,} of the species | CC BY-SA 4.0 (huashu-bird-sticker) |
-| `coverage.json` | How many records have each field; this README is generated from it | MIT |
+| `coverage.json` | How many records have each field; this README is generated from it | CC BY 4.0 |
 
 ## Fields in `species.json`
 

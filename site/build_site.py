@@ -269,8 +269,9 @@ class Site:
             note = self.tr(lang, "compare_note", s=score, bar="" if ok else self.tr(lang, "bar_no"))
             parts.append(f"""<section><details class="compare"><summary>{e(self.tr(lang, 'compare_title'))}</summary>
 <div class="pair"><figure><img loading="lazy" src="{e(photo_size(p['photo'], 'medium'))}" alt="{e(name)}"><figcaption>{e(self.tr(lang, 'photo_cap'))}</figcaption></figure>
-<figure><img loading="lazy" src="{e(st)}" alt="{e(self.tr(lang, 'huashu_cap'))} {e(name)}"><figcaption>{e(self.tr(lang, 'huashu_cap'))}</figcaption></figure></div>
-<p class="muted small">{e(note)}</p></details></section>""")
+<figure><img loading="lazy" data-sticker="{e(st[len(self.raw):])}" alt="{e(self.tr(lang, 'huashu_cap'))} {e(name)}"><figcaption>{e(self.tr(lang, 'huashu_cap'))}</figcaption></figure></div>
+<p class="muted small">{e(note)}</p></details></section>
+<script src="{'../' * depth}assets/huashu.js"></script>""")
         sub = [x for x in [s["names"].get("en") if lang != "en" else None, s["names"].get("zh-Hans") if lang not in ("zh-Hans", "zh-Hant") else None] if x and x != name]
         body = f"""<main class="wrap species">
 <h1>{e(name)}</h1>
@@ -315,6 +316,10 @@ class Site:
         os.makedirs(os.path.join(self.out, "assets"), exist_ok=True)
         for f in ("site.css", "site.js"):
             shutil.copy(os.path.join(HERE, f), os.path.join(self.out, "assets", f))
+        # The pinned huashu commit lives only here, so a new commit rewrites one file instead of every species page.
+        open(os.path.join(self.out, "assets", "huashu.js"), "w", encoding="utf-8").write(
+            "// Huashu sticker base URL, pinned to the data commit this site was built from.\n"
+            f"(function(){{var base={json.dumps(self.raw)};document.querySelectorAll('img[data-sticker]').forEach(function(i){{i.src=base+i.getAttribute('data-sticker');}});}})();\n")
         try:
             from PIL import Image, ImageDraw, ImageFont
         except ImportError:
