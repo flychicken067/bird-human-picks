@@ -1,0 +1,32 @@
+name: 照片有误 / Wrong photo
+description: 这张照片不是这种鸟，或者画面有问题 / The photo shows the wrong bird or has another problem
+labels: [wrong-photo]
+body:
+  - type: input
+    id: species
+    attributes:
+      label: 鸟种 / Species
+    validations:
+      required: true
+  - type: input
+    id: photo
+    attributes:
+      label: 照片对应的观测 / Observation link
+  - type: dropdown
+    id: problem
+    attributes:
+      label: 问题 / Problem
+      options:
+        - 不是这个物种 / Wrong species
+        - 看不清或只拍到局部 / Bird hard to see or partly shown
+        - 不是野外的鸟（笼养、家禽、标本、死鸟） / Not a wild live bird
+        - 其他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 你是怎么知道的 / How do you know
+      description: 例如辨识特征、参考的图鉴 / e.g. field marks, the field guide you used
+    validations:
+      required: true

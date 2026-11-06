@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flychicken067.github.io/bird-human-picks/sitemap.xml

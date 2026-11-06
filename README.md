@@ -4,17 +4,17 @@
 
 每种鸟选一张 iNaturalist 上的野外照片，要求至少 3 个账号在至少 3 个不同月份认定它是这个物种，并且没有人给出别的物种。页面把这张照片和花叔的贴纸并排放，方便直接比较。
 
-打开 [`docs/index.html`](docs/index.html) 查看（图片在线加载，需要联网）。
+网站：https://flychicken067.github.io/bird-human-picks/ ，15 种语言，每种鸟一个页面（体型、保护等级、分布、各语言鸟名、引用方式、报错入口），可选和花叔贴纸并排对比。
 
 ## 现在的数字
 
 | | |
 |---|---|
-| 入选鸟种 | 1,209 种，约为花叔 10,973 种的 1/9 |
+| 入选鸟种 | 1,209 种（花叔有贴纸的是 10,973 种） |
 | 已查询的鸟种 | 7,894 / 11,011，全量查询仍在进行，入选数会继续增加 |
 | 每种鸟的鉴定 | 中位数 5 个账号，跨 3 个不同月份 |
 | 照片授权 | CC BY 923 张，CC0 163 张，CC BY-SA 123 张 |
-| 花叔贴纸未达他自己标准的鸟种 | 55 种 |
+| 花叔贴纸未达他自己标准的鸟种 | 5 种（按花叔 2.2.6 数据；2.2.0 时是 55 种，他已重画了一批） |
 | 和花叔的错误数比较 | 要等两版公开一段时间、积累了被人指出的错误后才能做 |
 
 ## 入选规则
@@ -69,7 +69,8 @@
 
 | 路径 | 内容 |
 |---|---|
-| `docs/index.html` | 对比页面 |
+| `docs/` | 网站（由 `site/build_site.py` 生成，15 种语言、18,165 个页面） |
+| `parity.json`、`PARITY.md` | 对标花叔 birdalbum.com 的检查清单和最新检查结果，用 [ivan-parity](https://github.com/flychicken067/ivan-parity) 检查 |
 | `docs/picks.csv` | 入选清单：物种、认定人数和月份、照片、观测链接、授权、作者、对应的花叔贴纸 |
 | `docs/eye-check.csv` | 看图排除记录 |
 | `docs/stats.json` | 每条未入选原因的计数 |
@@ -78,14 +79,19 @@
 
 ## 自己重新生成
 
-需要 Python 3、Pillow、numpy、onnxruntime，以及花叔仓库 2.2.0 的 `data/species.json`。
+需要 Python 3、Pillow、numpy、onnxruntime，以及花叔仓库的 `data/species.json`（网站还要 `data/field-guide.zh-Hans.json`）。
 
 检测模型权重是 AGPL-3.0，没有放进本仓库。从 Hugging Face 的 `onnx-community/yolov10s`（revision 见 `models/detector-small-provenance.json`）下载 `onnx/model.onnx`，存为 `models/yolov10s-onnx-model.onnx`，脚本会校验 sha256。
 
 ```sh
 python3 scripts/k_fetch_inat.py <species.json> work work/priority.json
 python3 scripts/k_photo_check.py <species.json> work/inat-obs.jsonl work/inat-taxa.json work
-python3 scripts/k_build_select.py <species.json> work/inat-obs.jsonl work/inat-taxa.json docs work/photo-check-v2.jsonl docs/eye-check.csv
+python3 scripts/k_build_select.py <species.json> work/inat-obs.jsonl work/inat-taxa.json work/select work/photo-check-v2.jsonl docs/eye-check.csv
+cp work/select/picks.csv docs/picks.csv
+# 网站：花叔仓库的 species.json 和 field-guide.zh-Hans.json，加上它们所在的提交
+python3 site/build_site.py docs/picks.csv docs/eye-check.csv <species.json> <field-guide.zh-Hans.json> <花叔提交> docs work/photos
+# 对标检查
+python3 <ivan-parity>/scripts/parity_check.py parity.json --out PARITY.md
 ```
 
 采集脚本按 iNaturalist 的建议限速：每次请求间隔约 1 秒，每 24 小时不超过 8,000 次。

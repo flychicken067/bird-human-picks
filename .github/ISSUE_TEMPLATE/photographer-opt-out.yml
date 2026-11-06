@@ -1,0 +1,17 @@
+name: 摄影师撤回照片 / Remove my photo
+description: 我拍的照片不希望被收录 / I took this photo and want it removed
+labels: [opt-out]
+body:
+  - type: input
+    id: photo
+    attributes:
+      label: 照片或观测链接 / Photo or observation link
+    validations:
+      required: true
+  - type: input
+    id: species
+    attributes:
+      label: 鸟种（可选）/ Species (optional)
+  - type: markdown
+    attributes:
+      value: 我们会在 7 天内换掉这张照片，以后也不再使用。/ We will replace it within 7 days and not use it again.
