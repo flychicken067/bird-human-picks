@@ -13,3 +13,9 @@ This repository links to, but does not contain, material from these sources.
 # 说明
 
 本仓库只链接、不存放以下内容：iNaturalist 照片（版权归摄影师，授权见 `docs/picks.csv`）；花叔的贴纸（CC BY 4.0）；检测模型权重（AGPL-3.0）。不保存鉴定者姓名和观测坐标。
+
+## huashu-bird-sticker data (MIT)
+
+`data/` and the species pages reuse fields from huashu-bird-sticker's `data/species.json`, `names.csv`, `languages.json` and `field-guide.zh-Hans.json` (pinned commit in `data/species.json` → `huashuData`).
+
+Those fields are MIT-licensed by Huashu (alchaincyf); the full license text, with its copyright notice, is in [LICENSES/huashu-bird-sticker-MIT.txt](LICENSES/huashu-bird-sticker-MIT.txt). Third-party parts of that data keep their own terms: AviList (CC BY 4.0), IOC World Bird List (CC BY 3.0), AVONET (CC BY 4.0), Wikidata (CC0); the Chinese field-guide notes are CC BY-SA 4.0.

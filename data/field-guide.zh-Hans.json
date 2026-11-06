@@ -1,0 +1,4808 @@
+{
+ "license": "CC BY-SA 4.0",
+ "note": "中文图鉴文字，依据维基百科等资料改写；basedOn 为主要依据页面。",
+ "source": "huashu-bird-sticker 3abd6f6",
+ "count": 325,
+ "species": {
+  "Dromaius_novaehollandiae": {
+   "impression": "蓬松褐羽、长脖子长腿，不会飞却善于奔跑。",
+   "marks": [
+    "体羽灰褐，显得蓬松",
+    "颈长，稀疏羽下透出浅蓝皮肤",
+    "腿长，没有羽毛",
+    "每只脚有三根趾"
+   ],
+   "sexAge": "雌雄外观相似，雌鸟通常稍大，腰部明显更宽。",
+   "funFact": "它会吞下小石头，帮助消化食物。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%B8%B8%E9%B9%8B"
+  },
+  "Casuarius_casuarius": {
+   "impression": "成鸟头顶像戴头盔，喉下垂着两条红色肉垂。",
+   "marks": [
+    "成鸟喉下有两条红色肉垂",
+    "成鸟脸蓝色，颈长",
+    "成鸟体羽黑而粗硬"
+   ],
+   "sexAge": "雌雄羽色相似，雌鸟体型更大、头盔较长、嘴较大，裸露皮肤更鲜艳。",
+   "funFact": "孵蛋和带小鸟都是雄鸟独自完成的。",
+   "call": "繁殖季叫声轰隆如雷，平时也发嘶声和低沉的隆隆声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8D%97%E6%96%B9%E9%B6%B4%E9%B4%95"
+  },
+  "Cygnus_atratus": {
+   "impression": "黑羽红嘴的大型天鹅，长脖子常弯成S形。",
+   "marks": [
+    "全身黑羽，飞起来露白色飞羽",
+    "喙亮红色，带浅色横带和浅尖",
+    "脖子很长，常弯成S形",
+    "腿脚灰黑色"
+   ],
+   "sexAge": "雄鸟比雌鸟稍大，喙更直更长；雏鸟是灰棕色。",
+   "funFact": "蛋滚出巢外，双亲都会用脖子捡回来，别的天鹅只有雌鸟会。",
+   "call": "飞行或游水时有响亮如军号的叫声，也会低声轻哼。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E5%A4%A9%E9%B9%85"
+  },
+  "Cygnus_columbianus": {
+   "impression": "比大天鹅小一号，嘴黑，基部黄色区域也更小。",
+   "marks": [
+    "通体白色，脚黑色",
+    "嘴黑，基部黄色区域小",
+    "上嘴侧的黄色不成前尖",
+    "比大天鹅颈短、头更圆"
+   ],
+   "sexAge": "雌鸟比雄鸟稍小，外观没有别的差异；亚成鸟头颈带灰色，嘴基有大片脏粉色。",
+   "similar": [
+    {
+     "sci": "Cygnus cygnus",
+     "zh": "大天鹅",
+     "diff": "小天鹅体型稍小，嘴基黄色区域更小，黄色前缘不成尖。"
+    }
+   ],
+   "funFact": "觅食时常身体浮在水面，用长脖子深入水中取食，民间说「天鹅一脖子扎到底」。",
+   "call": "高音的鹅叫声，像黑雁属的雁；欧亚亚种飞行时是低柔的「bow-wow」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%A4%A9%E9%B9%85"
+  },
+  "Branta_bernicla": {
+   "impression": "嘴短粗的小型雁，头颈黑，颈侧有白斑",
+   "marks": [
+    "嘴短而粗壮",
+    "头颈黑，黑型亚种颈白斑更大",
+    "尾下纯白，尾黑而极短",
+    "腹色因亚种有深有浅"
+   ],
+   "funFact": "过去人们以为它们是从藤壶里长出来的，这个传说一直流传到18世纪末。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E9%9B%81"
+  },
+  "Branta_ruficollis": {
+   "impression": "色彩鲜艳、不会认错的小型雁，胸前红色。",
+   "marks": [
+    "胸前红色，远看会显得发暗"
+   ],
+   "sexAge": "雄鸟比雌鸟略重。",
+   "similar": [
+    {
+     "sci": "Branta bernicla",
+     "zh": "黑雁",
+     "diff": "本种很醒目，但混在黑雁群里时出奇难找；远看胸前的红色会显得发暗。"
+    }
+   ],
+   "funFact": "常把巢筑在雪鸮、游隼等猛禽的巢附近，借它们挡住北极狐。",
+   "call": "叫声有嘎嘎的鸣叫，被惹怒时会发出嘶嘶声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%83%B8%E9%BB%91%E9%9B%81"
+  },
+  "Branta_canadensis": {
+   "impression": "黑头黑颈配白颊白下巴，体形很大的雁。",
+   "marks": [
+    "头颈黑色，两颊有白色斑块",
+    "肩背灰褐，翼覆羽具浅褐羽缘",
+    "胸腹近白，与上体渐变过渡",
+    "尾上覆羽白，尾羽黑"
+   ],
+   "sexAge": "雌雄同形同色，雌鸟稍轻。",
+   "similar": [
+    {
+     "sci": "Branta hutchinsii",
+     "zh": "小美洲黑雁",
+     "diff": "小美洲黑雁多数亚种小得多，颈更短、嘴更小。"
+    },
+    {
+     "sci": "Branta leucopsis",
+     "zh": "白颊黑雁",
+     "diff": "白颊黑雁胸是黑的，身体偏灰而不是偏褐。"
+    }
+   ],
+   "funFact": "迁徙时排成V字，领头的位置轮流换，因为飞在最前面最耗能量。",
+   "call": "雄鸟叫「honk」，雌鸟叫声像「hrink」，更短更高；激动或护领地时通常先发出高音嘶声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%9B%81"
+  },
+  "Branta_leucopsis": {
+   "impression": "白脸黑头黑颈，背部银灰带条纹的中型雁。",
+   "marks": [
+    "脸白色，头、颈和上胸黑色",
+    "腹部白色，背和翅银灰带黑白条纹",
+    "嘴小而短粗，嘴和腿都是黑色",
+    "飞时腰有V形白斑，翼下覆羽银灰"
+   ],
+   "sexAge": "幼鸟和成鸟相似，但上背和两胁的羽毛末端是圆的，不是方的。",
+   "similar": [
+    {
+     "sci": "Branta hutchinsii",
+     "zh": "小美洲黑雁",
+     "diff": "小美洲黑雁身体是褐色，头上白色也少些；白颊黑雁身体灰白，头上白色更多。"
+    },
+    {
+     "sci": "Branta canadensis",
+     "zh": "加拿大黑雁",
+     "diff": "白颊黑雁比加拿大黑雁小，嘴也更小。"
+    }
+   ],
+   "funFact": "古时欧洲人以为它从藤壶里长出来，所以叫「藤壶鹅」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A2%8A%E9%BB%91%E9%9B%81"
+  },
+  "Branta_hutchinsii": {
+   "impression": "黑头黑颈，下颏有一道白色「帽带」的黑雁。",
+   "marks": [
+    "头和颈黑色，下颏有白色「帽带」",
+    "身体偏褐色，不是灰色"
+   ],
+   "sexAge": "雌雄外形几乎相同，雌鸟略轻，叫声不同。",
+   "similar": [
+    {
+     "sci": "Branta canadensis",
+     "zh": "加拿大黑雁",
+     "diff": "有些很难分：最小亚种minima比任何加拿大雁都小，但指名亚种可达3千克，和部分加拿大雁相当。"
+    },
+    {
+     "sci": "Branta leucopsis",
+     "zh": "白颊黑雁",
+     "diff": "白颊黑雁胸部黑色，身体灰色，不是棕色。"
+    }
+   ],
+   "funFact": "以前长期和加拿大黑雁算同一种，2004年才正式分开。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%9B%81"
+  },
+  "Anser_indicus": {
+   "impression": "头污白、后头有两道黑横带的灰色雁，比灰雁小一号",
+   "marks": [
+    "头顶两条黑带，一条略呈马蹄形",
+    "头部污白色",
+    "背部淡灰色",
+    "喙橙黄有黑嘴甲，脚橙黄"
+   ],
+   "sexAge": "雌雄同形同色，很难区分；幼鸟头顶没有黑斑，颜色更污浊",
+   "similar": [
+    {
+     "sci": "Anser anser",
+     "zh": "灰雁",
+     "diff": "灰雁体形比斑头雁大一号，头上没有黑色横带"
+    }
+   ],
+   "funFact": "血红蛋白与氧的亲和力比低地雁更高，适合在高原稀薄空气里飞",
+   "call": "飞行时是典型的雁叫声",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%91%E5%A4%B4%E9%9B%81"
+  },
+  "Anser_anser": {
+   "impression": "灰褐色大型雁，最大特征是没有特征，认粉色喙脚。",
+   "marks": [
+    "灰褐色大型雁，无突出特征",
+    "喙橙黄或粉红，脚粉红",
+    "前翅和腰部浅灰，飞行时明显"
+   ],
+   "sexAge": "雌雄全年都是灰褐色；幼鸟胸腹没有黑色斑点，脚偏灰。",
+   "similar": [
+    {
+     "sci": "Anser fabalis",
+     "zh": "豆雁",
+     "diff": "灰雁没有豆雁醒目的黄色喙端。"
+    },
+    {
+     "sci": "Anser cygnoides",
+     "zh": "鸿雁",
+     "diff": "灰雁的颈部没有鸿雁那样鲜明的颜色对比。"
+    },
+    {
+     "sci": "Anser albifrons",
+     "zh": "白额雁",
+     "diff": "灰雁额头没有白额雁那样显眼的白色。"
+    }
+   ],
+   "funFact": "多数家鹅品种的祖先，最迟公元前1360年就已被驯养。",
+   "call": "叫声响亮，像家鹅的「aahng-ung-ung」，在地上和飞行中都会叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E9%9B%81"
+  },
+  "Anser_erythropus": {
+   "impression": "嘴基一圈白直到头顶，眼周金黄；比白额雁小，白色更向后伸。",
+   "marks": [
+    "嘴基一圈白，白色延伸到头顶",
+    "眼周金黄色",
+    "通体灰褐，上体有隐约浅横纹",
+    "尾上覆羽白，尾羽黑色端白"
+   ],
+   "sexAge": "雌雄除大小外没有明显区别。",
+   "similar": [
+    {
+     "sci": "Anser albifrons",
+     "zh": "白额雁",
+     "diff": "本种更小，头上白色向后延伸更远，眼周金黄，叫声更尖。"
+    }
+   ],
+   "funFact": "过去常有个体到英国斯利姆布里奇，启发彼得·斯科特爵士创立野禽与湿地基金会。",
+   "call": "叫声比白额雁更尖锐。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%99%BD%E9%A2%9D%E9%9B%81"
+  },
+  "Aix_galericulata": {
+   "impression": "繁殖期雄鸟背上竖着橙红色的「帆」，雌鸟灰褐带白眼纹。",
+   "marks": [
+    "繁殖期雄鸟背竖橙红帆羽",
+    "雄鸟眼上有大白月牙纹",
+    "雄鸟喙小而红，喙端白色",
+    "雌鸟暗灰，白色贯眼纹"
+   ],
+   "sexAge": "雄鸟繁殖期艳丽，雌鸟暗灰；非繁殖期雄鸟也变灰，和雌鸟相似。",
+   "funFact": "雏鸟出壳不久，在母鸟招呼下从树洞巢里跳到地上，再跟去水边。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%B8%B3%E9%B8%AF"
+  },
+  "Aix_sponsa": {
+   "impression": "雄鸟五彩闪亮、红眼睛，颈上一道白色条纹",
+   "marks": [
+    "雄鸟红眼，羽色多彩闪亮",
+    "颈上一道醒目的白色条纹",
+    "雌鸟有白眼圈，喉偏白",
+    "头上有羽冠，雌雄都有"
+   ],
+   "sexAge": "雌鸟颜色朴素些，有白眼圈和偏白的喉；雌雄都有羽冠",
+   "funFact": "雏鸟孵出第二天就从树洞口往下跳，最高能从50英尺高处安全落地",
+   "call": "雄鸟是上扬的口哨声「jeeeeee」；雌鸟被惊起时发拖长上扬的尖叫「do weep do weep」，示警是尖厉的「cr-r-ek」",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9E%97%E9%B8%B3%E9%B8%AF"
+  },
+  "Alopochen_aegyptiaca": {
+   "impression": "成鸟翅膀有大片白色，受惊或争斗时会展示。",
+   "marks": [
+    "成鸟翅膀有大片白色",
+    "背部红褐色",
+    "飞行时显得笨重，更像雁"
+   ],
+   "sexAge": "雌雄羽色相同，雄鸟通常稍大。",
+   "funFact": "古埃及的艺术作品里经常出现它。",
+   "call": "雄鸟嘎嘎声嘶哑低弱，还会连发喘息般的叫声，像蒸汽机；雌鸟的嘎嘎声更嘈杂。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%9F%83%E5%8F%8A%E9%9B%81"
+  },
+  "Tadorna_tadorna": {
+   "impression": "白身体、绿光泽深色头、红嘴的醒目鸭，雄鸟嘴基有红瘤。",
+   "marks": [
+    "头和上颈黑褐色，泛绿色光泽",
+    "体白，飞行时见初级黑、次级泛绿",
+    "胸前一条栗色横带",
+    "嘴红色"
+   ],
+   "sexAge": "雌鸟略小，绿脸上常有白色细斑；繁殖期雄鸟嘴鲜红、嘴基有明显肉瘤。幼鸟已具成鸟的翅膀图案。",
+   "funFact": "每年约10万只翘鼻麻鸭在德国北部海岸固定的换羽地换羽。",
+   "call": "响亮的「honk」声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BF%98%E9%BC%BB%E9%BA%BB%E9%B8%AD"
+  },
+  "Tadorna_ferruginea": {
+   "impression": "通体橘黄的大型鸭，飞起来白、黄、绿相间的翅膀很醒目。",
+   "marks": [
+    "通体橘黄，头色较淡近白",
+    "尾羽、尾上覆羽、初级飞羽黑色",
+    "次级飞羽端部墨绿色，成绿色翼镜",
+    "喙黑，脚深灰近黑"
+   ],
+   "sexAge": "繁殖期雄鸟颈上有窄黑环；雌鸟头颈偏白，无黑环；幼鸟像雌鸟，褐色更深。",
+   "call": "一连串响亮带鼻音的鸣叫，雌雄叫声听得出区别。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%B5%A4%E9%BA%BB%E9%B8%AD"
+  },
+  "Polysticta_stelleri": {
+   "marks": [
+    "繁殖羽雄鸟头后、眼前有淡绿斑",
+    "翼上有蓝紫色翼镜，镶白边"
+   ],
+   "sexAge": "雌鸟深褐至肉桂褐，眼圈淡白；雄鸟盛夏至秋季为暗褐色，像雌鸟但保留前翼内侧白色。",
+   "funFact": "是体型最小、飞得最快的绒鸭。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%BB%92%E9%B8%AD"
+  },
+  "Histrionicus_histrionicus": {
+   "impression": "繁殖季雄鸟披蓝栗色羽毛，脸颈缀着白斑。",
+   "marks": [
+    "繁殖雄鸟眼前有白色月牙斑",
+    "繁殖雄鸟颈有黑边白领圈",
+    "繁殖雄鸟体蓝灰，两胁栗色",
+    "雌成鸟褐灰色，头有三处白斑"
+   ],
+   "sexAge": "繁殖雄鸟羽色多彩而复杂，雌成鸟褐灰色，头上有三处白斑。",
+   "funFact": "羽毛里留住许多空气，既保温，也让它潜水后像软木塞一样弹回水面。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%B8%91%E9%B8%AD"
+  },
+  "Melanitta_fusca": {
+   "impression": "雄鸟黑得发亮，翅上大白斑，眼后小白斑。",
+   "marks": [
+    "雄鸟全身亮黑，翅有大白斑",
+    "雄鸟眼后有小白斑",
+    "雄鸟嘴部带橙色",
+    "颈粗，嘴长而宽，尾尖"
+   ],
+   "sexAge": "雌鸟比雄鸟更褐、更暗淡，羽毛没有那种亮光。",
+   "funFact": "大群会挤得很紧，往往一起起飞。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%92%E6%B5%B7%E7%95%AA%E9%B8%AD"
+  },
+  "Mergellus_albellus": {
+   "impression": "雄鸟黑白分明像碎冰，也像熊猫。",
+   "marks": [
+    "雄鸟雪白，飞行时黑白分明",
+    "雌鸟身灰，前额头顶栗色",
+    "雌鸟颏和脸颊白，眼先黑",
+    "嘴尖带钩，边缘有锯齿"
+   ],
+   "sexAge": "雌鸟和未成年雄鸟灰色，额与头顶栗色；雄鸟夏末秋季换蚀羽，像雌鸟但翅上白更多。",
+   "funFact": "起飞很笨拙，要在水面急速拍翅、助跑一阵才飞得起来。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%A7%8B%E6%B2%99%E9%B8%AD"
+  },
+  "Mergus_serrator": {
+   "impression": "头有尖羽冠，细长红嘴带锯齿，繁殖期雄鸟胸红褐。",
+   "marks": [
+    "头上有尖尖的羽冠",
+    "细长红嘴，边缘有锯齿状突起",
+    "繁殖雄鸟头深色泛绿光，颈白",
+    "繁殖雄鸟胸红褐，背黑腹白"
+   ],
+   "sexAge": "雌鸟头红褐、身体灰色；幼鸟似雌鸟，翅上白斑较小。",
+   "similar": [
+    {
+     "sci": "Mergus merganser",
+     "zh": "普通秋沙鸭",
+     "diff": "雌鸟、未成年鸟和非繁殖雄鸟难分；普通秋沙鸭雌鸟头胸反差更大、下巴有浅斑；本种偏好咸水，但两种栖地常重叠。"
+    }
+   ],
+   "funFact": "曾有一只被飞机追赶时飞出时速160公里，是有记录以来最快的鸭子。",
+   "call": "求偶时雌鸟发粗哑的「prrak prrak」，雄鸟发猫叫似的「meow」，其余时候大多安静。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%83%B8%E7%A7%8B%E6%B2%99%E9%B8%AD"
+  },
+  "Netta_rufina": {
+   "impression": "雄鸭顶着圆圆的橙色头，红嘴黑胸，特征明显。",
+   "marks": [
+    "雄鸭头圆，橙色",
+    "雄鸭喙红色",
+    "雄鸭胸黑，两胁白",
+    "雄鸭背棕色，尾黑色"
+   ],
+   "sexAge": "雌鸭淡棕色，背和头顶较深，脸偏白；换羽期雄鸭像雌鸭，但喙是红色。",
+   "funFact": "觅食时比多数潜鸭更爱倒栽葱，把身体倒立下去。",
+   "call": "雄鸭发出喘息般的「veht」，雌鸭是一串沙哑的「vrah-vrah-vrah」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%B5%A4%E5%98%B4%E6%BD%9C%E9%B8%AD"
+  },
+  "Aythya_nyroca": {
+   "impression": "繁殖期雄鸭头胸深栗色，尾下一块纯白，眼睛白色。",
+   "marks": [
+    "雄鸭头、胸、体侧深栗色",
+    "尾下覆羽纯白，对比鲜明",
+    "雄鸭虹膜白色，雌鸭眼深色",
+    "飞行时见白腹和翅下白斑"
+   ],
+   "sexAge": "雌鸭颜色较暗淡、偏棕色，眼睛深色。",
+   "funFact": "求偶时雄鸭卷起尾巴浸入水中，亮出三角形的白色尾下斑。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%9C%BC%E6%BD%9C%E9%B8%AD"
+  },
+  "Aythya_ferina": {
+   "impression": "雄鸭一颗枣红脑袋，胸和尾黑，身体灰色。",
+   "marks": [
+    "雄鸟头颈枣红色",
+    "繁殖期雄鸟胸尾黑，体灰有虫蚀纹",
+    "雄鸟嘴深灰，中间有宽蓝灰带",
+    "体型圆胖，额头斜，嘴较长"
+   ],
+   "sexAge": "雌鸟头和嘴暗褐，眼后有淡灰条纹，身体棕灰；繁殖季外的雄鸟像雌鸟，但前胸更深。",
+   "similar": [
+    {
+     "sci": "Aythya valisineria",
+     "zh": "帆背潜鸭",
+     "diff": "雄帆背潜鸭相当像，但它的嘴是全黑的。"
+    }
+   ],
+   "funFact": "有的地区多达89%的巢里，有别的雌鸭下的蛋。",
+   "call": "雄鸭几乎不叫，求偶时轻轻吹口哨；雌鸭被惊飞时发出轻轻的「krrr」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%A4%B4%E6%BD%9C%E9%B8%AD"
+  },
+  "Aythya_valisineria": {
+   "impression": "头部呈楔形，侧面轮廓斜斜地向前延伸。",
+   "marks": [
+    "头部楔形，颈部长",
+    "成年雄鸟头颈栗红，胸黑",
+    "成年雄鸟背灰色，嘴黑",
+    "成年雌鸟头颈浅褐，胁背灰褐"
+   ],
+   "sexAge": "成鸟中，雄鸟头颈栗红、胸黑；雌鸟头颈浅褐，向胸部渐变为深褐色。",
+   "funFact": "宽大的蹼足帮它潜水，嘴能从水底挖出植物块茎。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B8%86%E8%83%8C%E6%BD%9B%E9%B4%A8"
+  },
+  "Aythya_collaris": {
+   "impression": "成年雄鸟黑头灰嘴，嘴上两道白环；名字里的颈环反而难看见。",
+   "marks": [
+    "雄鸟嘴灰，基部和近尖端各一圈白环",
+    "雄鸟头、颈、胸黑色",
+    "雄鸟翅前有明显的白色三角斑",
+    "雄鸟眼睛黄色"
+   ],
+   "sexAge": "雌鸟头灰棕色，嘴上白环比雄鸟小，眼周有白圈，另有细白纹延伸到脑后。",
+   "funFact": "迁徙能力很强，也有迷鸟到过日本和中国。",
+   "call": "雌鸟会发出类似「trrr」的声音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%8E%AF%E9%A2%88%E6%BD%9C%E9%B8%AD"
+  },
+  "Aythya_fuligula": {
+   "impression": "雄鸭一身黑，头顶垂着小辫，胁部乳白",
+   "marks": [
+    "头顶有一根下垂的小辫",
+    "雄鸟头颈黑，带紫色金属光泽",
+    "雄鸟背黑，腹胁乳白",
+    "黑翅上有白色翼镜"
+   ],
+   "sexAge": "雌鸟褐色、胁部较浅，没有金属光泽；头上也有小辫，但不如雄鸟明显",
+   "similar": [
+    {
+     "sci": "Aythya marila",
+     "zh": "斑背潜鸭",
+     "diff": "没有头顶的小辫，叫声也不同"
+    },
+    {
+     "sci": "Aythya affinis",
+     "zh": "小潜鸭",
+     "diff": "没有头顶的小辫，叫声也不同"
+    }
+   ],
+   "funFact": "主要靠潜水觅食，偶尔也会在水面倒栽葱",
+   "call": "雌鸭多在飞行时发出粗哑的低吼「karr」；雄鸭多半不出声，求偶时吹口哨「wit-oo」",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%87%A4%E5%A4%B4%E6%BD%9C%E9%B8%AD"
+  },
+  "Spatula_querquedula": {
+   "impression": "雄鸟眼上一道宽白眉，像弯弯的月牙，头胸棕色。",
+   "marks": [
+    "雄鸟眼上有宽白色新月形眉纹",
+    "雄鸟头胸棕色，其余多灰色",
+    "雄鸟飞行时翼上露出浅蓝色",
+    "雄鸟游泳时显白色三级飞羽边"
+   ],
+   "sexAge": "雄鸟头胸棕色、眼上有白色宽纹；雌鸟是棕褐色。",
+   "similar": [
+    {
+     "sci": "Anas crecca",
+     "zh": "绿翅鸭",
+     "diff": "雌鸟很像，需仔细分；白眉鸭雌鸟脸部纹路更明显，觅食时更常摇头。"
+    }
+   ],
+   "funFact": "能迅速从水面起飞，飞行快速而扭曲，像鸻鹬类。",
+   "call": "雄鸟有独特的噼啪般求偶叫声；雌鸟以雌鸭而言较安静，但能发出微弱的「quack」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%9C%89%E9%B8%AD"
+  },
+  "Spatula_clypeata": {
+   "impression": "嘴又长又宽像铲子，雄鸭绿头、白胸、栗色肚子。",
+   "marks": [
+    "嘴大而长，末端宽大像铲子",
+    "雄鸟头颈深绿带金属光泽",
+    "雄鸟胸白，腹部和胁栗色",
+    "雄鸟飞行时浅灰蓝翼覆羽衬绿翼镜"
+   ],
+   "sexAge": "雌鸟褐色斑驳，尾近白色，有深色贯眼纹。",
+   "similar": [
+    {
+     "sci": "Anas platyrhynchos",
+     "zh": "绿头鸭",
+     "diff": "雌鸟羽色和雌绿头鸭很像，但琵嘴鸭的嘴又长又宽，一眼就能分清。"
+    }
+   ],
+   "funFact": "嘴边有梳齿状的细片，像筛子一样从水面滤出甲壳类和浮游生物。",
+   "call": "雄鸭发出「clunk」般的闷响，雌鸭像绿头鸭一样嘎嘎叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%90%B5%E5%98%B4%E9%B8%AD"
+  },
+  "Mareca_falcata": {
+   "impression": "繁殖期雄鸭头顶古铜，后颈绿羽略长，镰刀状三级飞羽垂在背后。",
+   "marks": [
+    "三级飞羽伸长弯成镰刀状，拖在水中",
+    "繁殖期雄鸭头顶古铜，后颈绿羽略长",
+    "颌部月牙形白斑，下有细暗绿颈环",
+    "繁殖雄鸭胸胁波纹，尾下两侧奶油黄"
+   ],
+   "sexAge": "雌鸟深棕与黑色为主，没有镰刀状三级飞羽，尾羽略长而尖。",
+   "similar": [
+    {
+     "sci": "Anas acuta",
+     "zh": "针尾鸭",
+     "diff": "雌罗纹鸭尾羽略长而尖，但体形没有雌针尾鸭那么修长。"
+    }
+   ],
+   "funFact": "白天躲在近水灌丛里休息，晨昏才飞到农田湖泊的浅水处觅食。",
+   "call": "雄鸭有尖亮的口哨声「tyu-tyu-vit」，雌鸭嗓音嘶哑；平时多安静。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B9%E9%B8%AD"
+  },
+  "Mareca_penelope": {
+   "impression": "雄鸟栗红色的头配一块乳黄额顶，十分醒目。",
+   "marks": [
+    "雄鸟头颈棕红，额顶乳黄",
+    "雄鸟上体灰白，密布暗褐细波纹",
+    "雄鸟尾上尾下覆羽黑色",
+    "雄鸟翼镜翠绿镶黑，次级覆羽白"
+   ],
+   "sexAge": "雌鸟通体棕褐，腹部纯白；雄鸟非繁殖期的蚀羽更像雌鸟。",
+   "similar": [
+    {
+     "sci": "Mareca americana",
+     "zh": "绿眉鸭",
+     "diff": "雌鸟很像，绿眉鸭头色更浅，翼下腋羽白色。"
+    }
+   ],
+   "funFact": "吃植物为主，越冬鸟的胃里除植物外只有帮助磨碎食物的石块。",
+   "call": "雄鸟吹口哨似的「pjiew pjiew」，雌鸟低声嗥叫「rawr」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%B5%A4%E9%A2%88%E9%B8%AD"
+  },
+  "Anas_poecilorhyncha": {
+   "impression": "灰色为主的鸭，头颈偏浅，嘴黑尖黄，体侧有白色三级飞羽条。",
+   "marks": [
+    "嘴黑，尖端黄",
+    "三级飞羽白，成一道白条",
+    "头色浅，顶和眼线深",
+    "喉颊皮黄，脚珊瑚红"
+   ],
+   "sexAge": "雌鸟比雄鸟黯淡些；幼鸟更褐更暗。",
+   "similar": [
+    {
+     "sci": "Anas zonorhyncha",
+     "zh": "斑嘴鸭",
+     "diff": "斑嘴鸭颜色更深更褐，翼镜是蓝色，这一种是绿色。"
+    }
+   ],
+   "funFact": "受惊时能几乎垂直地从水面起飞。",
+   "call": "雌雄叫声都和绿头鸭相似。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%96%91%E5%98%B4%E9%B8%AD"
+  },
+  "Anas_platyrhynchos": {
+   "impression": "雄鸭一颗亮绿脑袋，雌鸭一身棕色斑点。",
+   "marks": [
+    "繁殖期雄鸭绿头白颈圈",
+    "翼镜紫蓝带白边，雌雄都有",
+    "雌鸭棕色斑驳，脸颊眉喉浅黄",
+    "雄鸭嘴黄橙色，顶端黑"
+   ],
+   "sexAge": "繁殖期雄鸭绿头，雌鸭主要为棕色斑驳；雄鸭嘴黄橙带黑尖，雌鸭嘴通常较暗，黑到斑驳橙褐不等；成年雄鸭夏季换羽期开始时换上非繁殖期蚀羽，结束时换回。",
+   "funFact": "它是大多数家鸭品种的主要祖先。",
+   "call": "雌鸭有深沉的「quack」，常连叫2到10声，由响渐弱；雄鸭的更低沉安静。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%BF%E5%A4%B4%E9%B8%AD"
+  },
+  "Anas_acuta": {
+   "impression": "雄鸟尾羽细长上翘，颈侧一条白带像剑插进褐头。",
+   "marks": [
+    "繁殖雄鸟头棕褐，颈侧白纹伸向头后",
+    "雄鸟两根中央尾羽极长上翘",
+    "雄鸟两翼灰，翼镜绿铜色",
+    "雌鸟黯淡褐色，体形修长"
+   ],
+   "sexAge": "雌鸟黯淡褐色，上体多黑斑，胸有黑点，比雄鸟低调得多。",
+   "similar": [
+    {
+     "sci": "Anas platyrhynchos",
+     "zh": "绿头鸭",
+     "diff": "针尾鸭大小相近，但更纤细修长，脖子更长，雄鸟尾更长。"
+    }
+   ],
+   "funFact": "脖子很长，能够到30厘米深的水底，绿头鸭这类鸭子够不着。",
+   "call": "雄鸟是轻柔的「proop-proop」口哨声，雌鸟像绿头鸭，是下降的嘎嘎声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%92%88%E5%B0%BE%E9%B8%AD"
+  },
+  "Numida_meleagris": {
+   "impression": "原产非洲撒哈拉以南，被引入西印度群岛和北美等地。",
+   "funFact": "林奈1758年在《自然系统》第十版里就提到了它。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E7%8F%A0%E9%9B%9E"
+  },
+  "Arborophila_rufogularis": {
+   "impression": "喉和颈侧橙栗带黑点，胸肋蓝灰，脚粉红或深红的山鹧鸪。",
+   "marks": [
+    "喉和颈侧橙栗色，带黑点",
+    "胸和肋蓝灰色",
+    "有白眉纹和髭纹弧线",
+    "嘴暗褐近黑，脚粉红或深红"
+   ],
+   "sexAge": "雌鸟和雄鸟相似；幼鸟下体更暗淡，头顶和肋部有褐黑细纹。",
+   "funFact": "一群鸟夜里挤在树上栖息，像鹛类一样抱团。",
+   "call": "一连串上扬的「hu-hu」哨音；对唱时另一只回「kew-kew-kew」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%96%89%E5%B1%B1%E9%B9%A7%E9%B8%AA"
+  },
+  "Arborophila_brunneopectus": {
+   "impression": "头顶黑、眼皮红，遇人惊扰会散入灌丛。",
+   "marks": [
+    "头顶黑色",
+    "眼睑红色",
+    "背羽末端黑色"
+   ],
+   "sexAge": "雌雄的羽色相近。",
+   "funFact": "常有4–9只结伴，有时是两家鸟凑在一起。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A4%90%E8%83%B8%E5%B1%B1%E9%B9%A7%E9%B8%AA"
+  },
+  "Lerwa_lerwa": {
+   "impression": "高山草甸碎石地上的鸟，头颈黑带白细纹，红嘴红脚。",
+   "marks": [
+    "头颈黑色，夹杂白色细条纹",
+    "嘴和脚红色",
+    "腹部和两翼有棕色条纹"
+   ],
+   "funFact": "2023年被收进《有重要生态、科学、社会价值的陆生野生动物名录》。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%9B%AA%E9%B9%91"
+  },
+  "Tragopan_satyra": {
+   "impression": "产于喜马拉雅山地的角雉，住在高海拔山林里。",
+   "funFact": "栖息于高海拔山地森林，冬季会下降到海拔1800米的林区。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%83%B8%E8%A7%92%E9%9B%89"
+  },
+  "Tragopan_temminckii": {
+   "impression": "雄鸟深红带白色斑点，面部是裸露的蓝色。",
+   "marks": [
+    "雄鸟深红，带白色斑点",
+    "雄鸟面部裸露蓝色",
+    "雄鸟喙黑色，腿粉色",
+    "雄鸟有橙色颈圈"
+   ],
+   "sexAge": "雌鸟羽毛褐色带白斑，眼周有蓝色圆形裸皮。",
+   "similar": [
+    {
+     "sci": "Tragopan satyra",
+     "zh": "红胸角雉",
+     "diff": "外形相近，但红腹角雉雄鸟上体全红，还有橙色颈圈。"
+    }
+   ],
+   "funFact": "雄鸟下巴的肉裙平时收拢，发情时展开，像口吐绶带，古人称它「吐绶鸟」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%85%B9%E8%A7%92%E9%9B%89"
+  },
+  "Lophophorus_impejanus": {
+   "impression": "成年雄鸟多彩、上体有金属光泽，雌鸟暗淡棕褐",
+   "marks": [
+    "雄鸟头铜绿色，长羽冠末端呈匙状",
+    "上体铜绿、紫、蓝绿，带金属光泽",
+    "飞行时白色腰很醒目",
+    "雄鸟尾羽棕红色"
+   ],
+   "sexAge": "雌鸟暗淡，通体棕褐带黑、棕、黄纹，喉和下背白色；幼鸟和一岁雄鸟像雌鸟",
+   "funFact": "它耐得住雪，会在雪里刨食植物根茎和无脊椎动物。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A3%95%E5%B0%BE%E8%99%B9%E9%9B%89"
+  },
+  "Lophophorus_lhuysii": {
+   "impression": "雄鸟一身金属光泽的蓝紫，披肩铜棕，展翅时露出雪白的背。",
+   "marks": [
+    "头顶面部金属绿，有蓝紫凤头",
+    "颈侧、后颈、肩部铜棕披肩",
+    "背和尾上覆羽雪白，常被翅盖住",
+    "喙长而下弯"
+   ],
+   "sexAge": "雌鸟褐色为主，颜色暗哑，眼周一圈蓝色裸皮，背和尾上覆羽也是雪白。",
+   "similar": [
+    {
+     "sci": "Lophophorus sclateri",
+     "zh": "白尾梢虹雉",
+     "diff": "本种雄鸟有蓝紫色凤头，是重要区别，但栖止时凤头常贴在后颈不易看到。"
+    }
+   ],
+   "funFact": "当地山民叫它「贝母鸡」，因为它特别爱挖食贝母的球茎。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%BF%E5%B0%BE%E8%99%B9%E9%9B%89"
+  },
+  "Pucrasia_macrolopha": {
+   "impression": "雄鸟灰色体羽各带「V」形黑纹，头后拖着黑色长枕冠。",
+   "marks": [
+    "头后有黑色长枕冠",
+    "体羽多灰色，羽毛带V形黑纹",
+    "雄鸟颈侧有显眼白斑"
+   ],
+   "sexAge": "雌鸟的枕冠和尾比雄鸟短。",
+   "funFact": "英文名koklass和属名Pucrasia，都是照它领地鸣叫的声音起的。",
+   "call": "繁殖季和秋天，天亮前会大声合唱般地鸣叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8B%BA%E9%B8%A1"
+  },
+  "Meleagris_gallopavo": {
+   "impression": "雄鸟尾巴一扇开，胸前还垂着一撮「胡子」。",
+   "marks": [
+    "雄鸟头裸露发红，喉有肉垂",
+    "雄鸟尾长，展开呈扇形",
+    "雄鸟胸前常垂一簇粗毛",
+    "主飞羽带白色横纹"
+   ],
+   "sexAge": "雄鸟明显更大、羽色有多种虹彩；雌鸟较暗，偏褐灰色。",
+   "funFact": "野生火鸡也会飞，通常贴近地面飞行，距离不超过400米。",
+   "call": "会咯咯、咕咕叫，雄鸟还能发出低音鼓声和喷气声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%87%8E%E7%94%9F%E7%81%AB%E9%9B%9E"
+  },
+  "Tetrastes_bonasia": {
+   "impression": "圆滚的小松鸡，雄鸟黑喉镶白边，胆小难见。",
+   "marks": [
+    "雄鸟喉黑，边缘白色",
+    "雄鸟有短而可竖起的冠",
+    "上体灰，翅褐，下体白带栗斑",
+    "飞行时灰尾带黑端"
+   ],
+   "sexAge": "雌鸟冠羽较短，喉部没有黑色。",
+   "funFact": "满语叫它「斐耶楞古」，意为树鸡，谐音后成了「飞龙」。",
+   "call": "雄鸟发高音的「ti-ti-ti-ti-ti」，雌鸟发清亮的「tettettettettet」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%B0%BE%E6%A6%9B%E9%9B%9E"
+  },
+  "Lagopus_muta": {
+   "impression": "随季节换装的雷鸟，冬天雪白，夏天灰褐。",
+   "marks": [
+    "冬羽全白，外侧尾羽和眼线黑色",
+    "繁殖期雄鸟上体灰，翅和下体白",
+    "嘴比柳雷鸟细",
+    "雄鸟有黑色眼先"
+   ],
+   "sexAge": "雄鸟有黑色眼先，雌鸟没有。",
+   "similar": [
+    {
+     "sci": "Lagopus lagopus",
+     "zh": "柳雷鸟",
+     "diff": "岩雷鸟嘴更细，雄鸟眼先黑；冬天也可看生境，岩雷鸟住得更高、更荒。"
+    }
+   ],
+   "funFact": "日本称它「雷鸟」，是岐阜、长野、富山三县的县鸟。",
+   "call": "粗哑的「kuh, kuh, kwa-kwa-kwa」；雄鸟会猛叫「awebo, awebo」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B2%A9%E9%9B%B7%E9%B8%9F"
+  },
+  "Lagopus_lagopus": {
+   "marks": [
+    "冬羽全白，外侧尾羽黑色",
+    "眼上有红色半圆肉冠，繁殖期更显",
+    "夏季雄鸟褐色杂斑，翅和下体白",
+    "嘴宽，腿有羽毛，尾短圆"
+   ],
+   "sexAge": "夏季雌鸟近似雄鸟，眼上肉冠小得多，腹部白羽间杂褐羽；未成鸟近似成鸟。",
+   "similar": [
+    {
+     "sci": "Lagopus muta",
+     "zh": "岩雷鸟",
+     "diff": "柳雷鸟更大、嘴更粗，一般不到林线以上；冬季雄鸟没有眼和嘴之间的黑条。"
+    }
+   ],
+   "funFact": "1955年成为美国阿拉斯加州的州鸟。",
+   "call": "低沉带喉音，有轻笑般的咯咯声；中文里有人听成「爱不爱我」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9F%B3%E9%9B%B7%E9%B8%9F"
+  },
+  "Falcipennis_falcipennis": {
+   "impression": "圆墩墩的林栖松鸡，雄鸟黑喉围白边，眼上有红皮。",
+   "marks": [
+    "雄鸟羽色煤灰褐，颈有领羽",
+    "雄鸟黑色喉斑镶白边",
+    "雄鸟每只眼上有红色裸皮",
+    "腹胁满布白斑，尾端有白色带"
+   ],
+   "sexAge": "雌鸟偏浅褐色，没有雄鸟那样清晰的脸部标记。",
+   "funFact": "似乎不太怕人，被靠近时常原地不动或继续活动。",
+   "call": "雄鸟求偶时发出轻柔、音调渐高的颤音咕叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%B0%E7%BF%85%E9%B8%A1"
+  },
+  "Tetrao_urogalloides": {
+   "impression": "雄鸟体羽以黑色为主，胸带金属青绿，翼和下体有白斑。",
+   "marks": [
+    "嘴黑色，名字由来",
+    "雄鸟头颈蓝黑发亮，胸金属青绿",
+    "尾覆羽、翼覆羽、两胁有白点",
+    "雄鸟炫耀时宽阔黑尾上举，展开成扇形"
+   ],
+   "sexAge": "雌鸟喉部乳白带黑细斑，上体锈红有褐色横斑；整体比西方松鸡雌鸟更灰。",
+   "similar": [
+    {
+     "sci": "Tetrao urogallus",
+     "zh": "西方松鸡",
+     "diff": "黑嘴松鸡稍小，身形更苗条，脖子更长，嘴黑色，而西方松鸡的嘴是角质色。"
+    }
+   ],
+   "funFact": "雄鸟定期修剪年轻的落叶松，让它们长不高。",
+   "call": "像响板的咔嗒声，连续重复、越来越快，1.5公里外都听得见。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E5%98%B4%E6%9D%BE%E9%B8%A1"
+  },
+  "Tetrao_urogallus": {
+   "impression": "体型最大的松鸡，雄鸟深灰褐，胸带金属绿，眼上一块红。",
+   "marks": [
+    "雄鸟体羽深灰到深褐，胸部深金属绿",
+    "每只眼上方有一块鲜红裸皮",
+    "翼弯有白斑",
+    "脚上有羽毛"
+   ],
+   "sexAge": "雄鸟远比雌鸟大；雌鸟上体褐色带黑银横纹，下体浅黄褐。",
+   "funFact": "在斯堪的纳维亚和苏格兰，繁殖季的雄鸟有时会挑战、追赶闯入领地的人。",
+   "call": "雄鸟求偶：像乒乓球落地的双击声，渐快成拔香槟塞般的「啵」声，再接刮擦声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E9%B8%A1"
+  },
+  "Lyrurus_tetrix": {
+   "impression": "雄鸟黑羽泛蓝，尾羽向两侧卷成琴形。",
+   "marks": [
+    "雄鸟颈背黑色泛深蓝",
+    "雄鸟翼线和尾下覆羽白色",
+    "雄鸟眼上有红色裸皮",
+    "雄鸟外侧尾羽长，向外卷曲"
+   ],
+   "sexAge": "雄鸟以黑色为主；雌鸟灰褐色，羽色更隐蔽。",
+   "funFact": "春天黎明，雄鸟聚到展示场，展开琴形尾巴比试求偶。",
+   "call": "雄鸟求偶的歌声低低连成一串，像冒泡的咕声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E7%90%B4%E9%B8%A1"
+  },
+  "Perdix_dauurica": {
+   "impression": "脸沙橙色，嘴下还留着一撮羽毛「胡子」。",
+   "marks": [
+    "沙橙色脸，嘴下有长羽",
+    "腹部有黑斑",
+    "胸有黄褐色线纹"
+   ],
+   "sexAge": "雌鸟腹部黑斑较小，羽色也比雄鸟稍暗淡。",
+   "funFact": "雏鸟大约两周大，就能短距离飞行。",
+   "call": "受惊飞走时，会急促地叫「hek-hek-hek」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%91%E7%BF%85%E5%B1%B1%E9%B9%91"
+  },
+  "Perdix_perdix": {
+   "impression": "身子圆滚滚，白肚皮上常有栗色马蹄斑。",
+   "marks": [
+    "背部褐色",
+    "胸和两胁灰色",
+    "白腹常带栗色马蹄斑"
+   ],
+   "sexAge": "雌鸟羽色通常稍暗，腹部深斑较小；幼鸟多黄褐色，没有醒目的脸部和下体斑纹。",
+   "funFact": "亲鸟会带着雏鸟到谷物田边，让它们寻找昆虫。",
+   "call": "鸣声是粗哑尖高的「kieerr-ik」；受惊飞起时常连叫「rick」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E5%B1%B1%E9%B9%91"
+  },
+  "Syrmaticus_reevesii": {
+   "impression": "雄鸟拖着银白色的超长尾羽，头部白、黑、白相间。",
+   "marks": [
+    "头白，黑带过眼并绕过脑后",
+    "眼周裸皮鲜红",
+    "胸、肩、背金黄，黑色鱼鳞斑",
+    "中央尾羽极长，银白带横纹"
+   ],
+   "sexAge": "雌鸟朴素得多，尾羽虽长但远不及雄鸟；头顶枕部黑褐，眼后有大块黑斑。",
+   "funFact": "2008年版吉尼斯世界纪录提到它有鸟类中最长的天然尾羽，雄鸟尾巴每年约长出30厘米。",
+   "call": "叫声是悦耳的颤音，听着更像雀形目，不像鸡形目。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%86%A0%E9%95%BF%E5%B0%BE%E9%9B%89"
+  },
+  "Syrmaticus_mikado": {
+   "impression": "雄鸟黑里泛蓝紫光，尾有白横纹，眼周裸皮红色",
+   "marks": [
+    "雄鸟全身泛紫蓝光的纯黑",
+    "雄鸟尾羽有明显白横带",
+    "雌雄眼周都是裸露红皮",
+    "雌鸟橄榄褐色，尾有黑横斑"
+   ],
+   "sexAge": "雌雄差异明显：雄鸟黑色带蓝紫光泽，雌鸟多为橄榄褐色。",
+   "funFact": "发表为新种时，只凭两片尾羽就定了案。",
+   "call": "最常听到低沉的「咕、咕、咕」；发情或警觉时变成较高的「咯、咯、咯」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B8%9D%E9%9B%89"
+  },
+  "Syrmaticus_humiae": {
+   "impression": "雄鸟脖子是金属蓝色，眼周红色裸皮，尾羽灰白带黑、褐斑纹。",
+   "marks": [
+    "颈部金属蓝色",
+    "眼周裸露红色皮肤",
+    "雄鸟尾羽长，灰白带黑、褐横斑",
+    "头灰褐，嘴黄色，肩羽白"
+   ],
+   "sexAge": "雌鸟体羽褐色，喉白，尾羽带白色尖端。",
+   "funFact": "它是印度米佐拉姆邦和曼尼普尔邦的邦鸟，英文名纪念休姆夫人。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E9%A2%88%E9%95%BF%E5%B0%BE%E9%9B%89"
+  },
+  "Chrysolophus_pictus": {
+   "impression": "雄鸟金冠红身，尾羽很长，色彩艳丽。",
+   "marks": [
+    "头顶冠羽金黄，平顺披向后颈",
+    "后颈金红披肩，羽缘黑色",
+    "雄鸟胸腹以鲜红为主",
+    "上背铜绿，下背和腰金黄"
+   ],
+   "sexAge": "雌鸟通体灰褐，头、颈、背、胸等处有黑色横纹。",
+   "similar": [
+    {
+     "sci": "Chrysolophus amherstiae",
+     "zh": "白腹锦鸡",
+     "diff": "雄鸟披肩白底黑边、腹部雪白；雌鸟与本种雌鸟很像，体形略大。"
+    }
+   ],
+   "funFact": "雄鸟求爱时绕着雌鸟跳舞、展示羽毛，一场能持续近2个小时。",
+   "call": "繁殖季雄鸟发出金属质感的叫声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%85%B9%E9%94%A6%E9%B8%A1"
+  },
+  "Phasianus_colchicus": {
+   "impression": "雄鸟绿头红脸、长尾带纹；雌鸟一身杂斑褐色。",
+   "marks": [
+    "雄鸟头深绿，有小冠羽和红肉垂",
+    "雄鸟尾很长，褐色，常带黑横纹",
+    "雄鸟白颈环因亚种有无不一",
+    "雄鸟体羽多棕褐，色型多变"
+   ],
+   "sexAge": "雌鸟羽色单调，全身杂斑棕褐至灰色；幼鸟似雌鸟，孵化约10周后幼雄开始长出亮羽。",
+   "funFact": "会飞但更爱跑；平时飞行时速43至61公里，被追时能加速到90公里。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%9B%89%E9%B8%A1"
+  },
+  "Lophura_swinhoii": {
+   "impression": "中国台湾特有的蓝紫色大型雉，雄鸟白冠白尾，脚是红的。",
+   "marks": [
+    "雄鸟胸腹腰有蓝紫色金属光泽",
+    "白色冠羽，后颈白",
+    "红色肉垂",
+    "尾羽白色，脚红色"
+   ],
+   "sexAge": "雄鸟胸腹腰蓝紫发亮；雌鸟褐色带黄色箭形斑和复杂横纹，外侧尾羽栗红。",
+   "similar": [
+    {
+     "sci": "Syrmaticus mikado",
+     "zh": "黑长尾雉",
+     "diff": "蓝腹鹇的脚是红色的，可以用这点和黑长尾雉区分。"
+    }
+   ],
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%93%9D%E9%B9%87"
+  },
+  "Lophura_leucomelanos": {
+   "impression": "雄鸟羽色多青黑，头顶有直立的羽冠",
+   "marks": [
+    "雄鸟多青黑色，背部蓝黑带紫光",
+    "头顶有直立羽冠，多为青黑色",
+    "西、中部多数亚种雄鸟腰或下体带白",
+    "脸裸露红色，脚灰色"
+   ],
+   "sexAge": "雌鸟多为红褐色，胸腹较淡；有些亚种羽毛带淡色羽缘，呈鳞状",
+   "similar": [
+    {
+     "sci": "Lophura nycthemera",
+     "zh": "白鹇",
+     "diff": "大小相近；黑鹇脚灰色，白鹇脚红色。"
+    }
+   ],
+   "funFact": "和白鹇亲缘很近，两种已知能杂交。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E9%B9%87"
+  },
+  "Lophura_nycthemera": {
+   "impression": "雄鸟背白腹蓝黑，红脸红脚，尾很长。",
+   "marks": [
+    "雄鸟背肩翼白，密布V形黑纹",
+    "雄鸟头青黑具冠，腹部蓝黑",
+    "脸部裸皮红色，脚红",
+    "雄鸟中央尾羽白，外侧具黑斜纹"
+   ],
+   "sexAge": "雌鸟朴素：头顶和羽冠黑褐，背橄榄褐，胸以下淡灰。",
+   "similar": [
+    {
+     "sci": "Lophura leucomelanos",
+     "zh": "黑鹇",
+     "diff": "黑鹇的脚是灰色的，白鹇的脚是红色的。"
+    }
+   ],
+   "funFact": "叫声喑哑似鸭，故称「哑瑞」；宋代李昉养的珍禽里，它被称为「闲客」。",
+   "call": "鸣声宏亮，但单调刺耳。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%B9%87"
+  },
+  "Pavo_cristatus": {
+   "impression": "成年雄鸟顶着扇形羽冠，开屏时满是彩色眼斑。",
+   "marks": [
+    "成年雄鸟金属蓝顶、扇形冠",
+    "成年雄鸟颈部长而蓝",
+    "成年雄鸟长屏羽有彩色眼斑",
+    "雌鸟白脸，下颈泛绿光"
+   ],
+   "funFact": "开屏的长羽其实是尾巴上方的覆羽，并不是真正的尾羽。",
+   "call": "叫声响亮，有时用来提醒附近出现了捕食者。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%93%9D%E5%AD%94%E9%9B%80"
+  },
+  "Pavo_muticus": {
+   "impression": "雄鸟身披翠绿的金属光泽，拖着缀有眼斑的长尾屏。",
+   "marks": [
+    "繁殖期雄鸟尾屏约1.5米，缀眼斑",
+    "颈和胸羽翠绿闪光，像龙鳞",
+    "头顶有冠羽，雄鸟的更细更高",
+    "脸上两道浅蓝白纹，耳旁黄橙月牙"
+   ],
+   "sexAge": "雌鸟没有长尾屏，羽色逊色；雄鸟换羽后尾屏脱落，近看才分得出雌雄。",
+   "funFact": "缅甸的国鸟，也是缅甸末代王朝的徽记。",
+   "call": "雄鸟黎明和黄昏在夜栖处常大声重复「ki-wao」，雌鸟是同样响亮的「AOw-aa」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%BF%E5%AD%94%E9%9B%80"
+  },
+  "Tropicoperdix_chloropus": {
+   "funFact": "它在自己的分布区内是留鸟，生活在浓密的森林里。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%BF%E8%84%9A%E6%A0%91%E9%B9%A7%E9%B8%AA"
+  },
+  "Synoicus_chinensis": {
+   "impression": "雉科里最小的鸟，雄鸟颈和胁蓝灰，下体红褐。",
+   "marks": [
+    "雄鸟颈和胁深蓝灰",
+    "雄鸟背翅深褐，下体红褐",
+    "雄鸟黑颏，其下白带，眼下黑白纹",
+    "脚橙色"
+   ],
+   "sexAge": "雌鸟朴素得多，通体红褐，只有腹部偏浅。",
+   "funFact": "笼养圈里有时被误称「button quail」，其实和三趾鹑科亲缘很远。",
+   "call": "笛声似的哨音，像ti-yu或ti-ti-yu；惊飞时发尖细的叽叽声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%93%9D%E8%83%B8%E9%B9%91"
+  },
+  "Alectoris_chukar": {
+   "impression": "黑带围出白喉像项圈，红腿红嘴，两胁黑白条纹。",
+   "marks": [
+    "黑带过眼围成项圈，圈住白喉",
+    "两胁有黑白横纹",
+    "嘴珊瑚红，腿红色",
+    "背浅褐，胸灰，腹皮黄"
+   ],
+   "sexAge": "雌雄相似，雌鸟稍小且没有距。",
+   "funFact": "名字chukar来自它吵闹的叫声「chuck-chuck-chukar-chukar」。",
+   "call": "吵闹的「chuck-chuck-chukar-chukar」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%9F%B3%E9%B8%A1"
+  },
+  "Phoenicoparrus_andinus": {
+   "impression": "成鸟浅粉身配黄腿，合起翅膀露出黑三角。",
+   "marks": [
+    "腿黄色，脚有三趾",
+    "嘴基浅黄，大部分嘴黑色",
+    "成鸟下颈和胸的粉色更鲜亮",
+    "成鸟合翅时露出醒目黑三角"
+   ],
+   "sexAge": "幼鸟整体浅灰，头颈常更暗。",
+   "funFact": "它用嘴过滤湖底的小颗粒，主要吃硅藻。",
+   "call": "飞行时常发出短促、粗哑的鼻音，像鸭叫或雁鸣。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%AE%89%E7%AC%AC%E6%96%AF%E7%BA%A2%E9%B9%B3"
+  },
+  "Phoenicopterus_roseus": {
+   "impression": "羽毛以粉白为主，翼覆羽红、飞羽黑，是体型最大的火烈鸟。",
+   "marks": [
+    "羽毛主要是粉红白色",
+    "翼覆羽红色，主次飞羽黑色",
+    "嘴粉红，尖端黑",
+    "腿全是粉红色"
+   ],
+   "sexAge": "雏鸟披灰色绒毛；亚成鸟颜色更浅，腿是深色。",
+   "funFact": "繁殖季会往羽毛上多抹尾脂腺分泌物，让颜色更鲜艳。",
+   "call": "像鹅一样「嘎嘎」叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%BA%A2%E9%B9%B3"
+  },
+  "Phoenicopterus_ruber": {
+   "impression": "成鸟一身浓粉红，展翅能看见黑色飞羽。",
+   "marks": [
+    "成鸟羽毛多为浓粉红色",
+    "成鸟翼覆羽红，飞羽黑",
+    "成鸟嘴粉白，嘴端大片黑色",
+    "成鸟双腿通体粉红"
+   ],
+   "sexAge": "雄鸟平均重约2.8千克，雌鸟约2.2千克。",
+   "similar": [
+    {
+     "sci": "Phoenicopterus roseus",
+     "zh": "大红鹳",
+     "diff": "美洲红鹳成鸟的粉红色更浓，大红鹳则淡得多。"
+    }
+   ],
+   "funFact": "吃进去的多余盐分，会经盐腺从鼻孔排出。",
+   "call": "叫声像鹅鸣。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%B4%B2%E7%B4%85%E9%B8%9B"
+  },
+  "Tachybaptus_ruficollis": {
+   "impression": "水面上圆滚滚的小潜水鸟，尾短到几乎看不见。",
+   "marks": [
+    "身体短胖，头小而圆",
+    "嘴小，尾短而圆钝",
+    "繁殖期喉颈赤褐，嘴基有亮斑",
+    "冬羽较暗淡，颈部褐色"
+   ],
+   "sexAge": "雌雄长得相似，雌鸟可能稍小；亚成鸟像冬羽，但脸颈有深色条纹。",
+   "similar": [
+    {
+     "sci": "Podiceps nigricollis",
+     "zh": "黑颈䴙䴘",
+     "diff": "冬羽时可能混淆；小䴙䴘体型更小，头冠较平整，黑颈䴙䴘的较高耸。"
+    },
+    {
+     "sci": "Podiceps auritus",
+     "zh": "角䴙䴘",
+     "diff": "冬羽时可能混淆；小䴙䴘体型更小，尾较圆钝，角䴙䴘的较尖。"
+    }
+   ],
+   "funFact": "沉入水中只露嘴和眼时像鳖，俗称「王八鸭子」。",
+   "call": "繁殖期叫声是铃声般的高音，持续不断。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%B8%8A%E9%B7%89"
+  },
+  "Podiceps_auritus": {
+   "impression": "繁殖期眼后长出可竖起放下的黄色「角」羽的䴙䴘。",
+   "marks": [
+    "繁殖羽眼后有可竖起的「角」",
+    "繁殖羽颈和上胸栗棕，头顶和背黑",
+    "冬羽黑白分明，没有「角」",
+    "嘴直而尖，尖端白色"
+   ],
+   "sexAge": "雄鸟稍大稍亮，但通常分不出来；幼鸟像冬羽成鸟，白色略暗、背带褐色。",
+   "similar": [
+    {
+     "sci": "Podiceps nigricollis",
+     "zh": "黑颈䴙䴘",
+     "diff": "冬羽时容易混淆；黑颈䴙䴘前额更陡，嘴更纤细，尾部羽毛更蓬松。"
+    }
+   ],
+   "funFact": "从小吃自己的羽毛，在胃里结成「滤网」，把鱼骨留住。",
+   "call": "响亮带鼻音的「aaarrh」，音调下降，最后以颤音收尾。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A7%92%E9%B8%8A%E9%B7%89"
+  },
+  "Podiceps_cristatus": {
+   "impression": "旧大陆最大的䴙䴘，善游泳潜水，夏天头颈有饰羽。",
+   "marks": [
+    "夏季头颈有饰羽",
+    "羽色黑、橙褐、白相间",
+    "冬羽眼上白色，嘴粉红",
+    "下体近白，上体灰褐"
+   ],
+   "sexAge": "雄雌差别不大；雏鸟头上有黑白条纹，第一个冬天褪去。",
+   "funFact": "19世纪英国为取饰羽装饰帽子，几乎把它们猎光，皇家鸟类保护协会就为保护它而成立。",
+   "call": "响亮的吠叫声「rah-rah-rah」，也有「kek」的咔哒声和低沉的咆哮。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%B3%B3%E9%A0%AD%E9%B7%BF%E9%B7%88"
+  },
+  "Chlamydotis_macqueenii": {
+   "impression": "褐背白腹，脖子两侧各有黑纹。",
+   "marks": [
+    "颈侧有黑纹",
+    "上身褐色，下身白色",
+    "翼下多白色，后缘黑色"
+   ],
+   "sexAge": "雌雄外形相似，雌鸟更小，上体颜色也更浅。",
+   "funFact": "雄鸟求偶时，会把头上和颈部的羽毛竖起来。",
+   "call": "平时不太发声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%96%91%E9%B8%A8"
+  },
+  "Phaenicophaeus_tristis": {
+   "impression": "林地灌丛中的非寄生杜鹃，长尾呈阶梯状、羽端白色，嘴弯而显眼。",
+   "marks": [
+    "尾长呈阶梯状，羽端白色",
+    "嘴显眼，弯曲",
+    "上体暗灰带绿色光泽，翅油绿",
+    "红色脸斑常有清晰白边"
+   ],
+   "funFact": "主要吃昆虫，也会捕捉小蜥蜴和小型哺乳动物。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%BF%E5%98%B4%E5%9C%B0%E9%B9%83"
+  },
+  "Clamator_coromandus": {
+   "impression": "黑色长羽冠，配一双栗色翅膀。",
+   "marks": [
+    "头黑，羽冠长而有光泽",
+    "翅膀栗色",
+    "后颈有窄白色半领圈",
+    "尾长，中央羽比外侧长"
+   ],
+   "sexAge": "幼鸟颜色较暗，翅羽带鳞状花纹。",
+   "similar": [
+    {
+     "sci": "Clamator jacobinus",
+     "zh": "斑翅凤头鹃",
+     "diff": "红翅凤头鹃的尾羽末端白边较不显眼，斑翅凤头鹃的白色尾尖更醒目。"
+    }
+   ],
+   "funFact": "通常独来独往，有时也会加入别种鸟的觅食队伍。",
+   "call": "像笛声的两个音，隔一小会儿就重复。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E7%BF%85%E5%87%A4%E5%A4%B4%E9%B9%83"
+  },
+  "Clamator_jacobinus": {
+   "impression": "顶着冠羽，黑翅上亮出一块白斑。",
+   "marks": [
+    "黑翅上有白斑",
+    "头顶有冠羽"
+   ],
+   "funFact": "它吃毛毛虫前，会从一头挤到另一头，先去掉肠子。",
+   "call": "一串清亮的「piu-piu」哨音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%91%E7%BF%85%E5%87%A4%E5%A4%B4%E9%B9%83"
+  },
+  "Cacomantis_merulinus": {
+   "impression": "雄鸟上灰褐下橙，灰头；哨声悲悲切切，像在诉苦",
+   "marks": [
+    "雄鸟头、喉、上胸灰色",
+    "雄鸟上体灰褐，下体橙色",
+    "尾羽末端有白色斑点",
+    "眼红，上喙黑、下喙黄"
+   ],
+   "sexAge": "雌鸟常为「肝色型」：上体红褐带深横纹；幼鸟似肝色型但更淡",
+   "funFact": "把蛋产进扇尾莺、鹪莺、缝叶莺的巢，蛋长得像宿主的",
+   "call": "雄鸟发诉苦般的哨声：三音节上升乐句，或11到12个下降音符",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%85%AB%E5%A3%B0%E6%9D%9C%E9%B9%83"
+  },
+  "Hierococcyx_varius": {
+   "impression": "灰背黄眼圈，飞行时一阵拍翅、一阵滑翔。",
+   "marks": [
+    "眼圈黄色",
+    "上体灰色",
+    "下体偏白，带褐色横纹",
+    "尾部有宽横纹"
+   ],
+   "sexAge": "雌雄羽色相似，雄鸟往往更大；亚成鸟胸带纵纹，腹部有大块褐色V形斑。",
+   "funFact": "吃毛毛虫时，会先压挤、蹭树枝去掉肠道；吞下的毛在胃里分离，再吐成团。",
+   "call": "雄鸟夏季反复高叫三声，第二声更长更高，逐渐增强后突然收住。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E9%B9%B0%E9%B9%83"
+  },
+  "Cuculus_micropterus": {
+   "impression": "灰背，腹部有宽黑横纹，叫声是响亮的四个音符。",
+   "marks": [
+    "上体灰色",
+    "腹部有宽阔的黑色横纹",
+    "尾有横纹，末端宽深色带加白尖",
+    "眼圈灰到黄色，虹膜浅棕到红"
+   ],
+   "sexAge": "雌鸟喉更浅灰、胸和尾更棕、腹纹更窄；幼鸟偏棕，头和翅羽有宽白尖。",
+   "funFact": "第三、四天的幼鸟被碰到会弯背，把别的蛋或雏鸟顶出巢外，这本能很快消失。",
+   "call": "响亮的四个音符。中文里被听成「光棍好苦」「快快割麦」「豌豆包谷」等。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%A3%B0%E6%9D%9C%E9%B9%83"
+  },
+  "Cuculus_canorus": {
+   "impression": "身体灰色修长，尾很长，飞起来像雀鹰",
+   "marks": [
+    "成年雄鸟板岩灰色",
+    "成年雄鸟灰喉至胸，与下体横斑分明",
+    "虹膜、眼圈、嘴基和脚黄色",
+    "繁殖季常栖开阔处，翅下垂尾上翘"
+   ],
+   "sexAge": "雌鸟多为灰色，偶有红褐色型，幼鸟中红褐色型更常见；幼鸟最明显的是白色颈背斑和白色羽缘",
+   "similar": [
+    {
+     "sci": "Cuculus optatus",
+     "zh": "东方中杜鹃",
+     "diff": "非常相似，东方中杜鹃平均翼长略短"
+    }
+   ],
+   "funFact": "雏鸟孵出后会用背把宿主的蛋推出巢外，独占养父母的喂食",
+   "call": "雄鸟叫「goo-ko」，多在开阔的栖处发出；雌鸟是响亮的冒泡声",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%9D%9C%E9%B9%83"
+  },
+  "Syrrhaptes_paradoxus": {
+   "impression": "腹部一块黑斑，连腿和脚趾都裹着羽毛。",
+   "marks": [
+    "腹部有黑斑",
+    "翼下颜色浅",
+    "翅和尾长而尖",
+    "腿和脚趾有羽毛"
+   ],
+   "similar": [
+    {
+     "sci": "Syrrhaptes tibetanus",
+     "zh": "西藏毛腿沙鸡",
+     "diff": "毛腿沙鸡的黑色腹斑和浅色翼下，是与它区分的要点。"
+    }
+   ],
+   "funFact": "雄鸟喝水时会浸湿胸羽，把水带回去给雏鸟喝。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AF%9B%E8%85%BF%E6%B2%99%E9%B8%A1"
+  },
+  "Pterocles_orientalis": {
+   "impression": "飞起来时，白色翼下衬着黑肚皮。",
+   "marks": [
+    "腹部黑色",
+    "翅膀下方白色",
+    "雄鸟喉部有栗色斑",
+    "雄鸟头、颈和胸灰色"
+   ],
+   "sexAge": "雌鸟上体更褐、细斑更多，包括头部和胸部；腹部与胸带和雄鸟相同。",
+   "funFact": "雌雄都会孵蛋，但运水的工作只由雄鸟来做。",
+   "call": "叫声柔和，像「chowrrr rrrr-rrrr」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E8%85%B9%E6%B2%99%E9%B8%A1"
+  },
+  "Spilopelia_chinensis": {
+   "impression": "后颈黑底白点，像戴了串珍珠，尾巴较长。",
+   "marks": [
+    "后颈黑色，布满白色小点",
+    "尾较长，外侧黑，尾端白",
+    "背翅灰褐色，下体玫瑰皮黄",
+    "喙暗褐色，脚红色"
+   ],
+   "sexAge": "雌雄相似；幼鸟比成鸟暗淡，要到成熟才长出颈部斑点。",
+   "funFact": "巢很简陋，阳台、空调外机甚至地面上都见过，网上外号「随便鸠」。",
+   "call": "叫声低沉，重音靠后，类似「咕-咕-咕」或「咕-咕-咕～咕」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%8F%A0%E9%A2%88%E6%96%91%E9%B8%A0"
+  },
+  "Spilopelia_senegalensis": {
+   "impression": "尾长身细的小鸠，颈侧有红褐与灰色的方格斑",
+   "marks": [
+    "颈侧有红褐与灰相间的方格斑",
+    "头颈带淡紫，下体粉褐",
+    "翅上有一道蓝灰带",
+    "外侧尾羽末端白色"
+   ],
+   "sexAge": "野外分不出雌雄；幼鸟颈侧没有方格斑",
+   "similar": [
+    {
+     "sci": "Spilopelia chinensis",
+     "zh": "珠颈斑鸠",
+     "diff": "亲缘很近。珠颈斑鸠颈上是黑白方格项圈，棕斑鸠颈侧是红褐与灰色的方格斑"
+    }
+   ],
+   "funFact": "筑巢的亲鸟有时会假装受伤，把天敌引离巢。",
+   "call": "低沉滚动的croo-doo-doo-doo-doo，音量起伏；有描述说比多数鸠更有音乐感",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A3%95%E6%96%91%E9%B8%A0"
+  },
+  "Streptopelia_tranquebarica": {
+   "impression": "雄鸟身体红褐、头颈青灰，颈后有黑色颈环的小斑鸠。",
+   "marks": [
+    "雄鸟颈青灰色，颈后有黑色颈环",
+    "雄鸟翅、胸腹、肩背红褐色",
+    "体长约23厘米，在鸠鸽里偏小"
+   ],
+   "sexAge": "雌鸟全身灰褐，比雄鸟略小，腿深褐色。",
+   "similar": [
+    {
+     "sci": "Streptopelia decaocto",
+     "zh": "灰斑鸠",
+     "diff": "指雌鸟。雌鸟羽色浅褐朴素，和灰斑鸠相似，灰斑鸠个头更大。"
+    }
+   ],
+   "funFact": "种名来自印度南部的城镇特兰奎巴，那也是它的模式产地。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%AB%E6%96%91%E9%B8%A0"
+  },
+  "Streptopelia_orientalis": {
+   "impression": "颈侧有黑白条纹斑块，上背和翅膀呈鳞状花纹。",
+   "marks": [
+    "颈侧有银黑相间的条纹斑块",
+    "上背和翅膀棕色，羽毛呈鳞状",
+    "胸、腹红褐色",
+    "尾呈楔形"
+   ],
+   "similar": [
+    {
+     "sci": "Streptopelia turtur",
+     "zh": "欧斑鸠",
+     "diff": "颜色很像，但山斑鸠稍大，胸没那么粉，翅羽更褐、呈鳞状，眼周没有裸皮。"
+    }
+   ],
+   "funFact": "雄鸟求偶时大声拍翅直冲上天，再张开尾巴滑翔而下。",
+   "call": "四个音节的「her-her-oo-oo」，不同种群之间差异很大。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E6%96%91%E9%B8%A0"
+  },
+  "Streptopelia_turtur": {
+   "impression": "成鸟颈侧有黑白条纹领饰，肉桂色翅膀带黑斑。",
+   "marks": [
+    "成鸟颈侧有黑白条纹斑块",
+    "成鸟头颈蓝灰色",
+    "成鸟肉桂色翅膀有黑斑",
+    "尾呈楔形，尾缘和尾尖白"
+   ],
+   "sexAge": "幼鸟更褐、更暗淡，颈侧还没有黑白斑块，腿也是褐色。",
+   "funFact": "英文名里的「turtle」和乌龟无关，而是模仿鸟鸣的词。",
+   "call": "歌声低沉、带颤音，像「turrr，turrr」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%96%91%E9%B8%A0"
+  },
+  "Streptopelia_decaocto": {
+   "impression": "灰褐色的斑鸠，颈后一道黑环，外围有白羽。",
+   "marks": [
+    "颈后黑色颈环，环外有白羽",
+    "全身灰褐，背部颜色更深",
+    "翅有蓝灰斑，尾下方端白",
+    "短腿红色，嘴黑色"
+   ],
+   "sexAge": "雌雄一样；幼鸟颈环发育不全，虹膜褐色。",
+   "funFact": "种加词decaocto是希腊语「十八」，传统上用来模拟它的叫声。",
+   "call": "「咕咕－咕」三声，第二声较重，反复多次。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E6%96%91%E9%B8%A0"
+  },
+  "Columba_janthina": {
+   "impression": "成鸟整体烟黑，头小，颈和尾较长，腿红色。",
+   "marks": [
+    "身体烟灰黑色，羽毛闪亮",
+    "头顶、肩和颈侧泛绿紫虹彩",
+    "头很小，颈和尾较长",
+    "成鸟跗跖红色"
+   ],
+   "sexAge": "雌雄相似；幼鸟体色更灰暗，常有浅黄颈斑，跗跖灰白。",
+   "funFact": "飞行中看起来像乌鸦，翅膀大，尾巴略呈扇形。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9E%97%E9%B8%BD"
+  },
+  "Columba_eversmanni": {
+   "impression": "眼睛黄色，身体大部分灰色的中型鸽。",
+   "marks": [
+    "虹膜黄色，眼周裸皮淡黄",
+    "身体大部分灰，上体略带褐",
+    "头顶、喉、胸泛粉紫光泽",
+    "翼上一道黑带，尾带模糊"
+   ],
+   "similar": [
+    {
+     "sci": "Columba livia",
+     "zh": "原鸽",
+     "diff": "原鸽的翼带和尾带更醒目。"
+    },
+    {
+     "sci": "Columba rupestris",
+     "zh": "岩鸽",
+     "diff": "岩鸽尾上有一道白色次端带，在黑色末端带之上。"
+    }
+   ],
+   "funFact": "越冬时特别爱去有桑树的地方。",
+   "call": "通常安静，繁殖期有时发出轻弱的「oo-oo-oo」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BA%9A%E9%B8%BD"
+  },
+  "Chalcophaps_indica": {
+   "impression": "背翅鲜绿的矮胖鸠，嘴鲜红，飞时下背现黑白宽条。",
+   "marks": [
+    "背部和翅膀鲜绿色",
+    "嘴喙鲜红色",
+    "飞行时下背部露出宽阔黑白条",
+    "头和腹部略带酒红的棕色"
+   ],
+   "sexAge": "雄鸟肩缘有白斑、头顶灰色，雌鸟没有，体色偏棕褐；亚成鸟像雌鸟，身体和翅膀有褐色贝状纹。",
+   "funFact": "通常在五米以下的树上用小树枝筑巢，每巢多产两枚奶油色的蛋。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%BF%E7%BF%85%E9%87%91%E9%B8%A0"
+  },
+  "Treron_phayrei": {
+   "impression": "常单只或小群活动的绿鸠，飞得又快又直。",
+   "funFact": "巢是树上的树枝窝，产两枚白蛋。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%92%BC%E9%A0%AD%E7%B6%A0%E9%B3%A9"
+  },
+  "Treron_pompadora": {
+   "impression": "常独自或结小群，在林间飞得又快又直。",
+   "funFact": "它用树枝在树上搭巢，一窝产两枚白蛋。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E7%BB%BF%E9%B8%A0"
+  },
+  "Treron_curvirostra": {
+   "impression": "粗粗的淡绿嘴带红色嘴基，眼圈宽而蓝绿。",
+   "marks": [
+    "嘴粗、淡绿，嘴基红",
+    "眼圈宽阔，蓝绿色",
+    "头顶灰色",
+    "腹面绿色"
+   ],
+   "sexAge": "雄鸟背栗红、尾下覆羽暗栗色；雌鸟尾下覆羽偏绿，带白色鳞斑。",
+   "funFact": "会沿着树枝慢慢走，吃榕树的果实。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8E%9A%E5%98%B4%E7%BB%BF%E9%B8%A0"
+  },
+  "Treron_apicauda": {
+   "impression": "通体黄绿，雄鸟胸前金黄带粉，尾特别长。",
+   "marks": [
+    "通体黄绿，翼上覆羽较深",
+    "雄鸟胸部金黄带粉",
+    "中央尾羽蓝灰，尾下覆羽栗色",
+    "眼圈和嘴蓝色，脚亮粉红"
+   ],
+   "sexAge": "雌鸟黄色更暗，中央尾羽短得多，也比雄鸟小。",
+   "funFact": "飞起来时，羽毛会发出嗡嗡的声音。",
+   "call": "轻柔的口哨声「ku-koo」；也有高亢的「doo」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%92%88%E5%B0%BE%E7%BB%BF%E9%B8%A0"
+  },
+  "Treron_sphenurus": {
+   "impression": "住在山区阔叶林和混交林里的绿鸠，俗名歌绿鸠。",
+   "funFact": "在中国属于国家二级重点保护动物。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A5%94%E5%B0%BE%E7%BB%BF%E9%B8%A0"
+  },
+  "Treron_bicinctus": {
+   "impression": "雄鸟胸前有两道色带，上窄淡紫、下宽橙色",
+   "marks": [
+    "胸前上方淡紫带窄，下方橙带宽",
+    "两翼没有褐红色",
+    "尾上灰色，末端有宽暗带",
+    "尾下覆羽浅红褐色"
+   ],
+   "sexAge": "雌鸟腹部黄色，没有橙色和淡紫色带。",
+   "similar": [
+    {
+     "sci": "Treron phoenicopterus",
+     "zh": "黄脚绿鸠",
+     "diff": "外观很像，但本种两翼没有褐红色。"
+    }
+   ],
+   "funFact": "它吃的一种果实（Strychnos nux-vomica）对哺乳动物有毒。",
+   "call": "一连串低沉柔和、拐来拐去的哨声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A9%99%E8%83%B8%E7%BB%BF%E9%B8%A0"
+  },
+  "Ducula_badia": {
+   "impression": "栗褐色背，头颈和下体酒红灰，喉白，分布区里最大的鸠鸽。",
+   "marks": [
+    "头颈和下体酒红灰色",
+    "喉白，反差明显",
+    "上体和翅栗褐色",
+    "尾近黑，有一道灰横线"
+   ],
+   "funFact": "求偶时从栖枝垂直飞起6到8米，再张开翅尾滑降。",
+   "call": "低沉而有共鸣的「boom」声，近处才听得见。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E7%9A%87%E9%B8%A0"
+  },
+  "Leucogeranus_leucogeranus": {
+   "impression": "通体雪白、脸和腿红色，飞起来露出黑色初级飞羽的大型鹤。",
+   "marks": [
+    "站着时浑身白色",
+    "脸部裸露砖红，长腿粉红",
+    "长喙粗而直，深褐色",
+    "飞行时翅尖露出黑色初级飞羽"
+   ],
+   "sexAge": "成鸟雄性比雌性稍大；幼鸟头颈金褐色，身体褐白相间。",
+   "funFact": "一窝通常两个蛋，幼鸟之间会互相攻击，通常只有一只能活下来。",
+   "call": "像鹅一样的高音哨声「toyoya」，和多数鹤的号角声很不同。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%B9%A4"
+  },
+  "Antigone_canadensis": {
+   "impression": "成鸟灰色大鹤，额红颊白，飞时长腿拖在身后。",
+   "marks": [
+    "成鸟整体灰色",
+    "前额红色，脸颊白色",
+    "喙黑色，长而尖",
+    "飞时颈伸直，长黑腿拖在后面"
+   ],
+   "sexAge": "雌雄相似；幼鸟没有红额头，上体红褐、下体灰色。",
+   "funFact": "乘着上升暖气流，能在空中飞好几个小时，只偶尔拍翅。",
+   "call": "响亮的号角声，像喉咙里卷着「r」，很远就能听到。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B2%99%E4%B8%98%E9%B9%A4"
+  },
+  "Grus_japonensis": {
+   "impression": "成鸟体羽大多洁白，次级飞羽黑，头顶裸皮鲜红。",
+   "marks": [
+    "头顶裸露皮肤鲜红，繁殖季更亮",
+    "成鸟整体洁白，次级飞羽黑",
+    "站立时的黑「尾」其实是次级飞羽",
+    "嘴橄榄绿至绿角质色，腿灰黑"
+   ],
+   "sexAge": "幼鸟体羽棕黄；亚成体羽色黯淡，2岁后头顶红色裸区越发鲜艳。",
+   "funFact": "传说「鹤顶红」剧毒是谣传，鹤血无毒，古人说的其实是砒霜。",
+   "call": "叫声非常嘹亮，用来宣示领地，也是发情期交流的方式。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%B8%B9%E9%A1%B6%E9%B9%A4"
+  },
+  "Grus_grus": {
+   "impression": "浅灰色的鹤，头颈黑，眼后白纹伸到颈背，头顶一点红。",
+   "marks": [
+    "头颈灰黑或黑，眼后白纹到颈背",
+    "头顶有一小片裸露的红皮",
+    "全身以灰色为主",
+    "站立时尾上垂着松散羽簇"
+   ],
+   "sexAge": "雌雄羽色相同，雄鸟通常体型较大。亚成鸟大致黄褐，头顶深褐，颈部没有黑白条纹。",
+   "funFact": "和沙丘鹤一样，会往身上涂泥巴或腐烂植物，像是为了融进巢区环境。",
+   "call": "高亢嘹亮，像喇叭声，飞行和炫耀展示时都会叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E9%B9%A4"
+  },
+  "Grus_monacha": {
+   "impression": "头和上颈雪白，身体石板灰，头顶有块裸露红皮。",
+   "marks": [
+    "头至上颈雪白",
+    "成鸟头顶有红色裸皮",
+    "额和眼前有密集黑色刚毛",
+    "其余体羽石板灰色"
+   ],
+   "funFact": "1993年以前只在俄罗斯远东证实它繁殖；那年中国黑龙江才发现了繁殖巢。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%A4%B4%E9%B9%A4"
+  },
+  "Grus_nigricollis": {
+   "impression": "灰白色的高原鹤，头和上颈黑，头顶一块红。",
+   "marks": [
+    "头和颈上部约三分之二黑色",
+    "头顶裸皮血红色",
+    "眼后、眼下有一小块白斑",
+    "尾羽黑色"
+   ],
+   "sexAge": "雌雄相似；幼鸟棕黄色，颈、背、翅略深，腹部较淡，嘴和腿肉红色。",
+   "similar": [
+    {
+     "sci": "Grus grus",
+     "zh": "灰鹤",
+     "diff": "外形相似；黑颈鹤尾黑色，灰鹤尾是灰色，远看就能分开。"
+    }
+   ],
+   "funFact": "世界上唯一生长繁殖在高原的鹤，也是最晚被发现的鹤类，1876年发现于青海湖。",
+   "call": "响亮的号角声，和别的鹤相似；家族间用短促低沉的鼻音「kurrr」联络。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E9%A2%88%E9%B9%A4"
+  },
+  "Rallus_aquaticus": {
+   "impression": "长红嘴，扁扁的身子便于穿过密密的芦苇。",
+   "marks": [
+    "长嘴红色，略向下弯",
+    "指名亚种成鸟两胁黑白横斑",
+    "指名亚种成鸟上腹深蓝灰",
+    "指名亚种成鸟背橄榄褐带黑纵纹"
+   ],
+   "sexAge": "指名亚种雌雄相似，雌鸟平均略小、嘴较细；幼鸟腹面浅棕或白色，带深色横斑。",
+   "funFact": "繁殖后会大换羽，约有三周飞不起来。",
+   "call": "先咕噜几声，再像小猪般尖叫，最后又回到咕噜声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%B9%E7%A7%A7%E9%B8%A1"
+  },
+  "Crex_crex": {
+   "impression": "繁殖期雄鸟藏在草里，响叫「krek krek」。",
+   "marks": [
+    "成鸟翼上覆羽栗色，带白横斑",
+    "雄鸟繁殖期脸颈胸蓝灰色",
+    "成鸟胁部栗白相间横斑",
+    "粗壮的嘴呈肉色，腿淡灰色"
+   ],
+   "sexAge": "幼鸟上体偏黄，下体的灰色换成了黄褐色。",
+   "funFact": "迁徙本领不用跟成鸟学，是天生的。",
+   "call": "繁殖地雄鸟反复发出响亮、粗涩的「krek krek」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%BF%E8%84%9A%E7%A7%A7%E9%B8%A1"
+  },
+  "Porzana_porzana": {
+   "impression": "嘴短直、黄色而基部红，胸蓝灰，两胁有白点。",
+   "marks": [
+    "嘴短而直，黄色，基部红",
+    "上体多为褐色，胸蓝灰色",
+    "两胁有暗色横纹和白点",
+    "绿腿长趾，尾短、尾下皮黄色"
+   ],
+   "sexAge": "幼鸟相似，但蓝灰色换成褐色。",
+   "similar": [
+    {
+     "sci": "Rallus aquaticus",
+     "zh": "西方秧鸡",
+     "diff": "斑胸田鸡比它略小，嘴短而直、黄色、基部红，一眼可分。"
+    }
+   ],
+   "funFact": "繁殖季很隐蔽，多半只闻其声，不见其影。",
+   "call": "反复的「hwuit, hwuit」，像鞭子抽响。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%91%E8%83%B8%E7%94%B0%E9%B8%A1"
+  },
+  "Fulica_atra": {
+   "impression": "通体近黑的水鸟，白嘴配白色额盾。",
+   "marks": [
+    "白色的喙和白色的额盾",
+    "身体深灰黑色，头部光滑黑色",
+    "脚趾长而有力，带部分蹼"
+   ],
+   "sexAge": "雌雄相似；幼鸟颜色较淡，胸白，没有额盾，约一岁额盾才长全。",
+   "funFact": "白额盾让英语里有了「as bald as a coot」的说法，早在1430年就有。",
+   "call": "很吵，有爆裂声、爆炸声或号角般的叫声，常在夜里发出。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%AA%A8%E9%A1%B6%E9%B8%A1"
+  },
+  "Zapornia_paykullii": {
+   "impression": "在东北亚繁殖的候鸟，栖息于半开放的湖泊、沼泽等湿地。",
+   "funFact": "1813年命名时，种名取自博物学家古斯塔夫·冯·帕伊库尔。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%91%E8%83%81%E7%94%B0%E9%B8%A1"
+  },
+  "Zapornia_fusca": {
+   "impression": "成鸟栗色头胸配红腿，受惊就藏进草丛。",
+   "marks": [
+    "成鸟头和下体栗色",
+    "眼睛和双腿红色",
+    "成鸟胁部和尾下有白色横纹",
+    "趾长，尾巴短"
+   ],
+   "sexAge": "雌雄相似；幼鸟深棕色，带些白斑。",
+   "funFact": "吃大蜗牛时，会用嘴啄穿硬壳。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%83%B8%E7%94%B0%E9%B8%A1"
+  },
+  "Zapornia_parva": {
+   "impression": "小型田鸡，成年雄鸟脸和下体蓝灰，雌鸟下体黄褐。",
+   "marks": [
+    "嘴短直，黄色，嘴基红色",
+    "脚绿色，趾长",
+    "尾短，下面黑白相间有横斑",
+    "成年雄鸟两胁无深色横纹和白点"
+   ],
+   "sexAge": "成年雄鸟上体以褐色为主，脸和下体蓝灰；雌鸟下体浅黄褐、脸灰；未成鸟像雌鸟，脸和胸白。",
+   "similar": [
+    {
+     "sci": "Zapornia pusilla",
+     "zh": "小田鸡",
+     "diff": "雄鸟与小田鸡相似，但小田鸡两胁横纹明显，体型也略小。"
+    },
+    {
+     "sci": "Porzana porzana",
+     "zh": "斑胸田鸡",
+     "diff": "本种略小；成年雄鸟两胁没有深色横纹和白点。"
+    }
+   ],
+   "funFact": "繁殖期很隐秘，多半只闻其声不见其鸟；迁徙时可能更容易看到。",
+   "call": "尖促的「kua」声，像在吠叫，迁徙时叫得比较吵。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A7%AC%E7%94%B0%E9%B8%A1"
+  },
+  "Zapornia_pusilla": {
+   "impression": "小巧的秧鸡，脸和下体蓝灰，繁殖季躲在莎草沼泽里很隐秘。",
+   "marks": [
+    "嘴短直，黄色或绿色，没有红色基部",
+    "脸和下体蓝灰色",
+    "肋部和尾下有黑白横纹",
+    "上体棕褐，带些白斑点"
+   ],
+   "sexAge": "幼鸟像成鸟，但下体条纹更多。",
+   "similar": [
+    {
+     "sci": "Zapornia parva",
+     "zh": "姬田鸡",
+     "diff": "两者很像，姬田鸡只稍大一些。"
+    }
+   ],
+   "funFact": "繁殖季非常隐秘，多数时候是听到叫声才知道它在。",
+   "call": "响亮的咯咯声，像欧洲食用蛙或白眉鸭的叫声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E9%B8%A1"
+  },
+  "Esacus_magnirostris": {
+   "impression": "海边的大个子，觅食时慢慢走，偶尔小跑几步。",
+   "marks": [
+    "脸上黑白相间",
+    "眼睛黄色",
+    "上体灰褐色"
+   ],
+   "funFact": "亲鸟会照顾小鸟，直到它们长到7—12个月大。",
+   "call": "警戒时会叫「chwip-chwip」，驱赶闯入者。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%BE%B3%E6%B4%B2%E7%9F%B3%E9%B8%BB"
+  },
+  "Esacus_recurvirostris": {
+   "impression": "黑白花脸，大嘴看着有点上翘。",
+   "marks": [
+    "脸上黑白花纹醒目",
+    "嘴黑色，基部黄色",
+    "眼睛亮黄色，腿绿黄色",
+    "上体和胸灰褐、无纵纹"
+   ],
+   "sexAge": "雌雄相似，幼鸟比成鸟稍浅。",
+   "funFact": "在开阔砾石地的裸露浅坑里产卵。",
+   "call": "叫声像哀鸣般的哨音，主要在夜里听到。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%9F%B3%E9%B8%BB"
+  },
+  "Burhinus_oedicnemus": {
+   "impression": "一双大黄眼像护目镜，爱在干燥空地活动。",
+   "marks": [
+    "眼睛大，黄色",
+    "嘴粗壮，黄黑两色",
+    "飞起时翅上黑白斑明显"
+   ],
+   "funFact": "雏鸟出壳后很快就离巢，由爸爸妈妈一起照料。",
+   "call": "夜里的鸣声响亮，像哀鸣，听起来有些像杓鹬。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AD%90%E7%9F%B3%E9%B4%B4"
+  },
+  "Recurvirostra_avosetta": {
+   "impression": "黑白分明的高脚水鸟，细长的嘴向上翘。",
+   "marks": [
+    "嘴细长，向上翘起",
+    "头顶黑帽，延伸到后颈",
+    "身体白，翅和背有黑斑块",
+    "腿蓝色，很长"
+   ],
+   "sexAge": "雌雄外观相似，雄鸟喙更长更直，雌鸟喙更短更弯；幼鸟灰色和赭色更多。",
+   "funFact": "觅食时把喙在水里左右扫动，这是反嘴鹬类独有的方式。",
+   "call": "远处就能听到流动悦耳的「kluit kluit」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%98%B4%E9%B9%AC"
+  },
+  "Himantopus_himantopus": {
+   "impression": "腿又细又长、通体黑白分明，飞行时长腿拖在尾后。",
+   "marks": [
+    "腿极长，粉红色",
+    "喙黑色，细长",
+    "上体黑，下体白",
+    "飞行时长腿拖在尾后"
+   ],
+   "sexAge": "雄鸟头颈常有较多黑色，夏季尤甚，雌鸟较少、背偏褐，但差异并不绝对；亚成鸟偏灰褐。",
+   "funFact": "常在水边土堆或田埂上集群筑巢，邻居有燕鸻、凤头麦鸡和泽鹬。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E7%BF%85%E9%95%BF%E8%84%9A%E9%B9%AC"
+  },
+  "Ibidorhyncha_struthersii": {
+   "impression": "自己独占一个科的鸻形目鸟类，全球只此一种。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%B9%AE%E5%98%B4%E9%B9%AC"
+  },
+  "Haematopus_ostralegus": {
+   "impression": "黑白分明，长直嘴橙红，眼睛也是红的，爱吵闹的涉禽。",
+   "marks": [
+    "黑白相间的羽毛",
+    "喙长而笔直，橙红色",
+    "眼睛红色，腿暗粉红且较短",
+    "飞行时翼、尾有白斑，背黑腹白"
+   ],
+   "sexAge": "雌雄羽色相似，雌鸟喙稍长；幼鸟偏棕，有白色颈圈，喙较暗。",
+   "funFact": "名字带「蛎」，但牡蛎不是主食；不过很少有别的涉禽能像它一样打开牡蛎。",
+   "call": "叫声响亮，是很有特点的尖细笛音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%9B%8E%E9%B9%AC"
+  },
+  "Pluvialis_apricaria": {
+   "marks": [
+    "腋羽白色，展翅时可见",
+    "体形敦实，翅仅略长于尾"
+   ],
+   "funFact": "在冰岛的民间传说里，第一只欧金鸻现身，就意味着春天到了。",
+   "call": "一声略微下滑、带点忧郁的「tuu」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%87%91%E9%B8%BB"
+  },
+  "Eudromias_morinellus": {
+   "impression": "白眉醒目，夏季成鸟胸栗红、腹黑。",
+   "marks": [
+    "各季羽色都有醒目的白眉",
+    "成鸟夏季栗胸上缘有白线",
+    "成鸟夏季腹部黑色",
+    "腿黄，短嘴黑色"
+   ],
+   "sexAge": "雌鸟的羽色比雄鸟更鲜亮。",
+   "similar": [
+    {
+     "sci": "Pluvialis apricaria",
+     "zh": "欧金鸻",
+     "diff": "小嘴鸻比欧金鸻更小，体形也更紧凑。"
+    }
+   ],
+   "funFact": "孵蛋、照顾小鸟的活儿，通常由雄鸟来做。",
+   "call": "飞行时轻声叫「pyurr」；雌鸟唱简单、重复的哨音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%98%B4%E9%B8%BB"
+  },
+  "Vanellus_vanellus": {
+   "impression": "黑白相间、背略带绿的鸻，头顶翘着长冠羽。",
+   "marks": [
+    "雄鸟有长长的冠羽",
+    "头冠、喉、胸黑，脸白",
+    "身体黑白相间，背略带绿",
+    "翅膀圆润，腿在麦鸡中最短"
+   ],
+   "sexAge": "雌鸟和幼鸟的冠羽较短，头部斑纹较不明显，其余羽色相似。",
+   "funFact": "雄鸟炫耀飞行时疯狂翻滚，同时不停鸣叫。",
+   "call": "典型的联络叫声是一声响亮尖锐的「pee-wit」，英文名peewit就是这么来的。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%87%A4%E5%A4%B4%E9%BA%A6%E9%B8%A1"
+  },
+  "Vanellus_indicus": {
+   "impression": "红肉垂挂在眼前，踩着两条黄色长腿。",
+   "marks": [
+    "眼前有红色肉垂",
+    "嘴红色，尖端黑色",
+    "腿长，黄色",
+    "飞行时有显眼的白翅带"
+   ],
+   "sexAge": "雌雄羽色相似。",
+   "funFact": "雏鸟一孵出就跟着亲鸟找吃的，遇到危险会伏在地上或草里。",
+   "call": "白天、夜里都会响亮地叫，听着像一句「did-he-do-it」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%82%89%E5%9E%82%E9%BA%A6%E9%B8%A1"
+  },
+  "Vanellus_leucurus": {
+   "impression": "成鸟腿黄、尾纯白，是站姿挺直的细长麦鸡。",
+   "marks": [
+    "成鸟尾巴纯白",
+    "腿长，黄色",
+    "成鸟背及前颈褐，脸淡、胸灰",
+    "翼上褐、白、黑三色相间"
+   ],
+   "sexAge": "幼鸟背部有鳞状纹，尾上可能带些褐色。",
+   "similar": [
+    {
+     "sci": "Vanellus gregarius",
+     "zh": "黄颊麦鸡",
+     "diff": "腿黄色、头部没有条纹；黄颊麦鸡头顶有条纹、腿深色。"
+    }
+   ],
+   "funFact": "它较其他麦鸡更可能出现在不太浅的水里，主要从水面啄食昆虫等小猎物。",
+   "call": "繁殖期的叫声是「peewit」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%B0%BE%E9%BA%A6%E9%B8%A1"
+  },
+  "Hydrophasianus_chirurgus": {
+   "impression": "繁殖期拖着长长的中央尾羽，在浮叶上踩着走的水鸟",
+   "marks": [
+    "繁殖期中央尾羽拉得很长",
+    "繁殖期脸白，后颈金黄",
+    "繁殖期身体巧克力棕，翅多白",
+    "飞行时白翅带黑边"
+   ],
+   "sexAge": "雌鸟比雄鸟大；幼鸟上体棕色，深色项链不完整。",
+   "similar": [
+    {
+     "sci": "Metopidius indicus",
+     "zh": "铜翅水雉",
+     "diff": "幼鸟容易混。水雉幼鸟颈侧有黑条纹的残迹，翅膀带白色，嘴也更纤细。"
+    }
+   ],
+   "funFact": "雌鸟一季最多能产十窝蛋，每窝由不同的雄鸟抚养。",
+   "call": "猫叫般的「me-onp」，冬季鸟群里是鼻音的「teeun」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B0%B4%E9%9B%89"
+  },
+  "Metopidius_indicus": {
+   "impression": "白眉拖到脑后，踩着浮叶走在水面上。",
+   "marks": [
+    "白眉从眼上延伸到后颈",
+    "头、颈和胸黑色",
+    "翅古铜褐色，泛绿光",
+    "脚趾长，后趾爪比趾更长"
+   ],
+   "sexAge": "雌雄相似，雌鸟更大；幼鸟腹白、头顶红褐色。",
+   "funFact": "遇险时，雄鸟有时会把雏鸟藏在翅膀下面带走。",
+   "call": "会低沉粗哑地咕哝，也会叫「seek-seek-seek」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%93%9C%E7%BF%85%E6%B0%B4%E9%9B%89"
+  },
+  "Numenius_madagascariensis": {
+   "impression": "最大的杓鹬，喙极长而下弯，全身以棕色为主。",
+   "marks": [
+    "喙极长，向下弯曲",
+    "通体主要是棕色",
+    "翼下覆羽单一棕色、无图案",
+    "腰和背下部棕色，不是白色"
+   ],
+   "sexAge": "雌鸟平均比雄鸟重约100克。",
+   "similar": [
+    {
+     "sci": "Numenius arquata",
+     "zh": "白腰杓鹬",
+     "diff": "大杓鹬腰和背下部是棕色，白腰杓鹬是白色。"
+    }
+   ],
+   "funFact": "种加词madagascariensis意为「马达加斯加的」，实为误记，该种从未在马达加斯加有过记录。",
+   "call": "尖锐清晰的哨音「cuuue-reee」，常重复。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%9D%93%E9%B9%AC"
+  },
+  "Numenius_arquata": {
+   "impression": "分布区内最大的涉禽，灰褐色，喙又长又弯。",
+   "marks": [
+    "喙非常长，而且弯曲",
+    "整体灰棕色",
+    "腿灰蓝色",
+    "飞行时脚伸出尾后，形成尖点"
+   ],
+   "sexAge": "雌雄外观相同，但成年雌鸟喙更长。",
+   "similar": [
+    {
+     "sci": "Numenius phaeopus",
+     "zh": "中杓鹬",
+     "diff": "体型较小，喙较短，有折角，不像白腰杓鹬弯得平滑。"
+    },
+    {
+     "sci": "Limosa lapponica",
+     "zh": "斑尾塍鹬",
+     "diff": "冬羽飞行时可能像；斑尾塍鹬体型较小，喙略上翘，腿不伸出尾尖。"
+    }
+   ],
+   "funFact": "倾向在红隼巢附近筑巢，借红隼挡掠食者，尽管红隼也会吃它的蛋。",
+   "call": "响亮的「curloo-oo」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B0%E6%9D%93%E9%B9%AC"
+  },
+  "Limosa_lapponica": {
+   "impression": "嘴长而微微上翘，繁殖羽鲜红；有亚种能不停歇飞越太平洋。",
+   "marks": [
+    "尾羽黑白横纹，没有白色翼带",
+    "长嘴略上翘，基部粉红尖端黑",
+    "繁殖羽颈胸腹砖红，背深棕",
+    "非繁殖期灰褐有纵纹，腹白"
+   ],
+   "sexAge": "雌鸟繁殖羽更暗淡，腹部栗色到肉桂色；幼鸟似非繁殖期成鸟，更偏黄褐。",
+   "similar": [
+    {
+     "sci": "Limosa limosa",
+     "zh": "黑尾塍鹬",
+     "diff": "黑尾塍鹬尾无横纹、以黑色为主，翅上有白色翼带；斑尾塍鹬尾羽黑白横纹，没有白色翼带。"
+    }
+   ],
+   "funFact": "有一只鸟从阿拉斯加不停歇飞到塔斯马尼亚，11天飞了至少13,560公里。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%91%E5%B0%BE%E5%A1%8D%E9%B9%AC"
+  },
+  "Limnodromus_semipalmatus": {
+   "impression": "长直的深色嘴，觅食时像缝纫机一样一下一下往下探。",
+   "marks": [
+    "喙长而直，深色",
+    "腿深色",
+    "繁殖羽上体棕色，下体红色",
+    "尾有黑白相间的横斑"
+   ],
+   "similar": [
+    {
+     "sci": "Limosa lapponica",
+     "zh": "斑尾塍鹬",
+     "diff": "体型比斑尾塍鹬小，叫声尖而短促，觅食时有半蹼鹬属典型的「缝纫机」式动作。"
+    }
+   ],
+   "funFact": "它的繁殖区和冬季栖地，到现在都还不太为人所知。",
+   "call": "叫声尖而短促。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8D%8A%E8%B9%BC%E9%B9%AC"
+  },
+  "Limnodromus_griseus": {
+   "impression": "长嘴在泥里快速探来探去，像踩着缝纫机。",
+   "marks": [
+    "嘴长，体形敦实",
+    "尾羽黑白横斑相间",
+    "腿淡黄色",
+    "冬羽大体灰色"
+   ],
+   "funFact": "它的英文名里虽有「短嘴」，嘴却并不短。",
+   "call": "与长嘴的近亲相比，叫声更柔和，是辨认时的线索。"
+  },
+  "Lymnocryptes_minimus": {
+   "impression": "矮壮的小鹬，身体会不停上下弹动，像装了弹簧一样",
+   "marks": [
+    "身体上部杂斑棕色，下部较浅",
+    "过眼有一道深色眼纹",
+    "头顶没有中央纹，有两条浅色侧冠纹",
+    "翅尖细，飞行时可见黄色背纹"
+   ],
+   "funFact": "它会趴着不动，直到有人靠得很近才从隐蔽处飞起。",
+   "call": "求偶时空中表演会发出像马奔跑的声音；冬季保持安静",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A7%AC%E9%B9%AC"
+  },
+  "Gallinago_gallinago": {
+   "impression": "长直嘴的棕斑小涉禽，被惊起时之字形飞走。",
+   "marks": [
+    "嘴长直，深色",
+    "身体棕色斑驳，上有稻草黄纹",
+    "过眼深色纹，上下有浅色纹",
+    "腿短灰绿，翅尖形"
+   ],
+   "similar": [
+    {
+     "sci": "Gallinago stenura",
+     "zh": "针尾沙锥",
+     "diff": "东亚的近似种，外形非常相似，在当地辨识相当复杂。"
+    },
+    {
+     "sci": "Gallinago megala",
+     "zh": "大沙锥",
+     "diff": "东亚的近似种，外形非常相似，在当地辨识相当复杂。"
+    }
+   ],
+   "funFact": "雄鸟求偶时高飞后浅俯冲，振动尾羽发出「嗡嗡」声，有人比作羊叫，多种语言称它「飞羊」或「天羊」。",
+   "call": "被惊起时发出尖锐的叫声，听起来像scape, scape。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%89%87%E5%B0%BE%E6%B2%99%E9%94%A5"
+  },
+  "Xenus_cinereus": {
+   "impression": "喙长而向上翘的灰色小型鹬，脚黄色。",
+   "marks": [
+    "喙长而上翘，基部黄，其余黑",
+    "背、脸和胸灰色",
+    "白色眉纹，或明显或不明显",
+    "腹部白色，脚黄色"
+   ],
+   "similar": [
+    {
+     "sci": "Recurvirostra avosetta",
+     "zh": "反嘴鹬",
+     "diff": "喙的上翘让人想起反嘴鹬，但弯曲程度不如它。"
+    }
+   ],
+   "funFact": "觅食很活跃，追逐昆虫，有时跑到水边把猎物洗一洗。",
+   "call": "高音的哨声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BF%B9%E5%98%B4%E9%B7%B8"
+  },
+  "Phalaropus_fulicarius": {
+   "impression": "觅食时常在水上快速转圈，搅出小漩涡。",
+   "marks": [
+    "冬羽上灰下白，眼斑黑",
+    "冬季嘴黑色",
+    "繁殖期雌鸟腹红、颊白",
+    "繁殖期雌鸟嘴黄、尖黑"
+   ],
+   "sexAge": "雌鸟比雄鸟大、颜色更鲜艳；幼鸟背浅灰和棕色，腹黄褐，眼部有深斑。",
+   "funFact": "雌鸟产卵后就南迁，留下雄鸟孵蛋、带幼鸟。",
+   "call": "叫声是短短一声「beek」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E7%93%A3%E8%B9%BC%E9%B9%AC"
+  },
+  "Phalaropus_lobatus": {
+   "impression": "常在水面快速转圈觅食的小型涉禽，繁殖期雌鸟比雄鸟艳",
+   "marks": [
+    "喙笔直细长",
+    "繁殖雌鸟颈和上胸栗色",
+    "翅上一条白色条纹",
+    "冬季灰白，仍有黑眼斑"
+   ],
+   "sexAge": "繁殖期雄鸟是雌鸟的暗淡版；幼鸟上体灰褐，下体黄褐",
+   "funFact": "雌鸟追求并争抢雄鸟，孵蛋和带雏全由雄鸟负责",
+   "call": "尖锐的「whit」或「twit」声",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E9%A2%88%E7%93%A3%E8%B9%BC%E9%B9%AC"
+  },
+  "Tringa_incana": {
+   "impression": "灰背白腹的中型鹬，涉水觅食时急促点头",
+   "marks": [
+    "上体、脸颈灰色，腹部白色",
+    "腿短而深黄",
+    "嘴深灰色",
+    "繁殖羽腹部有明显横斑"
+   ],
+   "funFact": "属名Tringa来自亚里士多德提过的一种白臀、会点头的涉禽",
+   "call": "快速、越来越急的断音颤鸣，每次叫3到4个音节",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%B4%B2%E9%BB%84%E8%B6%B3%E9%B9%AC"
+  },
+  "Tringa_flavipes": {
+   "impression": "黄腿的中型涉禽，嘴细直全深色，叫声比大黄脚鹬柔和。",
+   "marks": [
+    "腿黄色",
+    "嘴细直、全深色，长度约和头相当",
+    "繁殖羽上体斑驳，胸颈有褐纹",
+    "胸有纵纹，两胁有细短横纹"
+   ],
+   "sexAge": "雌雄羽色和体型相似。",
+   "funFact": "长得像大黄脚鹬，亲缘上却更近体型大得多的北美鹬。",
+   "call": "叫声比大黄脚鹬柔和。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%BB%83%E8%85%B3%E9%B7%B8"
+  },
+  "Arenaria_interpres": {
+   "impression": "黑白小丑花纹、橙色短腿的矮壮滨鸟，爱翻石头找吃的。",
+   "marks": [
+    "亮橙色短腿",
+    "繁殖期头白，脸有黑色图案",
+    "繁殖期胸黑，两侧有白斑",
+    "喙暗色楔形，略上翘"
+   ],
+   "sexAge": "雌鸟颜色稍暗，头更褐、纵纹更多；幼鸟头浅褐，背羽边缘浅色呈鳞状。",
+   "funFact": "它们靠独特的羽毛花纹认个体，分得清邻居和入侵者。",
+   "call": "叫声短促断续、嘎嘎作响；吱吱喳喳的警报声主要在繁殖季节发出。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BF%BB%E7%9F%B3%E9%B9%AC"
+  },
+  "Calidris_pugnax": {
+   "impression": "繁殖期，多数雄鸟会竖起华丽的大羽领。",
+   "marks": [
+    "繁殖期多数雄鸟有羽冠羽领",
+    "繁殖期典型雄鸟背灰褐有鳞纹",
+    "飞时可见细淡白翼带",
+    "尾部两侧各有白色椭圆斑"
+   ],
+   "sexAge": "雄鸟通常大得多，繁殖时披羽冠和羽领；幼鸟下体明显泛黄褐色。",
+   "similar": [
+    {
+     "sci": "Calidris acuminata",
+     "zh": "尖尾滨鹬",
+     "diff": "比较幼年雌鸟：本种颈腿更长、头更圆，脸部花纹更少。"
+    },
+    {
+     "sci": "Calidris subruficollis",
+     "zh": "黄胸滨鹬",
+     "diff": "本种幼鸟更大，嘴更长、身体更圆，上体有鳞状纹。"
+    }
+   ],
+   "funFact": "觅食时常把背羽竖起来，背上像冒出一个松松的尖。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B5%81%E8%8B%8F%E9%B9%AC"
+  },
+  "Calidris_ferruginea": {
+   "impression": "长喙向下弯，繁殖期下身砖红的小型滨鹬。",
+   "marks": [
+    "喙黑色，长而向下弯",
+    "腰有大白斑，飞时翼上有白带",
+    "繁殖期上身暗灰带斑，下身砖红",
+    "冬羽上灰下白，白眉斑明显"
+   ],
+   "sexAge": "繁殖期雄鸟的锈红更浓；幼鸟背灰褐、腹白，胸带桃色。",
+   "similar": [
+    {
+     "sci": "Calidris canutus",
+     "zh": "红腹滨鹬",
+     "diff": "繁殖羽时也是红肚子，但它个头更大，下身橙黄较浅，腿短偏绿，喙更粗。"
+    },
+    {
+     "sci": "Calidris alpina",
+     "zh": "黑腹滨鹬",
+     "diff": "弯嘴滨鹬的喙更长且下弯，脖子和腿更长，腰白色。"
+    },
+    {
+     "sci": "Calidris himantopus",
+     "zh": "高跷鹬",
+     "diff": "非繁殖羽时相似；高跷鹬没有翼上白条，腿更长且黄，头更扁。"
+    }
+   ],
+   "funFact": "繁殖成功与旅鼠数量有关：旅鼠多的年份，天敌改捕旅鼠。",
+   "call": "起飞时常发一声中间音调下沉的啾鸣；繁殖地的警报声是反复的「whik, whik, whik」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%BC%AF%E5%98%B4%E6%BB%A8%E9%B9%AC"
+  },
+  "Calidris_himantopus": {
+   "impression": "长腿、长颈、嘴微弯，带白眉线的滨鸟。",
+   "marks": [
+    "腿长，黄绿色",
+    "嘴长，只略微弯曲",
+    "白眉线，白腰",
+    "繁殖羽下体满布横纹"
+   ],
+   "sexAge": "幼鸟头部花纹明显、背褐色，下体没有横纹，背羽有白边。",
+   "similar": [
+    {
+     "sci": "Calidris ferruginea",
+     "zh": "弯嘴滨鹬",
+     "diff": "嘴更直、腿更长且是黄绿色而不是黑色，飞行时没有翼上白带。"
+    }
+   ],
+   "funFact": "觅食时会像半蹼鹬那样往泥里猛刺，两者常在一起。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%AB%98%E8%B9%BA%E6%BF%B1%E9%B7%B8"
+  },
+  "Calidris_pygmaea": {
+   "impression": "嘴像小汤匙的小型涉禽，是极危物种。",
+   "marks": [
+    "嘴呈汤匙形",
+    "夏羽头颈胸红棕，有暗褐纵纹",
+    "冬羽没有红色，上身淡褐灰",
+    "下体全白，脚黑色"
+   ],
+   "funFact": "觅食时把嘴探进泥里，低头往前走，嘴左右扫动。",
+   "call": "彼此联络时发出轻柔的「preep」声，也有刺耳的「wheer」声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8B%BA%E5%98%B4%E9%B9%AC"
+  },
+  "Calidris_subminuta": {
+   "impression": "趾又细又长、腿黄的小滨鹬，站姿很特别。",
+   "marks": [
+    "腿脚黄色，趾细长",
+    "头顶棕色，眼上有浅色条纹",
+    "繁殖期上体棕色，羽心深",
+    "喙短而直，深棕色"
+   ],
+   "sexAge": "幼鸟上体花纹鲜艳带红褐色，上背有白色条纹。",
+   "similar": [
+    {
+     "sci": "Calidris ruficollis",
+     "zh": "红颈滨鹬",
+     "diff": "在地上可能混淆；长趾滨鹬身形更纤细，也稍小。"
+    }
+   ],
+   "funFact": "种名subminuta在拉丁语里是「接近小」，因为它和小滨鹬很像。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%BF%E8%B6%BE%E6%BB%A8%E9%B9%AC"
+  },
+  "Calidris_subruficollis": {
+   "impression": "淡黄脸、淡黄肚子，配一双黄腿。",
+   "marks": [
+    "脸和下体淡黄色",
+    "上体棕色",
+    "嘴短，腿黄色"
+   ],
+   "sexAge": "雄鸟比雌鸟大；幼鸟像成鸟，但下体后部可能更浅。",
+   "funFact": "非繁殖季常在机场、高尔夫球场这样的短草地活动。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%84%E8%83%B8%E6%BB%A8%E9%B9%AC"
+  },
+  "Calidris_alba": {
+   "impression": "圆胖的小滨鹬，在沙滩上跑起来双腿像骑自行车。",
+   "marks": [
+    "冬羽近乎全白，肩部有深色斑块",
+    "没有后趾",
+    "飞行时有明显的白色翼带",
+    "夏羽脸和喉变砖红色"
+   ],
+   "sexAge": "幼鸟羽毛黑白相间，对比比成鸟更强。",
+   "similar": [
+    {
+     "sci": "Calidris alpina",
+     "zh": "黑腹滨鹬",
+     "diff": "体型相近，但三趾滨鹬更粗壮、嘴更厚，而且没有后趾。"
+    },
+    {
+     "sci": "Calidris canutus",
+     "zh": "红腹滨鹬",
+     "diff": "大小判断不准时，冬羽三趾滨鹬可能被误认成它；看得清的话，三趾滨鹬没有后趾。"
+    }
+   ],
+   "funFact": "在浪边看似乱跑，其实是趁猎物移到沙层表层、最容易抓的时候多抓几只。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%B8%89%E8%B6%BE%E9%B9%AC"
+  },
+  "Calidris_alpina": {
+   "impression": "繁殖期肚子黑黑的小涉禽，嘴黑而微微下弯",
+   "marks": [
+    "繁殖羽有黑色的腹部",
+    "冬羽上体灰褐，下体白",
+    "腿黑，嘴黑且微微下弯",
+    "飞行时有一道窄白翼斑"
+   ],
+   "sexAge": "幼鸟上体棕色，背上有两道不明显的白色V形纹；雌鸟的嘴比雄鸟长",
+   "funFact": "嘴尖有一层软组织，布满血液和神经末梢，像灵敏的探测器",
+   "call": "叫声是典型的鹬类「chreep」，展示时唱粗糙的颤音",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E8%85%B9%E6%BB%A8%E9%B9%AC"
+  },
+  "Calidris_ptilocnemis": {
+   "impression": "成鸟腿短、嘴细暗，耐寒，冬季迁往岩石海岸。",
+   "marks": [
+    "成鸟腿短",
+    "成鸟嘴细而深色",
+    "成鸟上体较暗，下体大部白色",
+    "成鸟胸部染灰，腰黑"
+   ],
+   "funFact": "各亚种越冬时「蛙跳」：更北的繁殖者飞得比更南的还靠南。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B2%A9%E6%BB%A8%E9%B9%AC"
+  },
+  "Calidris_bairdii": {
+   "impression": "站着时，长翅尖一直伸到尾巴后面。",
+   "marks": [
+    "站立时翅尖超出尾端",
+    "成鸟腰部有黑斑",
+    "成鸟头胸浅褐，带深色纵纹",
+    "成鸟腿黑，嘴短直细暗"
+   ],
+   "funFact": "迁徙和越冬时，常到安第斯山的湖岸和稀疏草地，最高达海拔4700米。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B9%E6%BB%A8%E9%B9%AC"
+  },
+  "Calidris_fuscicollis": {
+   "marks": [
+    "翅长，收拢后略超出尾端",
+    "有浅色眉纹",
+    "嘴中等长、细、深色，腿很黑"
+   ],
+   "sexAge": "各季雌雄外观都相似；冬季羽色更不分明。",
+   "call": "重复的「pip, pip, pip」，另有金属质感的「tzeep」，像两块小石头在摩擦。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B0%E6%BB%A8%E9%B9%AC"
+  },
+  "Turnix_tanki": {
+   "impression": "黄腿、短尾，遇险时通常先跑而不飞。",
+   "marks": [
+    "成年雄鸟腿脚深黄色",
+    "尾短，翅端圆",
+    "成年雄鸟胸侧有圆形黑斑",
+    "成年雄鸟顶黑，边缘浅黄褐"
+   ],
+   "sexAge": "雌鸟略大、羽色较鲜艳；繁殖期成年雌鸟后颈有宽红褐项圈，幼鸟像暗淡版雄鸟。",
+   "funFact": "孵卵、带雏都由雄鸟负责；雌鸟产卵后会另找伴侣，再下一窝蛋。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%84%E8%84%9A%E4%B8%89%E8%B6%BE%E9%B9%91"
+  },
+  "Turnix_suscitator": {
+   "impression": "红棕背、蓝灰嘴，雌鸟比雄鸟更抢眼。",
+   "marks": [
+    "背部红棕色",
+    "嘴和腿蓝灰色",
+    "雌鸟喉和胸中央黑色",
+    "飞起时翼肩有浅黄斑"
+   ],
+   "sexAge": "雌鸟更大、颜色更鲜艳，喉和胸中央黑色。",
+   "funFact": "雌鸟主动求偶、筑巢，产卵后由雄鸟孵蛋和带小鸟。",
+   "call": "一串「drr-r-r-r-r-r」像摩托车声，也会响亮地叫「hoon-hoon-hoon」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A3%95%E4%B8%89%E8%B6%BE%E9%B9%91"
+  },
+  "Turnix_sylvaticus": {
+   "impression": "宁可在地上跑，也不轻易起飞的小鸟。",
+   "marks": [
+    "上体沙褐色，带纵纹",
+    "下体浅黄，胁部有黑斑",
+    "脸上没有花纹",
+    "飞起时灰翅上有一道白纹"
+   ],
+   "sexAge": "雌雄相似，幼鸟下体的斑点更多。",
+   "funFact": "雌鸟主动求偶、筑巢，孵蛋和带小鸟则交给雄鸟。",
+   "call": "雌鸟低沉地叫「hoom-hoom-hoom」，雄鸟用「kek-kek-kek」回应。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9E%97%E4%B8%89%E8%B6%BE%E9%B9%91"
+  },
+  "Glareola_pratincola": {
+   "impression": "像燕子一样飞着捉虫的涉禽，尾长而分叉。",
+   "marks": [
+    "翅长而尖，腿短",
+    "尾长而分叉",
+    "头和背褐色，腹白",
+    "翼下栗色，看着发暗"
+   ],
+   "similar": [
+    {
+     "sci": "Glareola maldivarum",
+     "zh": "普通燕鸻",
+     "diff": "翼下同样是栗色，但尾更短。"
+    },
+    {
+     "sci": "Glareola nordmanni",
+     "zh": "黑翅燕鸻",
+     "diff": "要近距离看得很清楚才能分开。"
+    }
+   ],
+   "funFact": "属名Glareola来自拉丁语「砾石」，指这类鸟典型的营巢地。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%A2%86%E7%87%95%E9%B8%BB"
+  },
+  "Stercorarius_parasiticus": {
+   "impression": "翅上闪着白斑，还会抢鸥和燕鸥的食物。",
+   "marks": [
+    "各色型翅上都有白斑",
+    "浅色型成鸟黑顶，头颈黄白",
+    "浅色型成鸟背褐，下体大部白",
+    "深色型成鸟体羽深褐"
+   ],
+   "similar": [
+    {
+     "sci": "Stercorarius longicaudus",
+     "zh": "长尾贼鸥",
+     "diff": "比较幼鸟：短尾贼鸥更壮实、翼更短，通常偏暖褐色，飞起来较不像燕鸥。"
+    }
+   ],
+   "funFact": "冬季和迁徙途中，主要靠抢其他鸟捕到的食物过日子。",
+   "call": "叫起来像带鼻音的猫叫，展示时会连叫几次。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%9F%AD%E5%B0%BE%E8%B3%8A%E9%B7%97"
+  },
+  "Stercorarius_longicaudus": {
+   "impression": "灰背黑帽、尾巴特别长，成鸟一眼就能认出来。",
+   "marks": [
+    "背部灰色",
+    "头顶黑帽",
+    "尾很长，夏季有长尾羽",
+    "初级飞羽深色，无白色闪斑"
+   ],
+   "sexAge": "成鸟好认，幼鸟麻烦得多，羽色变化很大。",
+   "similar": [
+    {
+     "sci": "Stercorarius parasiticus",
+     "zh": "短尾贼鸥",
+     "diff": "幼鸟在海上很难与它分开；本种幼鸟更纤细、翅更长、更像燕鸥，色调多偏灰而非褐。"
+    }
+   ],
+   "funFact": "属名在拉丁语里是「粪的」：被追赶的鸟吐出的食物，曾被当成粪便。",
+   "call": "繁殖地发出尖叫和嘎啦声；海上是粗哑的kreeah叫声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%B7%E5%B0%BE%E8%B3%8A%E9%B7%97"
+  },
+  "Stercorarius_pomarinus": {
+   "impression": "繁殖期成鸟中央两根尾羽长而扭曲，呈勺形。",
+   "marks": [
+    "繁殖期成鸟中央尾羽长呈勺形",
+    "翼下白斑呈双重闪光",
+    "浅色型成鸟黑顶、头颈黄白",
+    "深色型成鸟体羽深棕色"
+   ],
+   "sexAge": "幼鸟比成鸟更难辨认。",
+   "funFact": "它会抢鸥类和燕鸥的食物，连塘鹅的捕获物也不放过。",
+   "call": "有刺耳的咯咯声，也会发出像「which-yew」的叫声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%B4%BC%E9%B8%A5"
+  },
+  "Stercorarius_maccormicki": {
+   "impression": "胸膛厚实，翅上白斑醒目，常抢其他海鸟的渔获。",
+   "marks": [
+    "成鸟背部灰棕色",
+    "成鸟淡型头腹发白，中间型草棕",
+    "胸部厚实，体型较大",
+    "翅上有明显的白色闪光"
+   ],
+   "sexAge": "幼鸟和深色型成鸟较难和近亲区分，可看较冷的棕色羽毛和蓝色喙基。",
+   "similar": [
+    {
+     "sci": "Stercorarius pomarinus",
+     "zh": "中贼鸥",
+     "diff": "本种体型较大、胸厚，翼上白斑醒目。"
+    }
+   ],
+   "funFact": "有人在真正的地理南极点见到过它。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E8%B3%8A%E9%B7%97"
+  },
+  "Fratercula_arctica": {
+   "impression": "繁殖期黑背白肚，宽大的三角嘴色彩鲜艳。",
+   "marks": [
+    "大嘴侧看像三角形",
+    "繁殖期面颊各有菱形浅灰斑",
+    "背翅黑，胸腹白",
+    "成鸟腿和蹼足亮橙色"
+   ],
+   "sexAge": "雌雄羽色相同，雄鸟通常略大；幼鸟脸更暗，嘴尖和腿呈黄棕色。",
+   "funFact": "繁殖季结束后，嘴上鲜艳的角质装饰会脱落，嘴也显得小了。",
+   "call": "在洞穴里发出低沉咆哮，像电锯刚启动。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8C%97%E6%9E%81%E6%B5%B7%E9%B9%A6"
+  },
+  "Uria_aalge": {
+   "impression": "海里靠翅膀划水，像在水下飞。",
+   "marks": [
+    "嘴细、深色，末端尖",
+    "尾巴小而圆，黑色",
+    "繁殖羽指名亚种头背翅黑",
+    "繁殖后换羽，白脸带深色眼后纹"
+   ],
+   "sexAge": "雌雄在野外难区分；第一年冬季的幼鸟羽色与成鸟冬羽相同。",
+   "funFact": "不筑巢，把一枚卵放在崖壁裸岩上，夹在双脚之间孵。",
+   "call": "成鸟主要低吼般地叫「murrrr」，幼鸟乞食时尖声吹哨。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B4%96%E6%B5%B7%E9%B4%89"
+  },
+  "Anous_stolidus": {
+   "impression": "深巧克力褐色的海鸟，头顶和前额偏灰白。",
+   "marks": [
+    "羽毛深巧克力褐色",
+    "头顶、前额淡灰或白色",
+    "有一圈不完整的白眼圈",
+    "尾长呈楔形，脚腿深色"
+   ],
+   "similar": [
+    {
+     "sci": "Anous minutus",
+     "zh": "玄燕鸥",
+     "diff": "本种体型更大，羽毛深褐而非黑色。"
+    }
+   ],
+   "funFact": "属名和种名在古希腊语和拉丁语里都有「愚蠢」的意思。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A1%B6%E7%8E%84%E9%B8%A5"
+  },
+  "Anous_minutus": {
+   "impression": "一身黑羽，头上像戴着一顶白帽子。",
+   "marks": [
+    "头顶浅色，体羽深色",
+    "眼下白月牙，眼上白点",
+    "嘴黑色，尖而锐",
+    "翅长而渐尖，尾端平截"
+   ],
+   "funFact": "巢常筑在树枝上，用干叶和鸟粪搭成平台，往后几年还会重复使用。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E7%8E%84%E7%87%95%E9%B7%97"
+  },
+  "Onychoprion_aleuticus": {
+   "impression": "很像北极燕鸥，但繁殖期额头白、嘴脚黑。",
+   "marks": [
+    "繁殖期黑帽、白额头",
+    "背中灰，下体偏深灰",
+    "繁殖期嘴和腿黑色",
+    "翼下白，次级飞羽有深色横杠"
+   ],
+   "sexAge": "雌雄没有明显差异。幼鸟有白色领环、大片白额头，下体白色。",
+   "funFact": "越冬地到1980年代末才弄清：不少在西太平洋赤道附近过冬。",
+   "call": "断续的「chif-chif-chu-ak」，也有拖长的「whee-hee-hee-hee」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B0%E7%87%95%E9%B7%97"
+  },
+  "Onychoprion_fuscatus": {
+   "impression": "背黑、腹白至浅灰的远洋燕鸥，能连续飞行好几年。",
+   "marks": [
+    "上体黑，下体白至浅灰",
+    "额头白色",
+    "尾叉形，黑色，外缘白",
+    "腿和嘴黑色"
+   ],
+   "sexAge": "幼鸟上下体灰黑，上体羽缘浅色，看起来像鳞片。",
+   "similar": [
+    {
+     "sci": "Onychoprion anaethetus",
+     "zh": "褐翅燕鸥",
+     "diff": "它体型更小；乌燕鸥背更深，额头白色更宽，没有浅色颈环。"
+    }
+   ],
+   "funFact": "羽毛缺油脂，浮不起来，所以在海上只能一直飞。",
+   "call": "叫声响亮刺耳，像wide-a-wake，也记作ker-wack-a-wack；另有刺耳的警戒声kvaark。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E7%87%95%E9%B8%A5"
+  },
+  "Onychoprion_anaethetus": {
+   "impression": "成鸟白眉、后颈有白领，拖着深叉长尾。",
+   "marks": [
+    "成鸟额和眉白色",
+    "成鸟后颈有显眼白领",
+    "成鸟尾长而深叉，翅窄尖",
+    "嘴和腿黑色"
+   ],
+   "sexAge": "幼鸟上体灰色带鳞状纹，下体浅色。",
+   "similar": [
+    {
+     "sci": "Onychoprion fuscatus",
+     "zh": "乌燕鸥",
+     "diff": "褐翅燕鸥背色较浅，白额较窄，后颈还有浅色领圈。"
+    }
+   ],
+   "funFact": "求偶时，雄鸟会给雌鸟献上鱼。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A4%90%E7%BF%85%E7%87%95%E9%B8%A5"
+  },
+  "Sternula_albifrons": {
+   "impression": "小型燕鸥，繁殖期有白色前额，黄嘴尖端黑，腿黄色。",
+   "marks": [
+    "繁殖期有白色前额",
+    "喙纤细尖，黄色，尖端黑",
+    "腿黄色",
+    "冬季前额更白，喙变黑，腿色变暗"
+   ],
+   "funFact": "雄鸟向雌鸟献鱼，是求偶展示的一部分。",
+   "call": "响亮而独特的嘎嘎声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A2%9D%E7%87%95%E9%B8%A5"
+  },
+  "Chlidonias_leucopterus": {
+   "impression": "夏羽黑身白翅配红短腿，缓慢飞过水面捉虫的浮鸥。",
+   "marks": [
+    "夏羽颈、腹黑，背深灰",
+    "翅膀大多白色",
+    "夏羽腿短红色，喙短黑色",
+    "夏羽腰白，尾浅灰近白"
+   ],
+   "sexAge": "幼鸟尾常显方形，腰淡灰色。",
+   "similar": [
+    {
+     "sci": "Chlidonias niger",
+     "zh": "黑浮鸥",
+     "diff": "黑浮鸥胸侧有深色斑块，白翅浮鸥没有。"
+    }
+   ],
+   "funFact": "它不扎水捕鱼，而是慢慢飞过水面啄食，也在空中抓虫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%BF%85%E6%B5%AE%E9%B8%A5"
+  },
+  "Thalasseus_bergii": {
+   "impression": "黄嘴灰背白肚皮的大型燕鸥，头顶一撮蓬乱的黑冠。",
+   "marks": [
+    "喙长，黄色",
+    "繁殖期黑羽冠光亮，后部蓬乱",
+    "额头和下体白，背和内侧翅膀暗灰",
+    "冬羽头顶变白，后部黑冠斑杂"
+   ],
+   "sexAge": "雌雄成鸟一模一样；幼鸟头部像冬羽成鸟，上体有明显的灰、棕、白斑纹。",
+   "similar": [
+    {
+     "sci": "Thalasseus bengalensis",
+     "zh": "小凤头燕鸥",
+     "diff": "大凤头燕鸥比它大25%，喙相对更长，头更长更重；它的喙带橙色。"
+    }
+   ],
+   "funFact": "会跟着渔船捡被丢弃的渔获；在南非，还有在建筑物屋顶上繁殖的。",
+   "call": "领地叫声响亮刺耳，像乌鸦的「kerrak」；飞行中有硬的「wep wep」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%B3%B3%E9%A0%AD%E7%87%95%E9%B7%97"
+  },
+  "Sterna_aurantia": {
+   "impression": "夏天黄嘴红腿，分叉长尾拖着细长尾羽。",
+   "marks": [
+    "嘴粗，夏季鲜黄色",
+    "腿鲜红色",
+    "繁殖羽黑顶延伸到眼下",
+    "成鸟上体深灰，下体白或浅灰"
+   ],
+   "sexAge": "雌雄相似；幼鸟头褐色，灰色上体带褐斑，嘴偏黄、尖端深色。",
+   "funFact": "冬天会失去两根最长的外侧尾羽，尾巴一下显得短了许多。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%84%E5%98%B4%E6%B2%B3%E7%87%95%E9%B8%A5"
+  },
+  "Sterna_acuticauda": {
+   "impression": "夏天肚子黑、尾叉深的内陆河燕鸥。",
+   "marks": [
+    "繁殖羽头顶后颈黑，背浅灰",
+    "繁殖羽腹黑，往胸部渐浅",
+    "尾叉深，尖端尖",
+    "非繁殖期腹偏白，嘴尖深色"
+   ],
+   "similar": [
+    {
+     "sci": "Chlidonias hybrida",
+     "zh": "须浮鸥",
+     "diff": "繁殖羽相比，对方尾叉浅、黑色较靠近胸部；本种尾叉深，黑色在下腹。"
+    }
+   ],
+   "funFact": "它完全是内陆鸟，不在海岸出现，多在低地河流和沼泽。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E8%85%B9%E7%87%95%E9%B8%A5"
+  },
+  "Sterna_hirundo": {
+   "impression": "繁殖期黑帽、橙红腿，站着时尾巴不超过翼尖。",
+   "marks": [
+    "繁殖期头顶黑帽",
+    "嘴细尖，红色黑尖（部分亚种全黑）",
+    "繁殖期腿橙红色",
+    "站着时长尾只到翼尖，不超出"
+   ],
+   "sexAge": "雌雄没有明显差别；幼鸟头顶和后颈褐色，额头姜黄色。",
+   "similar": [
+    {
+     "sci": "Sterna dougallii",
+     "zh": "粉红燕鸥",
+     "diff": "粉红燕鸥羽色更淡，嘴长且大多黑色，尾羽很长。"
+    }
+   ],
+   "funFact": "雄鸟把鱼送给雌鸟，是一种求爱的表示。",
+   "call": "叫声像笛声，音调比北极燕鸥低，也没那么刺耳。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E7%87%95%E9%B7%97"
+  },
+  "Rhodostethia_rosea": {
+   "impression": "成鸟夏羽泛粉红，颈有黑环，尾呈楔形的小鸥。",
+   "marks": [
+    "成鸟夏羽上浅灰下白，体羽泛粉红",
+    "夏羽成鸟颈上有整齐黑环",
+    "尾呈楔形，翅比小鸥更尖",
+    "腿红色"
+   ],
+   "sexAge": "幼鸟像冬羽成鸟，没有粉色，飞行时翼上有深色「W」纹；两年才长成成鸟羽。",
+   "similar": [
+    {
+     "sci": "Hydrocoloeus minutus",
+     "zh": "小鸥",
+     "diff": "比小鸥稍大、翅更长更尖，尾呈楔形；幼鸟翼上都有深色「W」纹。"
+    }
+   ],
+   "funFact": "繁殖地1905年才被发现，在雅库特东北部。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A5%94%E5%B0%BE%E9%B8%A5"
+  },
+  "Rissa_tridactyla": {
+   "impression": "黑腿黄嘴、翅尖全黑的海鸥，繁殖季外几乎都在海上。",
+   "marks": [
+    "翅灰，翅尖黑色",
+    "黑腿，黄嘴",
+    "头和身体白色，背灰",
+    "冬羽眼后深灰斑，后颈灰圈"
+   ],
+   "sexAge": "幼鸟翅上有黑色「W」带，后颈黑领，尾端黑带，嘴全黑；四岁才长成成鸟羽毛。",
+   "similar": [
+    {
+     "sci": "Hydrocoloeus minutus",
+     "zh": "小鸥",
+     "diff": "仅幼鸟易混：三趾鸥幼鸟翅上黑色「W」更宽，覆羽图案也不同。"
+    },
+    {
+     "sci": "Xema sabini",
+     "zh": "叉尾鸥",
+     "diff": "三趾鸥幼鸟可能与它的幼鸟或成鸟混淆；三趾鸥幼鸟翅上有黑色「W」，覆羽图案也与它不同。"
+    }
+   ],
+   "funFact": "种加词意为「三趾」；大西洋指名亚种后趾极小或缺失，太平洋亚种有后趾。",
+   "call": "拉长的「kit-ti-wake」，英文名就来自它；有捕食者时全群齐发「哦哦哦哦」的警告声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%B8%89%E8%B6%BE%E9%B8%A5"
+  },
+  "Xema_sabini": {
+   "impression": "成鸟翅上黑、白、灰三色分明，白尾微叉的小鸥。",
+   "marks": [
+    "成鸟灰背，初级飞羽外黑内白",
+    "嘴黑，尖端黄",
+    "成鸟白尾，略呈叉形",
+    "繁殖期头罩深灰，下缘一道窄黑领"
+   ],
+   "sexAge": "幼鸟翼面也是三色，但灰色换成褐色，尾有黑色端带；约两年才换成成鸟羽。",
+   "similar": [
+    {
+     "sci": "Rissa tridactyla",
+     "zh": "三趾鸥",
+     "diff": "远距离可能和幼年三趾鸥混淆；叉尾鸥翼面图案醒目，可靠它辨认。"
+    }
+   ],
+   "funFact": "每年迁徙多达3.2万到3.9万公里，是所有鸥类里最长的迁徙。",
+   "call": "很高、很尖的吱吱声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8F%89%E5%B0%BE%E9%B8%A5"
+  },
+  "Chroicocephalus_genei": {
+   "impression": "白头白胸，嘴细长而暗红，夏天也没有黑头罩",
+   "marks": [
+    "头和胸白色，身体浅灰",
+    "嘴暗红，头和嘴呈细长渐尖",
+    "初级飞羽尖端黑色",
+    "腿暗红色，脖子显得长"
+   ],
+   "sexAge": "第一年幼鸟尾端有黑色横带，翅上有深色区域",
+   "similar": [
+    {
+     "sci": "Chroicocephalus ridibundus",
+     "zh": "红嘴鸥",
+     "diff": "比红嘴鸥略大，夏天头上没有黑色头罩"
+    }
+   ],
+   "funFact": "在水面上几米高处飞行，见到猎物就扎水；也会在空中捉虫",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%B4%B0%E5%98%B4%E9%B7%97"
+  },
+  "Chroicocephalus_ridibundus": {
+   "impression": "夏季成鸟棕头红嘴红脚，冬天头上只剩两个深色斑点。",
+   "marks": [
+    "夏季头巧克力棕，远看似黑",
+    "冬季棕色消失，剩两个深斑",
+    "夏季成鸟喙和腿红色",
+    "飞行时外翼前缘白色"
+   ],
+   "sexAge": "雌雄羽色无差异；离巢后头一两个月的幼鸟，身体大部分布满棕色斑点，尾有黑色带。",
+   "funFact": "1985年以后，每年冬天都有成千上万只红嘴鸥飞到昆明市区的湖泊越冬。",
+   "call": "喧闹，繁殖群体里常发出熟悉的「kree-ar」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%98%B4%E9%B8%A5"
+  },
+  "Ichthyaetus_ichthyaetus": {
+   "impression": "体型很大的鸥，夏天戴黑头罩，同样大的鸥里没有别的黑头。",
+   "marks": [
+    "夏羽头戴黑色头罩",
+    "背和翅灰色，翅尖有明显白斑",
+    "腿黄色，嘴橙黄、尖端红",
+    "其他羽色有贯眼深色眼罩"
+   ],
+   "sexAge": "幼鸟上体很快变灰，要四年才成熟。",
+   "funFact": "体长55到72厘米，是全世界第三大的鸥，仅次于大黑背鸥和北极鸥。",
+   "call": "叫声是低沉的「aargh」，飞行时的叫声低而带鼻音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B8%94%E9%B8%A5"
+  },
+  "Larus_cachinnans": {
+   "impression": "嘴细长、前额倾斜、腿脖都偏长的大型银鸥。",
+   "marks": [
+    "嘴细长，前额倾斜让嘴显得更长",
+    "眼小常暗色，腿浅粉到浅黄",
+    "腿、翼、颈比银鸥更长",
+    "最外侧初级飞羽尖端有大白斑"
+   ],
+   "sexAge": "第一个冬天的幼鸟头色浅，后颈有深色纵纹，翼上有两道浅色横线。",
+   "funFact": "种名cachinnans意思是「笑着的」，源自拉丁语「发笑」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%83%E8%85%B3%E9%8A%80%E9%B7%97"
+  },
+  "Phaethon_rubricauda": {
+   "impression": "几乎全白，红嘴，深色眼纹，拖着红色长尾羽",
+   "marks": [
+    "喙鲜红色，鼻孔周围黑",
+    "两根橙红色长尾羽",
+    "深褐色逗号状眼纹",
+    "羽毛几乎全白，常带粉色"
+   ],
+   "sexAge": "雌雄羽毛相似；幼鸟头背有黑色横斑和鳞纹，喙黑灰色",
+   "similar": [
+    {
+     "sci": "Phaethon lepturus",
+     "zh": "白尾鹲",
+     "diff": "红尾鹲喙是红色、翅膀全白，以此和成年白尾鹲区分"
+    },
+    {
+     "sci": "Chroicocephalus novaehollandiae",
+     "zh": "澳洲红嘴鸥",
+     "diff": "红尾鹲体型更大更重，尾巴呈楔形"
+    }
+   ],
+   "funFact": "走路摇晃不便，所以会迎风飞行，失速后直接落地",
+   "call": "飞行时通常不出声；求偶飞行时发尖锐的咯咯声，防御时低声咆哮",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%B0%BE%E7%83%AD%E5%B8%A6%E9%B8%9F"
+  },
+  "Phaethon_lepturus": {
+   "impression": "以白色为主的纤细海鸟，中央尾羽特别长。",
+   "marks": [
+    "中央尾羽很长",
+    "黑色眼罩",
+    "内翼有黑色翼带",
+    "喙橙黄到橙红色"
+   ],
+   "sexAge": "雌雄相似，雄鸟尾羽平均更长；幼鸟没有长尾羽，喙绿黄色，背有细纹。",
+   "similar": [
+    {
+     "sci": "Phaethon aethereus",
+     "zh": "红嘴鹲",
+     "diff": "喙色、纯白的背和黑色翼带是区分两者的要点。"
+    }
+   ],
+   "funFact": "全长71–80厘米，很长的中央尾羽让总长度翻了一倍。",
+   "call": "高音尖叫，像「keee-keee-krrrt-krrt-krrt」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%B0%BE%E7%83%AD%E5%B8%A6%E9%B8%9F"
+  },
+  "Gavia_stellata": {
+   "impression": "繁殖期灰头红喉白腹，潜鸟里个头最小。",
+   "marks": [
+    "繁殖期喉部有三角形红斑",
+    "繁殖期头颈灰色，腹白",
+    "喙细直尖，常微微上翘",
+    "冬羽脸和前颈偏白"
+   ],
+   "sexAge": "雌雄外形相近，雄鸟略大略重；幼鸟颈侧和喉部斑点密，嘴浅灰。",
+   "similar": [
+    {
+     "sci": "Gavia arctica",
+     "zh": "黑喉潜鸟",
+     "diff": "远处、换羽时或光线不佳可能混淆；红喉潜鸟头颈白色更多，没有低浮在水里时，胁部白色也往往更多"
+    }
+   ],
+   "funFact": "潜鸟里只有它能直接从陆地起飞。",
+   "call": "飞行时发出急促如鹅的「kaa-kaa-kaa」或「kak-kak-kak」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%96%89%E6%BD%9C%E9%B8%9F"
+  },
+  "Gavia_adamsii": {
+   "impression": "体型最大的潜鸟，嘴象牙色、向上翘。",
+   "marks": [
+    "嘴象牙色，上扬，上颚有浅色中线",
+    "有白色颈环",
+    "虹膜红色，脚黑色"
+   ],
+   "funFact": "性警惕，睡觉时脚也在划水，眼睛睁开一条缝。",
+   "call": "叫声似哭又似笑；海上无声，繁殖地会发出假声的尖叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%98%B4%E6%BD%9C%E9%B8%9F"
+  },
+  "Gavia_pacifica": {
+   "impression": "繁殖羽灰头黑喉，背上像铺着黑白棋盘。",
+   "marks": [
+    "繁殖羽灰头黑喉",
+    "繁殖羽背黑白格、下体白",
+    "两胁没有白色斑块",
+    "非繁殖羽颏和前颈白色"
+   ],
+   "sexAge": "未成年鸟上体深灰褐色，羽缘带一点白色。",
+   "funFact": "幼鸟出巢后，亲鸟有时会把它驮在背上。",
+   "call": "捕食时会短促尖叫「啊」；繁殖季还有嘹亮的哀嚎声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BD%9C%E9%B8%9F"
+  },
+  "Gavia_arctica": {
+   "impression": "繁殖期灰头、黑喉、白腹，背上有白色方格的潜鸟。",
+   "marks": [
+    "繁殖期头灰、喉黑、腹白",
+    "繁殖期背上有成排的白色方格",
+    "嘴笔直，灰黑色",
+    "非繁殖期喉部黑块消失，换成白色"
+   ],
+   "sexAge": "雌雄相似；幼鸟像非繁殖羽的成鸟，但整体更褐。",
+   "similar": [
+    {
+     "sci": "Gavia pacifica",
+     "zh": "太平洋潜鸟",
+     "diff": "黑喉潜鸟的胁部是白色的，靠这一点和太平洋潜鸟区分。"
+    }
+   ],
+   "funFact": "起飞笨拙，要在水面上扑腾着助跑一段才飞得起来。",
+   "call": "飞行时发出吠叫般的「kwow」，另有拖长的「áááh-oo」哀号。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E5%96%89%E6%BD%9B%E9%B3%A5"
+  },
+  "Aptenodytes_forsteri": {
+   "impression": "成鸟黑背白肚，耳侧亮黄，胸口泛淡黄。",
+   "marks": [
+    "成鸟耳侧斑块亮黄色",
+    "成鸟头、喉和背都是深黑色",
+    "成鸟腹白，上胸渐变浅黄",
+    "成鸟上喙黑，下喙可粉、橙或淡紫"
+   ],
+   "funFact": "雄鸟把蛋托在脚上保温，孵蛋期间不进食，靠储存的脂肪撑着。",
+   "call": "雏鸟会发出音调变化的哨声，向父母讨食或联系。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%9A%87%E5%B8%9D%E4%BC%81%E9%B9%85"
+  },
+  "Pygoscelis_adeliae": {
+   "impression": "成鸟黑头白肚，眼外套着醒目的白环。",
+   "marks": [
+    "成鸟黑眼外围有白色眼环",
+    "成鸟头喉和上体黑，下体白",
+    "黑羽包住大半嘴，只露尖",
+    "腿和脚偏粉红色"
+   ],
+   "sexAge": "雌雄外观相同，雌鸟嘴和翅更短、体重更轻；幼鸟尚无完整白眼环。",
+   "funFact": "冬季留在浮冰区，繁殖时却要找无冰的裸露石地筑巢。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BE%B7%E5%88%A9%E4%BC%81%E9%B5%9D"
+  },
+  "Pygoscelis_papua": {
+   "impression": "头顶横着宽白带，嘴巴橙红的企鹅。",
+   "marks": [
+    "头顶横过一道宽白带",
+    "嘴巴鲜亮橙红色",
+    "蹼足淡粉白色",
+    "尾巴较长"
+   ],
+   "sexAge": "雏鸟背部灰色，身体前面白色。",
+   "funFact": "用石头围圈筑巢，还会为石头的归属吵起来。",
+   "call": "常仰着头，发出响亮的喇叭声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E4%BA%9E%E4%BC%81%E9%B5%9D"
+  },
+  "Spheniscus_demersus": {
+   "impression": "成鸟胸前一条黑色马蹄带，叫起来像驴。",
+   "marks": [
+    "成鸟胸前黑带呈马蹄形",
+    "眼睛上方有粉红裸皮",
+    "成鸟黑脸，脸至颈间宽白带",
+    "成鸟背部及翅膀外侧黑色"
+   ],
+   "sexAge": "雌雄长得相近，雄鸟通常更大，嘴也更长。",
+   "funFact": "成鸟胸前黑斑各有各的排列，就像人的指纹。",
+   "call": "求偶时的叫声像驴叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8D%97%E9%9D%9E%E4%BC%81%E9%B9%85"
+  },
+  "Phoebastria_albatrus": {
+   "impression": "成鸟白身、淡黄头顶，配一张硕大的粉红嘴。",
+   "marks": [
+    "嘴大而粉红，老鸟嘴尖蓝",
+    "成鸟头顶后颈泛黄色",
+    "成鸟大部白，飞羽黑色",
+    "成鸟尾端有黑带"
+   ],
+   "sexAge": "幼鸟全身褐色，随着长大逐渐变白。",
+   "similar": [
+    {
+     "sci": "Phoebastria immutabilis",
+     "zh": "黑背信天翁",
+     "diff": "本种体型更大、嘴呈粉红色，较老个体嘴尖会泛蓝。"
+    },
+    {
+     "sci": "Phoebastria nigripes",
+     "zh": "黑脚信天翁",
+     "diff": "本种体型更大、嘴呈粉红色，较老个体嘴尖会泛蓝。"
+    }
+   ],
+   "funFact": "名字叫「短尾」，尾巴却不比黑背信天翁和黑脚信天翁短。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%9F%AD%E5%B0%BE%E4%BF%A1%E5%A4%A9%E7%BF%81"
+  },
+  "Phoebastria_immutabilis": {
+   "impression": "像海鸥的信天翁，背翅黑灰，头和下体白，眼周一抹黑。",
+   "marks": [
+    "背、翼面、尾黑灰色",
+    "头和下体白色",
+    "眼周一抹黑斑",
+    "成鸟嘴粉色，尖端深色"
+   ],
+   "sexAge": "幼鸟嘴灰色、上腰深色；雄鸟比雌鸟大。",
+   "similar": [
+    {
+     "sci": "Phoebastria nigripes",
+     "zh": "黑脚信天翁",
+     "diff": "黑脚信天翁通体黑色；黑背信天翁头和下体是白的，容易分开。"
+    },
+    {
+     "sci": "Phoebastria albatrus",
+     "zh": "短尾信天翁",
+     "diff": "短尾信天翁很罕见；黑背信天翁整个背部都是深色，体型也更小。"
+    }
+   ],
+   "call": "平时很安静，偶尔发出长长的「哞」声、下滑的嘶鸣或咯咯声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E8%83%8C%E4%BF%A1%E5%A4%A9%E7%BF%81"
+  },
+  "Oceanites_oceanicus": {
+   "impression": "深褐色小海鸟，腰和两胁白色，会跟着海船飞。",
+   "marks": [
+    "除腰和两胁白色外，通体深褐色",
+    "翼上覆羽有一道模糊的浅色带",
+    "趾间蹼黄色",
+    "尾端平，飞行时脚略伸出尾后"
+   ],
+   "sexAge": "亚成体的脚蹼上有黑色斑点。",
+   "funFact": "平均约40克，是在南极繁殖的温血动物里最小的。",
+   "call": "觅食时发出轻微的吱吱声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%84%E8%B9%BC%E6%B4%8B%E6%B5%B7%E7%87%95"
+  },
+  "Hydrobates_tristrami": {
+   "impression": "可能是海燕科最大者，通体深色，腰部稍淡。",
+   "marks": [
+    "通体深色，腰部稍淡",
+    "上翅有一道淡灰色的带子",
+    "翅膀长，带棱角",
+    "喙粗壮"
+   ],
+   "funFact": "通常夜里回到繁殖群落，繁殖期在冬季。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A4%90%E7%BF%85%E5%8F%89%E5%B0%BE%E6%B5%B7%E7%87%95"
+  },
+  "Hydrobates_leucorhous": {
+   "impression": "通常腰白、尾分叉的小型海燕，飞行时扑扇着翅膀。",
+   "marks": [
+    "整体近黑，脸色略浅",
+    "翼上次级覆羽有一道较浅的灰褐带",
+    "腰通常白色，中间有一线暗色",
+    "尾呈叉形"
+   ],
+   "similar": [
+    {
+     "sci": "Oceanites oceanicus",
+     "zh": "黄蹼洋海燕",
+     "diff": "白腰叉尾海燕个头更大，尾叉形，腰部图案和飞行方式也不同。"
+    }
+   ],
+   "funFact": "对这么小的鸟来说寿命很长，平均13年，有记录超过38年。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B0%E5%8F%89%E5%B0%BE%E6%B5%B7%E7%87%95"
+  },
+  "Fulmarus_glacialis": {
+   "impression": "短粗嘴、粗脖子，振翅飞行时翅膀显得很僵硬。",
+   "marks": [
+    "嘴淡黄、短而粗",
+    "鼻孔位于上嘴顶部",
+    "浅色型白头白身、灰翅灰尾",
+    "深色型全身灰色"
+   ],
+   "funFact": "从雏鸟时起，就能从嘴里喷出胃油来抵御捕食者。",
+   "call": "吃东西时发出咕噜声和咯咯声，繁殖季会发出喉音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9A%B4%E9%9B%AA%E9%B9%B1"
+  },
+  "Ardenna_tenuirostris": {
+   "impression": "跨越太平洋，在南北半球之间来回迁徙。",
+   "marks": [
+    "尾端较钝",
+    "嘴黑色"
+   ],
+   "sexAge": "刚会飞的幼鸟可能比亲鸟还重。",
+   "funFact": "亲鸟一次出海觅食可达1500公里，雏鸟可能独自留守超过一周。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%9F%AD%E5%B0%BE%E9%B9%B1"
+  },
+  "Ardenna_grisea": {
+   "impression": "深色的中大型鹱，翅僵直，左右倾斜着贴水面滑翔。",
+   "marks": [
+    "羽色深，弱光近黑，强光巧克力褐",
+    "翼下中央有一道银色条纹",
+    "飞行时翅膀僵直，很少拍翅",
+    "翼尖几乎擦到水面"
+   ],
+   "similar": [
+    {
+     "sci": "Ardenna tenuirostris",
+     "zh": "短尾鹱",
+     "diff": "在太平洋一带，两者远看几乎分不出来。"
+    }
+   ],
+   "funFact": "标记实验显示，新西兰繁殖的个体一年行程可达约7.4万公里。",
+   "call": "繁殖地夜里会发出响亮的咕咕声和呱呱声；在海上通常不出声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E9%B9%B1"
+  },
+  "Ardenna_carneipes": {
+   "impression": "全身黑，脚淡粉，浅色的嘴带着黑尖的鹱。",
+   "marks": [
+    "羽毛黑色",
+    "脚淡粉色",
+    "喙淡色",
+    "喙端有明显的黑尖"
+   ],
+   "funFact": "2021年的研究发现它和粉足鹱基因几乎没有差异，或许该算同一个种。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B7%A1%E8%B6%B3%E9%B8%8C"
+  },
+  "Pterodroma_solandri": {
+   "impression": "大而壮的海鸟，飞起来轻巧，落地却笨拙。",
+   "funFact": "诺福克岛上估计约100万只被捕食用，到1800年岛上的种群被彻底消灭。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A3%95%E5%A4%B4%E5%9C%86%E5%B0%BE%E9%B9%B1"
+  },
+  "Pterodroma_neglecta": {
+   "impression": "同一种鸟，也有浅色、深色和中间色型。",
+   "funFact": "一年养育一只雏鸟，约100–130天后幼鸟独立。"
+  },
+  "Pterodroma_heraldica": {
+   "impression": "羽色有深有浅，也有介于两者之间的。",
+   "funFact": "一只1984年在雷恩岛标记的鸟，2007年又在毛里求斯外海被见到。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%BF%A1%E4%BD%BF%E5%9C%86%E5%B0%BE%E9%B9%B1"
+  },
+  "Anastomus_oscitans": {
+   "impression": "成鸟喙合拢时中间留缺口的鹳，主要吃蜗牛等软体动物。",
+   "marks": [
+    "成鸟喙合拢时有明显缺口",
+    "翅和尾亮黑色",
+    "繁殖期偏白，非繁殖期偏灰",
+    "短腿粉灰色，繁殖前泛红"
+   ],
+   "sexAge": "幼鸟喙没有缺口，通体褐灰，背偏褐。",
+   "similar": [
+    {
+     "sci": "Ciconia ciconia",
+     "zh": "白鹳",
+     "diff": "远看很像；近看钳嘴鹳成鸟喙合拢时有明显缺口。"
+    },
+    {
+     "sci": "Ciconia boyciana",
+     "zh": "东方白鹳",
+     "diff": "远看很像；近看钳嘴鹳成鸟喙合拢时有明显缺口。"
+    }
+   ],
+   "funFact": "喙上的缺口不是捉蜗牛必需的，没有缺口的幼鸟也照样捕到蜗牛。",
+   "call": "平时安静；交配时雄鸟以喙击打雌鸟的喙发出咔嗒声，伴侣归巢时发出低沉鸣声致意。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%92%B3%E5%98%B4%E9%B9%B3"
+  },
+  "Leptoptilos_javanicus": {
+   "impression": "头颈几乎光秃，上体暗色，肚子白。",
+   "marks": [
+    "头颈近裸露，只散生细羽",
+    "上体均匀暗色，近乎全黑",
+    "腹部和尾下白色",
+    "颈下没有悬垂喉囊"
+   ],
+   "sexAge": "雌雄羽色相似，雄鸟通常更大、嘴更粗；幼鸟羽色较暗淡，后颈羽毛更多。",
+   "funFact": "飞行时会把脖子缩起来。",
+   "call": "平时多沉默，在巢边会敲嘴、嘶叫和低吟。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%A6%BF%E9%B8%9B"
+  },
+  "Mycteria_leucocephala": {
+   "impression": "成鸟黄厚嘴尖端下弯，三级飞羽末端粉红。",
+   "marks": [
+    "成鸟黄厚嘴，尖端下弯",
+    "成鸟头部裸露，橙色或偏红",
+    "成鸟胸前黑横带，有白色鳞斑",
+    "成鸟三级飞羽尖粉红，静栖覆背腰"
+   ],
+   "sexAge": "雌雄外观相似，雄鸟通常比雌鸟大；幼鸟羽色偏褐。",
+   "funFact": "它往自己腿上排便来降温，所以黄到红的腿常常看起来是白的。",
+   "call": "几乎不出声，巢边有轻微的呻吟声，或用嘴啪嗒作响。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%A4%B4%E9%B9%AE%E9%B9%B3"
+  },
+  "Ciconia_nigra": {
+   "impression": "黑身白肚，红腿红嘴细长的大型涉禽。",
+   "marks": [
+    "黑羽带紫绿光泽",
+    "下胸和腹部白色",
+    "腿细长红，嘴长直红",
+    "眼周裸皮红色"
+   ],
+   "sexAge": "雌雄外观相同，雄鸟平均更大。幼鸟羽色类似，但黑色部分更褐、光泽少，腿、嘴和眼周裸皮灰绿。",
+   "funFact": "求偶时成对并排盘旋，一只展开白色尾下覆羽，这在鹳类里似乎是独有的。",
+   "call": "主要叫声是像大口吸气的「chee leee」；警告或威胁时发出嘶声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E9%B9%B3"
+  },
+  "Ciconia_ciconia": {
+   "impression": "成鸟白身黑翅、红嘴红腿，个头很大。",
+   "marks": [
+    "白色为主，飞羽和覆羽黑色",
+    "成鸟喙长而尖，鲜红色",
+    "成鸟腿长，红色",
+    "飞行时脖子前伸，腿伸出尾后"
+   ],
+   "sexAge": "雌雄外观相似，雄鸟平均更大；离巢幼鸟喙腿较暗，呈褐红或橙色。",
+   "similar": [
+    {
+     "sci": "Anastomus oscitans",
+     "zh": "钳嘴鹳",
+     "diff": "本种中亚亚种与它的越冬区有重叠，羽色相近，但喙形不同。"
+    }
+   ],
+   "funFact": "它会用喙衔湿苔藓，把水滴进雏鸟嘴里。",
+   "call": "成鸟主要靠嘈杂的敲喙声交流，像远处的机枪声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%B9%B3"
+  },
+  "Ciconia_episcopus": {
+   "impression": "身体大部黑亮，颈披白色绒羽，腿红，喙可偏黑或暗红。",
+   "marks": [
+    "身体大部黑亮，头顶黑帽",
+    "脖子上是白色绒羽",
+    "腿红，喙粗重，偏黑或暗红"
+   ],
+   "sexAge": "雌雄相似，据认为雄鸟更大；幼鸟更黯淡，前额长着羽毛。",
+   "call": "成鸟在巢边展示时会发两音节哨声，也有遭训练过的隼攻击时发出强烈嘶声的记录。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A2%88%E9%B9%B3"
+  },
+  "Fregata_ariel": {
+   "impression": "黑色长翼、深叉尾的海鸟，雄鸟喉囊鲜红，雌鸟胸前一片白。",
+   "marks": [
+    "翼长而尖，尾深叉",
+    "喙长，呈钩状",
+    "繁殖季雄鸟喉囊红，翅下有白斑",
+    "雌鸟胸腹白斑，连到后颈"
+   ],
+   "sexAge": "繁殖期雄鸟喉囊红、翅下有白斑；雌鸟胸腹有大片白斑，眼眶粉红或红；幼鸟头胸杏黄或褐色，后颈白。",
+   "funFact": "是军舰鸟里体型最小的一种，却会从鲣鸟、玄燕鸥那里抢食。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E6%96%91%E5%86%9B%E8%88%B0%E9%B8%9F"
+  },
+  "Fregata_magnificens": {
+   "impression": "雄鸟求偶时，喉囊鼓成一个红气球。",
+   "marks": [
+    "雄鸟全黑，喉囊猩红色",
+    "双翼细长，尾巴深叉",
+    "雌鸟胸白，眼圈蓝色",
+    "雄鸟肩羽在阳光下泛紫"
+   ],
+   "sexAge": "雄鸟全黑、喉囊红；雌鸟胸白、眼圈蓝；未成鸟头和下体白。",
+   "similar": [
+    {
+     "sci": "Fregata minor",
+     "zh": "黑腹军舰鸟",
+     "diff": "看雄鸟肩羽的反光：华丽军舰鸟泛紫，黑腹军舰鸟泛绿。"
+    }
+   ],
+   "funFact": "会逼别的海鸟吐出食物，再俯冲接住还没落水的猎物。",
+   "call": "飞行时安静，在巢边会发出咯咯的响声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BA%97%E8%89%B2%E8%BB%8D%E8%89%A6%E9%B3%A5"
+  },
+  "Fregata_andrewsi": {
+   "impression": "雄性成鸟长窄翅、深叉尾，黑身上有块白肚皮。",
+   "marks": [
+    "翅长而窄",
+    "尾巴分成深叉",
+    "雄鸟腹部有卵形白斑",
+    "嘴长，尖端弯曲"
+   ],
+   "sexAge": "雌鸟稍大，胸和腹部都是白色。",
+   "funFact": "雄鸟求偶时，会把鲜红的喉囊鼓起来。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B9%E5%86%9B%E8%88%B0%E9%B8%9F"
+  },
+  "Fregata_minor": {
+   "impression": "黑色的大海鸟，雄鸟的红喉囊能鼓成红气球。",
+   "marks": [
+    "长窄尖翼，长深叉尾",
+    "雄鸟黑色，肩羽泛绿光",
+    "雌鸟喉胸白，红眼圈",
+    "繁殖期雄鸟喉囊红色膨起"
+   ],
+   "sexAge": "雌鸟比雄鸟大，喉胸白色；幼鸟黑色，脸、头和喉带锈色的白。",
+   "funFact": "和所有军舰鸟一样不落水面，意外落水通常飞不起来。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E8%85%B9%E5%86%9B%E8%88%B0%E9%B8%9F"
+  },
+  "Sula_sula": {
+   "impression": "脚红色、羽色有白色和棕色等多种色型的海鸟。",
+   "marks": [
+    "脚红色，四趾朝前，趾间蹼发达",
+    "白色型大多白色，飞羽黑色",
+    "棕色型整体棕色；有的腹、腰、尾白",
+    "喙粗壮，圆锥形，喙缘锯齿状"
+   ],
+   "sexAge": "两性差别不大；幼鸟灰棕色，脚粉红色。",
+   "funFact": "亲鸟不叼鱼喂雏，而是把胃里的食糜吐出来喂。",
+   "call": "打招呼时会发出粗犷的「瓜瓜」声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%84%9A%E9%B2%A3%E9%B8%9F"
+  },
+  "Sula_leucogaster": {
+   "impression": "深褐配白肚皮，界线分明的大型海鸟，会从空中斜冲入水捕鱼。",
+   "marks": [
+    "头、胸、背深褐色",
+    "腹部白色，与深褐界线分明",
+    "雌鸟脸部裸皮黄色，雄鸟蓝色",
+    "喙黄色，尾楔形狭长"
+   ],
+   "sexAge": "雌鸟体型较大，脸部裸皮黄色；雄鸟裸皮蓝色。幼鸟颜色浅，胸腹分界不明显，喙偏灰。",
+   "funFact": "善于潜水，可在水下待长达40秒。",
+   "call": "海面上通常无声；繁殖期会发出呱呱声、咕噜声和带鼻音的吠叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A4%90%E9%B2%A3%E9%B8%9F"
+  },
+  "Sula_dactylatra": {
+   "impression": "白身黑翅黑尾，脸上一圈黑色「面具」的大型鲣鸟。",
+   "marks": [
+    "全身白，翅和尾黑",
+    "脸喉裸皮黑或蓝黑，像面具",
+    "长而尖的偏黄色喙",
+    "腿黄橙色或橄榄色"
+   ],
+   "sexAge": "雌雄羽色相似，雌鸟平均略重略大；幼鸟头背灰褐斑驳，颈有白领圈。",
+   "similar": [
+    {
+     "sci": "Sula sula",
+     "zh": "红脚鲣鸟",
+     "diff": "白色型红脚鲣鸟外形相似，但体型较小。"
+    },
+    {
+     "sci": "Sula leucogaster",
+     "zh": "褐鲣鸟",
+     "diff": "幼鸟像褐鲣鸟，但褐鲣鸟成鸟的棕色和白色分界明显。"
+    }
+   ],
+   "funFact": "第二只出生的雏鸟通常无法生存，会被较大的兄弟姐妹杀死。",
+   "call": "海上通常无声，巢区很吵：雄鸟是下降的哨声，雌鸟是响亮的号角声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%93%9D%E8%84%B8%E9%B2%A3%E9%B8%9F"
+  },
+  "Sula_nebouxii": {
+   "impression": "雄鸟有双亮蓝脚，求偶时抬起来给雌鸟看。",
+   "marks": [
+    "双脚淡蓝绿至深水蓝色",
+    "双翼棕色，长而尖",
+    "头颈浅棕，带白色条纹",
+    "腹部和下体纯白"
+   ],
+   "sexAge": "雌鸟比雄鸟稍大。",
+   "funFact": "鼻孔一直闭着，靠嘴角呼吸，再一头扎进水里捕鱼。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%97%8D%E8%85%B3%E9%B0%B9%E9%B3%A5"
+  },
+  "Phalacrocorax_capillatus": {
+   "impression": "身体黑色，喉和脸颊白色，嘴部部分黄色。",
+   "marks": [
+    "身体黑色",
+    "喉咙和脸颊白色",
+    "嘴部部分呈黄色"
+   ],
+   "sexAge": "幼鸟比成鸟素净，偏褐色。",
+   "funFact": "日本长良川传统的鸬鹚捕鱼，用的就是这种鸬鹚，帮渔民捉香鱼。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9A%97%E7%BB%BF%E8%83%8C%E9%B8%AC%E9%B9%9A"
+  },
+  "Phalacrocorax_carbo": {
+   "impression": "通体偏黑闪光的大水鸟，爱停在岩石或树枝上晾翅膀。",
+   "marks": [
+    "全身偏黑，带闪光",
+    "嘴厚重，下嘴基黄色裸皮",
+    "脸颊和喉白色",
+    "繁殖期头颈白丝羽，胁有白斑"
+   ],
+   "sexAge": "雄鸟通常比雌鸟大；幼鸟深褐色，下体污白。",
+   "funFact": "渔民给鸬鹚套上颈圈，只让它吞小鱼；捕到大鱼就换小鱼奖励。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E9%B8%95%E9%B6%BF"
+  },
+  "Eudocimus_ruber": {
+   "impression": "成鸟通体鲜红，只有翼尖有一点黑。",
+   "marks": [
+    "成鸟通体红色，翼尖黑",
+    "嘴细长，向下弯",
+    "嘴脚红色，嘴端有时黑",
+    "飞行时颈和腿伸直"
+   ],
+   "sexAge": "雄鸟略大于雌鸟；幼鸟灰褐白相间，约两年慢慢变红。",
+   "funFact": "羽毛的红色靠吃红色甲壳类得来，动物园还会给它们加甜菜根和胡萝卜。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%B4%B2%E7%B4%85%E4%B4%89"
+  },
+  "Plegadis_falcinellus": {
+   "impression": "繁殖期红褐色身体配亮绿翅膀，嘴形像镰刀。",
+   "marks": [
+    "繁殖期身体红褐，翅膀闪亮瓶绿",
+    "嘴褐色，形状像镰刀",
+    "脸部皮肤暗色，上下有蓝色边",
+    "腿红褐色；飞行时颈伸直"
+   ],
+   "sexAge": "非繁殖期成鸟和幼鸟身体较暗淡，头颈深褐，有细白纹。",
+   "funFact": "在欧、亚、非、澳洲和美洲都有繁殖，是分布最广的鹮类。",
+   "call": "低吼声和咕噜声，繁殖时有沙哑的「grrrr」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%BD%A9%E9%B9%AE"
+  },
+  "Nipponia_nippon": {
+   "impression": "白羽泛粉，脸和脚鲜红，长喙向下弯。",
+   "marks": [
+    "整个面部裸露无毛，鲜红色",
+    "非繁殖期近白，飞羽沾粉红",
+    "喙长而下弯，黑色，尖端红",
+    "脚鲜红色，虹膜金黄色"
+   ],
+   "sexAge": "雌雄一样；幼鸟全身偏灰，冠羽较短。",
+   "funFact": "繁殖期头颈背的灰黑，是分泌的黑色粉末经水浴沾上的，羽毛本身没变色。",
+   "call": "叫声嘈杂刺耳，不过多数时候安静，主要在起飞时才叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%B9%AE"
+  },
+  "Pseudibis_davisoni": {
+   "impression": "成鸟棕黑羽毛、裸头，颈上有蓝白色领环。",
+   "marks": [
+    "成鸟棕黑，翅尾有蓝黑光泽",
+    "成鸟裸头可呈石板黑色",
+    "颈上有蓝白色领环，有时纯白",
+    "飞行时翼上有明显白斑"
+   ],
+   "sexAge": "雄鸟略大、嘴略长；幼鸟暗褐色，颈后有一撮褐羽，腿淡黄。",
+   "funFact": "似乎会利用牛和水牛啃食、踩踏植被形成的空地觅食。",
+   "call": "响亮、哀怨的叫声，被形容为怪异的尖叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%82%A9%E9%BB%91%E9%B9%AE"
+  },
+  "Platalea_leucorodia": {
+   "impression": "几乎全身白，嘴大如琵琶，末端黄色。",
+   "marks": [
+    "琵琶形的大嘴，末端黄色",
+    "面部裸皮黄色，眼先到眼有细黑纹",
+    "繁殖期有冠羽，冠羽和胸前羽毛黄色",
+    "飞行时脖子伸直"
+   ],
+   "sexAge": "非繁殖期没有冠羽和胸前黄斑；幼鸟嘴色浅，初级飞羽尖端黑。",
+   "similar": [
+    {
+     "sci": "Platalea minor",
+     "zh": "黑脸琵鹭",
+     "diff": "白琵鹭体型稍大，脸部黑色少，嘴末端黄色，面部裸露的皮肤也是黄色。"
+    }
+   ],
+   "funFact": "嘴像探雷器，在水里一边慢慢走一边左右甩着找吃的。",
+   "call": "大多安静；繁殖群里主要是嘴相击的啪啪声，偶尔低吼或发出号声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%90%B5%E9%B7%BA"
+  },
+  "Platalea_minor": {
+   "impression": "勺子般扁平的长嘴，脸上黑色裸皮延到眼后",
+   "marks": [
+    "嘴长而扁平，像汤匙",
+    "面部黑色裸皮延伸到眼后",
+    "通体以白色为主，脚黑色",
+    "繁殖期冠羽和胸前明显发黄"
+   ],
+   "sexAge": "亚成鸟嘴色较浅、较小、表面较平滑；雏鸟羽色全白，比亚成鸟更浅",
+   "similar": [
+    {
+     "sci": "Platalea leucorodia",
+     "zh": "白琵鹭",
+     "diff": "黑脸琵鹭体型稍小，且面部黑色裸皮延伸至眼睛后方"
+    }
+   ],
+   "funFact": "在台南，苍鹭常被当作黑脸琵鹭快到了的征兆",
+   "call": "繁殖季雄鸟会发出低沉的声音吸引雌鸟",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E8%84%B8%E7%90%B5%E9%B9%AD"
+  },
+  "Threskiornis_melanocephalus": {
+   "impression": "身体以白色为主，头颈裸露发黑，嘴弯而黑。",
+   "marks": [
+    "头颈裸皮黑色，无羽毛",
+    "身体羽毛以白色为主",
+    "喙黑色，向下弯曲",
+    "腿黑色"
+   ],
+   "sexAge": "雌雄一样；幼鸟脖子有灰色羽毛，翅和背有棕灰斑点。",
+   "funFact": "觅食地很杂，稻田、城市湖泊、污水渠甚至垃圾场都去。",
+   "call": "几乎不出声，只有成对在巢边发出腹语般的咕噜声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%91%E5%A4%B4%E7%99%BD%E9%B9%AE"
+  },
+  "Threskiornis_aethiopicus": {
+   "impression": "身体几乎全白、头颈裸露黑色，喙厚而下弯的鹮。",
+   "marks": [
+    "身体白色，腰有深色饰羽",
+    "头和颈是秃的，黑色",
+    "喙厚而弯，黑色",
+    "飞行时翼后缘有黑边"
+   ],
+   "sexAge": "雌雄相似；雏鸟灰白，喙较短，颈上有些羽毛。",
+   "funFact": "古埃及人奉它为智慧之神托特的象征，常把它做成木乃伊。",
+   "call": "平时很安静，偶尔发出像小狗尖叫的声音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%9F%83%E5%8F%8A%E8%81%96%E4%B4%89"
+  },
+  "Balaeniceps_rex": {
+   "impression": "灰色大鸟，顶着一张像木鞋的巨大鸟嘴。",
+   "marks": [
+    "嘴巨大圆厚，像只木鞋",
+    "嘴尖有锐利的弯钩",
+    "后脑有可竖起的小冠羽",
+    "长腿黑色，脚趾间无蹼"
+   ],
+   "sexAge": "雄鸟比雌鸟大、嘴更长；幼鸟羽色较暗，带棕褐色调。",
+   "funFact": "天热时，父母会用嘴取水或湿草，给蛋和幼鸟沾水降温。",
+   "call": "通常安静，巢边常敲喙作响；幼鸟讨食声像打嗝。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%B2%B8%E5%A4%B4%E9%B9%B3"
+  },
+  "Pelecanus_onocrotalus": {
+   "impression": "身体白，飞羽黑，大嘴下挂着黄色喉囊",
+   "marks": [
+    "成鸟体羽多白，初级次级飞羽黑",
+    "成鸟嘴巨大，喉囊淡黄色",
+    "脸裸露，额羽收成尖角",
+    "成鸟腿呈肉黄色至粉橙色"
+   ],
+   "sexAge": "雌雄相似，雌鸟更小，繁殖期脸皮橙色更艳；幼鸟头颈上体多为褐色",
+   "similar": [
+    {
+     "sci": "Pelecanus crispus",
+     "zh": "卷羽鹈鹕",
+     "diff": "白鹈鹕羽色是纯白而不是灰白，眼周有裸露的粉色脸斑，腿偏粉色"
+    },
+    {
+     "sci": "Pelecanus philippensis",
+     "zh": "斑嘴鹈鹕",
+     "diff": "斑嘴鹈鹕略小，白羽带灰，嘴色更浅更暗"
+    }
+   ],
+   "funFact": "翼展最大可达3.6米",
+   "call": "平时多半安静；飞行时是低沉轻声的「呱」，繁殖地里发深沉的「哞」",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%B9%88%E9%B9%95"
+  },
+  "Pelecanus_crispus": {
+   "impression": "后脑有蓬乱卷羽、银白身体灰腿，鹈鹕里体型最大。",
+   "marks": [
+    "嘴巨大，下挂大喉囊",
+    "后脑到颈背有蓬乱的卷羽",
+    "腿深灰色",
+    "翼宽浅灰白，初级飞羽尖黑"
+   ],
+   "sexAge": "雄鸟比雌鸟大；幼鸟整体更灰更暗，冠羽不如成鸟明显。",
+   "similar": [
+    {
+     "sci": "Pelecanus onocrotalus",
+     "zh": "白鹈鹕",
+     "diff": "头上光滑，没有卷羽；冬季卷羽鹈鹕羽色变暗后会更像它。"
+    }
+   ],
+   "funFact": "嘴通常长37到45厘米，是嘴第二长的鸟，仅次于澳洲鹈鹕。",
+   "call": "平时安静，繁殖季会发出低沉的咕噜声、嘶声或吠叫般的声音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%BE%BD%E9%B5%9C%E9%B6%98"
+  },
+  "Egretta_picata": {
+   "impression": "成鸟身体深石板灰，喉和颈白色的小型鹭。",
+   "marks": [
+    "成鸟翼、身体和具冠羽的头深灰",
+    "成鸟喉咙和颈部白色"
+   ],
+   "sexAge": "雌雄外观相似，雄鸟较重；亚成鸟没有冠羽，头部也不是深色。",
+   "funFact": "觅食时可以单独，也可以成群，群体最多可达一千只。",
+   "call": "飞行时是响亮的「awk」或「ohrk」，巢边有轻柔的咕咕声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A0%B8%E9%BB%91%E9%B7%BA"
+  },
+  "Egretta_sacra": {
+   "impression": "有板岩灰和纯白两种颜色型的鹭，雌雄相似。",
+   "marks": [
+    "有两种色型：板岩灰，或纯白",
+    "灰色型喉和下巴有一条窄白纹",
+    "腿黄灰色",
+    "喙棕色，眼金黄色"
+   ],
+   "sexAge": "雌雄外观相似；未成熟的鹭羽毛更棕、更暗淡。",
+   "funFact": "白天在浅水里一动不动，张开翅膀像把伞，减少反光，还造出阴影引鱼来。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B2%A9%E9%B9%AD"
+  },
+  "Egretta_garzetta": {
+   "impression": "全身白的小鹭，黑嘴黑腿，亚欧非种群的脚是黄色的。",
+   "marks": [
+    "羽毛通常全白",
+    "嘴细长，黑色",
+    "腿黑，亚欧非种群脚黄",
+    "眼周灰绿色裸皮，虹膜黄色"
+   ],
+   "sexAge": "幼鸟像非繁殖期的成鸟，但腿是绿黑色，脚是较暗的黄色。",
+   "funFact": "19世纪欧洲为取羽毛装饰帽子大量猎捕它，西北欧一度绝迹。",
+   "call": "平时多不叫；繁殖地有呱呱、咕噜声，受惊时发出刺耳的警告声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%B9%AD"
+  },
+  "Nycticorax_nycticorax": {
+   "impression": "矮壮的鹭，红眼，头后伸出几根细长白羽。",
+   "marks": [
+    "头、枕部深蓝灰色，略带金属光泽",
+    "头后多有2到4根细长白羽",
+    "虹膜血红色，喙黑，足黄",
+    "背黑，翅灰，下体白"
+   ],
+   "sexAge": "雌雄外观相似，雄鸟略大；亚成鸟上体灰褐，翅上散布白色点斑。",
+   "funFact": "被观察到会把漂浮物抛进水里引鱼，是鸟类少见的使用工具行为。",
+   "call": "繁殖群里很吵，叫声常被记成「quok」或「woc」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%9C%E9%B9%AD"
+  },
+  "Ardeola_bacchus": {
+   "impression": "飞起来白翅白尾很显眼；冬羽头颈胸杂有棕黄纵纹。",
+   "marks": [
+    "翼白，冬羽身具褐色纵纹",
+    "繁殖羽头颈胸栗红，背紫黑",
+    "冬羽头颈胸栗色偏浅，杂棕黄纵纹",
+    "喙黄色，尖端黑；虹膜金黄"
+   ],
+   "sexAge": "雌雄同色，雌鸟体形略小；冬羽和亚成鸟头颈胸偏浅，没有长冠羽。",
+   "funFact": "1997年有一只迷路的池鹭飞到阿拉斯加的圣保罗岛，是北美首次记录。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B1%A0%E9%B9%AD"
+  },
+  "Ardeola_speciosa": {
+   "impression": "繁殖期橙、灰蓝、白相间，非繁殖期棕底带白斑的池鹭。",
+   "marks": [
+    "翅膀白色",
+    "喙黄色，尖端黑色",
+    "眼睛和腿黄色",
+    "繁殖期橙、灰蓝、白相间"
+   ],
+   "similar": [
+    {
+     "sci": "Ardeola bacchus",
+     "zh": "池鹭",
+     "diff": "非繁殖羽和它非常相似，在野外几乎分不出来。"
+    },
+    {
+     "sci": "Ardeola grayii",
+     "zh": "印度池鹭",
+     "diff": "非繁殖羽和它非常相似，在野外几乎分不出来。"
+    }
+   ],
+   "funFact": "种加词speciosa的意思是「外表美丽的」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%88%AA%E5%93%87%E6%B1%A0%E9%B7%BA"
+  },
+  "Ardea_alba": {
+   "impression": "全身雪白的大型鹭，黄嘴黑腿，飞行时缩着脖子。",
+   "marks": [
+    "全身白色",
+    "非繁殖期嘴黄，腿脚黑",
+    "嘴裂长，伸到眼后很远",
+    "繁殖期背有饰羽，嘴可变黑"
+   ],
+   "sexAge": "雌雄外形一样；幼鸟像非繁殖期的成鸟。",
+   "similar": [
+    {
+     "sci": "Ardea intermedia",
+     "zh": "中白鹭",
+     "diff": "大白鹭嘴裂伸到眼后很远，中白鹭嘴裂只到眼后一点。"
+    }
+   ],
+   "funFact": "鹭和麻鳽飞行时缩着脖子，鹳、鹤、鹮、琵鹭则把脖子伸直。",
+   "call": "平时不爱叫，受惊时低沉嘶哑地「呱」一声，繁殖群里常发出响亮的「cuk cuk cuk」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%99%BD%E9%B9%AD"
+  },
+  "Ardea_purpurea": {
+   "impression": "比苍鹭稍小、更纤细、羽色更暗红棕的鹭，爱躲在芦苇丛里。",
+   "marks": [
+    "额和头顶黑，颈背黑纹通到细羽冠",
+    "头颈两侧黄褐，带深色条纹",
+    "胸棕色，腹部和尾下覆羽黑色",
+    "喙棕黄色，又长又直"
+   ],
+   "similar": [
+    {
+     "sci": "Ardea cinerea",
+     "zh": "苍鹭",
+     "diff": "草鹭比苍鹭略小、更纤细，红棕色更深，成鸟背部灰色更深，羽冠也更短。"
+    }
+   ],
+   "funFact": "趾很长，能在浮动的植被上行走，有时还走过灌木，不去抓树枝。",
+   "call": "粗重的「frarnk」，比苍鹭更安静、更高亢。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%8D%89%E9%B9%AD"
+  },
+  "Ardea_cinerea": {
+   "impression": "高个子灰鹭，白脸上一道黑带连到黑冠羽。",
+   "marks": [
+    "头颈白，一道宽黑带从眼连到冠羽",
+    "颈前有黑色纵纹",
+    "背和翅灰色，腹部白色",
+    "喙长、直、有力，腿很长"
+   ],
+   "sexAge": "幼鸟整体更暗淡，头上的黑带变成灰色，只有一小撮深灰冠羽。",
+   "funFact": "飞行时把长脖子缩成S形，鹳、鹤和琵鹭则把脖子伸直。",
+   "call": "主要是响亮的呱呱声「fraaank」，也有深沉喉音和似鹅的叫声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%8B%8D%E9%B9%AD"
+  },
+  "Lyncornis_macrotis": {
+   "impression": "头顶两簇长耳羽，常常平伏着。",
+   "marks": [
+    "耳羽簇长，常平伏",
+    "喉部有一道白带",
+    "长翅和尾巴有横斑",
+    "翅和尾都没有白色"
+   ],
+   "funFact": "只在地上刨个浅坑当巢，一窝产一枚卵。",
+   "call": "先一声尖锐的「tsiik」，停顿后接两音节的「ba-haaww」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AF%9B%E8%85%BF%E5%A4%9C%E9%B9%B0"
+  },
+  "Caprimulgus_europaeus": {
+   "impression": "一身灰褐杂纹，白天静伏时很难发现。",
+   "marks": [
+    "指名亚种成鸟上体灰褐有纵纹",
+    "指名亚种成鸟后颈浅黄褐领圈",
+    "指名亚种成鸟有白色须纹",
+    "翅长而尖"
+   ],
+   "sexAge": "飞行时雄鸟翼上和外侧尾羽末端露白，雌鸟不露白；离巢幼鸟像雌鸟。",
+   "funFact": "不搭巢，卵就直接产在地上。",
+   "call": "雄鸟发出持续的颤鸣，一次可连续唱上10分钟。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%A4%9C%E9%B9%B0"
+  },
+  "Caprimulgus_aegyptius": {
+   "impression": "成鸟沙色羽毛融进地面，白天静伏时很难发现。",
+   "marks": [
+    "成鸟沙色，带黄褐及褐纹",
+    "成鸟下体沙色或偏白",
+    "雄鸟翅上有细小白斑",
+    "翅长，嘴裂宽"
+   ],
+   "funFact": "它不筑巢，两枚蛋就直接放在裸地上。",
+   "call": "反复叫「kroo-kroo-kroo…」，像机械声，声音随转头起伏。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%9F%83%E5%8F%8A%E5%A4%9C%E9%B9%B0"
+  },
+  "Caprimulgus_affinis": {
+   "impression": "灰褐斑驳的夜鹰，雄鸟外侧尾羽几近全白。",
+   "marks": [
+    "雄鸟最外侧两枚尾羽近全白",
+    "全身灰褐，杂有细白点和虫蠹斑",
+    "雄鸟喉部两侧各有椭圆白斑",
+    "喙红褐色，尖端黑色"
+   ],
+   "sexAge": "雄鸟喉部和外侧尾羽有白斑，雌鸟喉斑暗淡、尾羽全褐；幼鸟像雌鸟。",
+   "similar": [
+    {
+     "sci": "Caprimulgus jotaka",
+     "zh": "普通夜鹰",
+     "diff": "林夜鹰雄鸟外侧尾羽几近全白，别的夜鹰尾羽只有部分白色。"
+    },
+    {
+     "sci": "Caprimulgus macrurus",
+     "zh": "长尾夜鹰",
+     "diff": "林夜鹰雄鸟外侧尾羽几近全白，别的夜鹰尾羽只有部分白色。"
+    }
+   ],
+   "funFact": "叫声可达90分贝以上，能传800多米；在中国台湾市区已让居民困扰。",
+   "call": "雄鸟夜里发出音调上扬的「逐伊」，重复多次，高亢尖锐。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%A4%9C%E9%B9%B0"
+  },
+  "Hemiprocne_coronata": {
+   "impression": "顶着羽冠，长翅后掠，尾巴深深分叉。",
+   "marks": [
+    "头上有羽冠，尾长而深叉",
+    "上体鸽灰色，下体白色",
+    "长翅向后掠，上面深灰色"
+   ],
+   "sexAge": "雄鸟脸颊橙色，雌鸟脸颊灰色；两者眼下都有细白纹。",
+   "funFact": "巢很小，蛋近一半高出巢沿，孵卵时由亲鸟胸腹绒羽覆盖。",
+   "call": "叫声粗哑，像「kee-kyew」，或三声「kip-kee-kep」，中间一声较重。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%87%A4%E5%A4%B4%E9%9B%A8%E7%87%95"
+  },
+  "Apus_apus": {
+   "impression": "全身黑褐，长翅后掠像新月，除了筑巢几乎都在空中。",
+   "marks": [
+    "黑褐，颏有白或浅灰小斑，远看不见",
+    "翅又长又后掠，像新月或回力镖",
+    "尾短，呈叉形",
+    "窄镰刀形翅，比身体还长"
+   ],
+   "similar": [
+    {
+     "sci": "Hirundo rustica",
+     "zh": "家燕",
+     "diff": "雨燕略大，翅窄如镰刀、比身体还长；叫声是尖厉的尖叫，燕子是不起眼的啁啾。"
+    },
+    {
+     "sci": "Delichon urbicum",
+     "zh": "西方毛脚燕",
+     "diff": "雨燕略大，翅窄如镰刀、比身体还长；叫声是尖厉的尖叫，燕子是不起眼的啁啾。"
+    }
+   ],
+   "funFact": "有的个体能连续十个月不落地，吃喝都在空中，也常在空中睡觉和交配。",
+   "call": "响亮的尖叫，分高低两个音调，高的那个是雌鸟发出的。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E6%A5%BC%E7%87%95"
+  },
+  "Heliactin_bilophus": {
+   "impression": "成年雄鸟眼上有两簇彩色羽角，黑喉拖着尖胡须。",
+   "marks": [
+    "雄鸟眼上有两簇彩色羽角",
+    "雄鸟黑喉伸出尖胡须",
+    "上体金属黄绿，下体白",
+    "中央四根尾羽明显较长"
+   ],
+   "sexAge": "雌鸟没有羽角和黑喉，喉部褐色或黄褐色；幼鸟像雌鸟。",
+   "funFact": "嘴够不着花蜜时，它可能从花朵基部的小洞取蜜。",
+   "call": "会反复发出「tsit」「tseet」或「chup」声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A7%92%E8%9C%82%E9%B8%9F"
+  },
+  "Lophornis_ornatus": {
+   "impression": "雄鸟顶着红褐小冠，颈侧还伸出带黑点的饰羽。",
+   "marks": [
+    "雄鸟头顶有红褐羽冠",
+    "雄鸟颈侧饰羽红褐带黑点",
+    "雄鸟腰部有一道近白色羽带",
+    "喙短直，红色带黑尖"
+   ],
+   "sexAge": "雌鸟没有羽冠和颈侧饰羽，腹面红褐，腹部颜色较浅。",
+   "funFact": "它们在花间平稳飞行时，常让人联想到一只大蜜蜂。",
+   "call": "进食时会轻轻叫一声「chik」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BC%A8%E5%86%A0%E8%9C%82%E9%B8%9F"
+  },
+  "Calypte_anna": {
+   "impression": "成年雄鸟头顶和喉部随光线角度闪出红粉色。",
+   "marks": [
+    "成雄鸟头顶喉部随光照角度显红粉",
+    "背部铜绿色，带虹彩",
+    "胸腹浅灰，两胁绿色",
+    "喙细长而直"
+   ],
+   "sexAge": "雌鸟和幼雄鸟头顶暗绿，喉灰，有时带少量红色虹彩。",
+   "funFact": "雄鸟俯冲至底部时尾羽会发声，有人形容为「爆发般的吱声」。",
+   "call": "雄鸟的歌声细而尖，夹着嗡嗡声和啁啾声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%BA%A2%E8%9C%82%E9%B8%9F"
+  },
+  "Tyto_alba": {
+   "impression": "浅色长翅，飞起来像托着一张心形脸。",
+   "marks": [
+    "面盘大而心形，多为白色",
+    "头背灰或褐，颜色斑驳",
+    "尾短，近方形",
+    "眼睛黑色"
+   ],
+   "sexAge": "同一种群里，雄鸟通常颜色更浅，下体斑点也比雌鸟少。",
+   "funFact": "两只耳朵的位置不对称，靠听声就能定位猎物。",
+   "call": "叫声尖锐拖长，像一声「shree」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BB%93%E9%B8%AE"
+  },
+  "Ninox_scutulata": {
+   "impression": "长尾巴、脸盘不明显，看起来有几分像鹰。",
+   "marks": [
+    "大眼睛，黄色",
+    "脸盘不明显，尾较长",
+    "背部深褐，尾有横斑",
+    "腹面发白，带红褐纵纹"
+   ],
+   "sexAge": "雌雄外形相似。",
+   "funFact": "它白天在树上休息时，围攻它的小鸟有时会暴露它的位置。",
+   "call": "叫声低沉柔和，反复叫「oo-uk」，黄昏和黎明时可听见。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A4%90%E9%B7%B9%E9%B4%9E"
+  },
+  "Ninox_japonica": {
+   "impression": "眼睛金黄，外形像鹰的鸮，夜里从栖枝上俯冲捕猎。",
+   "marks": [
+    "眼睛金黄色",
+    "头脸略灰棕，喙上方有小白斑",
+    "背和翅棕色，尾有浅棕横纹",
+    "下体白色，胸以下有深褐色长纵纹"
+   ],
+   "sexAge": "没有明显的雌雄差异。",
+   "similar": [
+    {
+     "sci": "Ninox scutulata",
+     "zh": "鹰鸮",
+     "diff": "北鹰鸮和鹰鸮腹部都近白带锈色点，外形相近；两者是靠叫声特征才分成两个种的。"
+    }
+   ],
+   "funFact": "在日本被认为是最常见的繁殖鸮类，但对它的研究相对有限。",
+   "call": "繁殖期才叫，是一连串低沉的「霍霍」声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%B9%B0%E9%B8%AE"
+  },
+  "Aegolius_funereus": {
+   "impression": "成鸟白眉配黄眼，常被说像有点吃惊。",
+   "marks": [
+    "成鸟白色面盘有深色边框",
+    "成鸟眼睛黄色",
+    "成鸟褐色背翼有显眼白斑",
+    "成鸟嘴淡黄色"
+   ],
+   "sexAge": "雌雄外形相似，雌鸟更大。",
+   "funFact": "它常借用啄木鸟留下的树洞做巢，也会住进巢箱。",
+   "call": "雄鸟用响亮的颤音求偶、宣示领地。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%AC%BC%E9%B8%AE"
+  },
+  "Athene_noctua": {
+   "impression": "平头黄眼，白眉让它总像在皱眉的小猫头鹰",
+   "marks": [
+    "头顶平，眼上方的面盘压扁像皱眉",
+    "黄眼睛，白色「眉毛」显得严肃",
+    "灰褐色，带白色斑点和纵纹横斑",
+    "身体圆胖，尾巴短"
+   ],
+   "sexAge": "雌雄大小差不多；幼鸟颜色更暗，头顶没有成鸟的白斑。",
+   "funFact": "飞起来一起一伏，像啄木鸟。",
+   "call": "带抱怨腔的「kiew, kiew」；偶尔也发哨音或颤音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%B8%B1%E7%B4%8B%E8%85%B9%E5%B0%8F%E9%B4%9E"
+  },
+  "Surnia_ulula": {
+   "impression": "长尾巴像鹰的猫头鹰，白天也常出来活动。",
+   "marks": [
+    "白脸镶黑边，头圆",
+    "眼黄，嘴黄且弯曲",
+    "胸腹偏白，带褐色横纹",
+    "尾巴长，带褐色横纹"
+   ],
+   "sexAge": "雌鸟稍大；成鸟尾羽尖端圆，第一年的鸟尾羽尖端较尖。",
+   "funFact": "它听觉灵敏，能扎进雪里捕捉雪下的啮齿动物。",
+   "call": "雄鸟求偶时会吹出滚动的「ulululululululul」哨声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%8C%9B%E9%B4%9E"
+  },
+  "Glaucidium_passerinum": {
+   "impression": "头顶撒着白点的小鸮，脑后还有半圈白领。",
+   "marks": [
+    "头顶灰色，布满白点",
+    "头小而短，没有耳羽簇",
+    "后颈有半圈白领",
+    "尾通常较暗，有五道淡白横纹"
+   ],
+   "sexAge": "雌鸟通常比雄鸟更大、更重。",
+   "funFact": "秋天会囤下许多小兽和小鸟，留到冬天补充食物。",
+   "call": "雄鸟发出一串清亮的笛音，约隔两秒一声；雌鸟声调更高。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%A4%B4%E9%B8%BA%E9%B9%A0"
+  },
+  "Otus_semitorques": {
+   "impression": "灰褐羽毛像树皮，头上竖着显眼的耳羽。",
+   "marks": [
+    "耳羽发达，面盘不明显",
+    "后颈有领斑",
+    "背灰褐，腹灰白带杂纹"
+   ],
+   "similar": [
+    {
+     "sci": "Otus lettia",
+     "zh": "领角鸮",
+     "diff": "北领角鸮体形更大，羽色没有领角鸮那么白。"
+    }
+   ],
+   "funFact": "雌鸟孵卵时，雄鸟会把食物送来。",
+   "call": "雄鸟会反复发出低沉的「whook」声，间隔长短不一。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8C%97%E9%A2%86%E8%A7%92%E9%B8%AE"
+  },
+  "Otus_scops": {
+   "impression": "小个子猫头鹰，羽色像树皮，白天伪装成一截断枝。",
+   "marks": [
+    "灰褐到棕红，整体像树皮",
+    "耳羽很短，平时几乎看不见",
+    "指名亚种成鸟虹膜黄，嘴灰或蓝黑",
+    "肩上有一排浅白斑点"
+   ],
+   "sexAge": "雌鸟比雄鸟重约15到25克；亚成鸟和成鸟几乎一样，只是耳羽更短、背上白斑不明显。",
+   "similar": [
+    {
+     "sci": "Athene noctua",
+     "zh": "纵纹腹小鸮",
+     "diff": "本种头更小，两眼间有倒三角暗纹，有耳羽，尾略长，飞行更直"
+    }
+   ],
+   "funFact": "白天被人靠近，会伸直身体、竖起耳羽，眼睛眯成竖缝。",
+   "call": "低沉短促的哨声「pew」「chew」或「kiup」，每2到3秒一次，可持续数分钟到数小时。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AD%90%E4%BA%9E%E8%A7%92%E9%B4%9E"
+  },
+  "Otus_brucei": {
+   "impression": "耳羽簇小，背纹比西红角鸮清楚，花纹较简单。",
+   "marks": [
+    "耳羽簇小",
+    "比西红角鸮背部纵纹更清楚"
+   ],
+   "funFact": "它偶尔白天捕猎，也能在飞行中捉住蝙蝠和昆虫。",
+   "call": "叫声是一串低沉、空洞、像鸽子般的音符。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%B5%E7%BA%B9%E8%A7%92%E9%B8%AE"
+  },
+  "Asio_flammeus": {
+   "impression": "黑圈黄眼像涂了睫毛膏，常在开阔草地上低飞找田鼠。",
+   "marks": [
+    "黄橙色眼睛，周围有黑圈",
+    "白色脸盘像戴面具",
+    "羽毛斑驳黄褐，上胸条纹明显",
+    "飞行时翼后缘常有宽白带"
+   ],
+   "sexAge": "雌鸟比雄鸟稍大。",
+   "similar": [
+    {
+     "sci": "Asio otus",
+     "zh": "长耳鸮",
+     "diff": "停歇时长耳鸮耳簇明显，虹膜多为橙色，眼周黑色竖向；短耳鸮耳簇短常不可见，虹膜黄，眼周黑色横向。"
+    }
+   ],
+   "funFact": "会装作翅膀受伤，把天敌从巢边引开。",
+   "call": "沙哑的吠叫声，如「waowk」或「toot-toot-toot」；越冬时多沉默。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%9F%AD%E8%80%B3%E9%B8%AE"
+  },
+  "Asio_otus": {
+   "impression": "耳羽高高竖起的中型鸮，栖息时身体笔直立着。",
+   "marks": [
+    "头顶两簇长长的黑黄相间耳羽",
+    "两眼之间羽毛白色，成大大的X形",
+    "栖息时身体直立，与地面垂直",
+    "虹膜橙黄色"
+   ],
+   "sexAge": "雌鸟通常比雄鸟大，雄鸟羽色可能更浅。",
+   "similar": [
+    {
+     "sci": "Strix aluco",
+     "zh": "西灰林鸮",
+     "diff": "西灰林鸮更圆更壮，头宽而圆，没有耳羽簇，眼睛黑褐色。"
+    },
+    {
+     "sci": "Bubo bubo",
+     "zh": "雕鸮",
+     "diff": "雕鸮个头更大，脚爪更粗壮，头大而方，耳羽簇靠近头侧边缘。"
+    }
+   ],
+   "funFact": "头顶的「耳朵」和听觉无关；真耳孔藏在羽毛下，左右高低还不一样。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%BF%E8%80%B3%E9%B8%AE"
+  },
+  "Bubo_scandiacus": {
+   "impression": "雪白的大猫头鹰，白天也活动，头圆没有耳羽簇",
+   "marks": [
+    "几乎纯白，带黑色扇形斑点",
+    "头部浑圆雪白，没有耳羽簇",
+    "眼睛黄色，嘴黑色",
+    "趾上羽毛浓密、白色，爪黑色"
+   ],
+   "sexAge": "雄鸟体型明显小于雌鸟，也更白；雌鸟和幼鸟黑斑更多",
+   "funFact": "它的羽毛浓密，气温−50℃时也能保持38到40℃的体温。",
+   "call": "平时很安静，常见叫声是重复的深沉gawh；繁殖期雄鸟发出「呼—呼—」求偶",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%9B%AA%E9%B8%AE"
+  },
+  "Strix_uralensis": {
+   "impression": "圆圆的脸，身后拖着一条楔形长尾。",
+   "marks": [
+    "尾长，尾端呈楔形",
+    "头圆，面盘也圆",
+    "下体深褐纵纹，无横斑",
+    "眼睛深褐，较小且靠拢"
+   ],
+   "sexAge": "雌雄外形相似，雌鸟平均略大。",
+   "funFact": "雏鸟约四周就离巢，要到六周左右才会飞。",
+   "call": "雄鸟的歌声低沉而有节奏，开头两声后会短暂停顿。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%B7%E5%B0%BE%E6%9E%97%E9%B4%9E"
+  },
+  "Vultur_gryphus": {
+   "impression": "成鸟黑羽配白围脖，宽大的翅上也带着白斑。",
+   "marks": [
+    "成鸟颈根围着一圈白羽",
+    "首次换羽后黑翅上才有白斑",
+    "成鸟头颈红至暗红，羽毛稀少",
+    "喙向下弯成钩"
+   ],
+   "sexAge": "雄鸟比雌鸟大，头顶有暗红色肉冠。",
+   "funFact": "头颈的肤色会随着情绪变化，也是它们沟通的方式。",
+   "call": "雄鸟求爱时会发出嘶嘶声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%AE%89%E7%AC%AC%E6%96%AF%E7%A5%9E%E9%B9%AB"
+  },
+  "Lophospiza_trivirgata": {
+   "impression": "灰头，白喉上有黑色纵纹，头上有短冠羽，城市里也能生活。",
+   "marks": [
+    "白喉上有黑色纵纹",
+    "头上黑色短冠羽，紧张时才竖起",
+    "下体浅色，胸具棕色纵纹，腹具棕色横纹",
+    "尾下覆羽白而蓬松，尾有黑浅横纹"
+   ],
+   "sexAge": "雌鸟体型较大、偏棕褐、胸腹纹路较粗；雄鸟脸灰较深、头顶更黑、纹路较细。",
+   "similar": [
+    {
+     "sci": "Tachyspiza virgata",
+     "zh": "松雀鹰",
+     "diff": "松雀鹰体型较小，头圆无冠羽，腿脚较细长，飞行时外侧尾羽的横带不相连。"
+    },
+    {
+     "sci": "Accipiter nisus",
+     "zh": "雀鹰",
+     "diff": "雀鹰喉部没有中间的条纹，上半身较灰，下体条纹更均匀。"
+    },
+    {
+     "sci": "Aviceda jerdoni",
+     "zh": "褐冠鹃隼",
+     "diff": "褐冠鹃隼冠羽更长，翅膀更大，飞行时翼型明显不同。"
+    }
+   ],
+   "funFact": "在中国台湾，它是目前唯一能在都市绿地繁衍生息的日行性猛禽。",
+   "call": "繁殖期有时发出「he、he、hehehehe」的尖叫，尾音上扬。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%87%A4%E5%A4%B4%E9%B9%B0"
+  },
+  "Tachyspiza_virgata": {
+   "impression": "像赤腹鹰的暗色版：上体更暗，喉纹更宽。",
+   "marks": [
+    "成年雄鸟上体深蓝灰色",
+    "成年雄鸟下体白带红棕条纹",
+    "尾上有3到4条同样大的暗色横纹",
+    "短而宽的翅，长尾巴"
+   ],
+   "sexAge": "雌鸟比雄鸟大，上体更棕；幼鸟上体深棕，下体白带棕色条纹。",
+   "funFact": "飞行有固定节奏：拍翅、拍翅、再滑翔。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E9%9B%80%E9%B9%B0"
+  },
+  "Tachyspiza_badia": {
+   "impression": "从南亚到撒哈拉以南非洲都有的鹰，多栖于开阔林地和灌丛草丛。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%A4%90%E8%80%B3%E9%B9%B0"
+  },
+  "Icthyophaga_leucogaster": {
+   "impression": "白头白胸、黑翅白腹的大型猛禽，飞起来黑白分明。",
+   "marks": [
+    "头、尾、胸、腹白色",
+    "背和翅黑色或深灰色",
+    "尾短，呈楔形",
+    "喙灰色，尖端较深"
+   ],
+   "sexAge": "雌雄相似，雌鸟略大；幼鸟羽毛棕色，随年龄逐渐变白，长成成鸟羽色。",
+   "funFact": "还会在飞行中攻击带着猎物的鸟，逼它松爪，再把猎物抢走。",
+   "call": "像鹅一样响亮的嘎嘎声，繁殖季节更常听到。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B9%E6%B5%B7%E9%B5%B0"
+  },
+  "Buteo_refectus": {
+   "impression": "喜马拉雅一带的大中型猛禽，曾被当作普通鵟的亚种。",
+   "funFact": "旧学名Buteo burmanicus先被东方鵟的亚种用过，才改叫refectus。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%96%9C%E5%B1%B1%F0%AB%9B%AD"
+  },
+  "Merops_persicus": {
+   "impression": "身体大部绿色，蓝色脸侧横着黑色贯眼纹。",
+   "marks": [
+    "脸侧蓝色，贯眼纹黑色",
+    "身体大部绿色",
+    "喉部黄褐两色",
+    "中央两根尾羽延长"
+   ],
+   "sexAge": "雌雄大致相似，雌鸟延长的尾羽较短。",
+   "funFact": "若有电话线，会优先停在上面捕猎。",
+   "call": "叫声比栗喉蜂虎更平，少些笛音感。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%93%9D%E9%A2%8A%E8%9C%82%E8%99%8E"
+  },
+  "Megaceryle_lugubris": {
+   "impression": "黑白相间的大型鱼狗，头顶有蓬乱的黑白横纹羽冠。",
+   "marks": [
+    "蓬乱的黑白横纹羽冠",
+    "喙大而尖，黑色，尖端黄白",
+    "上体黑白细横纹，胁有灰白相间横纹",
+    "白领圈，腹白，胸带有黑点"
+   ],
+   "sexAge": "雌雄体型一样；雌鸟翼下覆羽粉肉桂色，雄鸟没有，但胸带上有橙红色羽毛。",
+   "funFact": "很少悬停后俯冲，多半从高处的栖枝直接头朝下扎进水里捕鱼。",
+   "call": "飞行时发响亮的「ket ket」；配偶之间有响亮的「ping」声和低沉的呱声；停栖时发响亮的嘎啦声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%86%A0%E9%B1%BC%E7%8B%97"
+  },
+  "Psilopogon_nuchalis": {
+   "impression": "绿身子，头上蓝黄红黑四色，叫声像敲木鱼。",
+   "marks": [
+    "身体翠绿，头有蓝黄红黑四色",
+    "眼先有红斑，额与喉黄色",
+    "黑色粗喙，嘴基有刚毛",
+    "胸上方蓝绿带，下方红带"
+   ],
+   "sexAge": "雌雄相似，雌鸟后颈红斑较小；幼鸟颜色较浅而不鲜明。",
+   "similar": [
+    {
+     "sci": "Psilopogon faber",
+     "zh": "黑眉拟啄木鸟",
+     "diff": "台湾拟啄木鸟体型略小，头顶不是黑色。"
+    },
+    {
+     "sci": "Psilopogon franklinii",
+     "zh": "金喉拟啄木鸟",
+     "diff": "台湾拟啄木鸟有黑色眉纹，可以用来区分。"
+    }
+   ],
+   "funFact": "中国台湾话叫它「花仔和尚」，形容像和尚敲木鱼般的叫声。",
+   "call": "雄鸟繁殖季发出单调响亮的「叩叩叩……」，像敲木鱼。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%BA%94%E8%89%B2%E9%B3%A5"
+  },
+  "Ramphastos_sulfuratus": {
+   "impression": "大嘴像块彩虹糖：绿色底、橙色侧面、红色尖。",
+   "marks": [
+    "大嘴绿底，红尖、橙色两侧",
+    "身体以黑色为主",
+    "颈部和胸部黄色",
+    "脚蓝色"
+   ],
+   "sexAge": "除了体型大小，雌雄外观很相似。",
+   "funFact": "睡在拥挤树洞里时，它们会把尾巴翻到身上、大嘴收在背后。",
+   "call": "会发出「grr」「trrii」「rrrk」一类的声音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E5%B7%A8%E5%98%B4%E9%B3%A5"
+  },
+  "Strigops_habroptilus": {
+   "impression": "长着猫头鹰似的圆脸，却是一只不会飞的鹦鹉。",
+   "marks": [
+    "圆脸有细羽组成的面盘",
+    "上体苔绿色，杂黑褐色斑纹",
+    "腿短、脚大，翅和尾都较短"
+   ],
+   "sexAge": "雄鸟明显更重；幼鸟通常绿色较暗、黄色较少，尾、翅和嘴也更短。",
+   "funFact": "觅食时，它能通过气味区分食物。",
+   "call": "雄鸟求偶时会发出低频的隆隆声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%B8%AE%E9%B9%A6%E9%B9%89"
+  },
+  "Anodorhynchus_hyacinthinus": {
+   "impression": "一身紫蓝色，眼周和嘴基的黄色格外醒目。",
+   "marks": [
+    "成鸟羽毛以紫蓝或钴蓝为主",
+    "眼周和嘴基裸皮黄色",
+    "喙灰黑色",
+    "尾巴长而尖"
+   ],
+   "sexAge": "雌雄相似；幼鸟裸皮颜色较淡，尾巴较短。",
+   "funFact": "圈养个体会用木片或叶子固定坚果，防止啃咬时滑动。",
+   "call": "叫声大而尖，能听到「kraaaa」等声音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%97%8D%E9%87%91%E5%89%9B%E9%B8%9A%E9%B5%A1"
+  },
+  "Psittacula_alexandri": {
+   "impression": "绿背，胸前一大片鲑红色，一眼就认得出。",
+   "marks": [
+    "胸部有一大片鲑红色",
+    "背绿色"
+   ],
+   "funFact": "擅长学人说话，民间也叫它「鹦哥」「莺哥」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BB%AF%E8%83%B8%E9%B9%A6%E9%B9%89"
+  },
+  "Trichoglossus_haematodus": {
+   "impression": "成鸟蓝头红胸、嘴橙红，羽色鲜艳的吸蜜鹦鹉。",
+   "marks": [
+    "头部蓝色，向颈部渐变褐色",
+    "嘴橙红色",
+    "颈上有或宽或窄的黄色领环",
+    "成鸟胸部红色，上体绿色"
+   ],
+   "sexAge": "雌雄外形相似，虹膜颜色差异受健康影响，不宜单凭它辨性；幼鸟较暗、较小。",
+   "funFact": "聪敏机灵，能学会各种把戏，语言能力也相当不错。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%96%B0%E5%B9%BE%E5%85%A7%E4%BA%9E%E5%BD%A9%E8%99%B9%E5%90%B8%E8%9C%9C%E9%B8%9A%E9%B5%A1"
+  },
+  "Psarisomus_dalhousiae": {
+   "impression": "绿身黄脸、黑帽蓝顶，拖一条长长的蓝尾巴。",
+   "marks": [
+    "脸颊和喉黄色",
+    "黑色头盔状帽，头顶一块蓝斑",
+    "背和下体绿色",
+    "尾蓝色而长，尾下面黑色"
+   ],
+   "sexAge": "幼鸟尾巴较短，头是绿色，羽色更暗淡。",
+   "funFact": "叫声又响又尖，却相当怕生，常躲在枝叶间。",
+   "call": "一连串响亮、尖锐、音调下降的口哨声，像「pseeu……pseeu……」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%BF%E5%B0%BE%E9%98%94%E5%98%B4%E9%B8%9F"
+  },
+  "Lalage_melaschistos": {
+   "impression": "雄鸟上体深灰、翅尾黑色，尾下羽端明显白色。",
+   "marks": [
+    "雄鸟上体深灰，翅和尾黑色",
+    "雄鸟尾下羽端明显白色"
+   ],
+   "sexAge": "雌鸟颜色较淡，腹部有微弱的横斑。",
+   "funFact": "名字里有「鵙」和「鹃」，却和伯劳、杜鹃都没有亲缘关系。",
+   "call": "响亮的「twit twit to we」，音调逐渐下降。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9A%97%E7%81%B0%E9%B5%91%E9%B5%99"
+  },
+  "Tephrodornis_virgatus": {
+   "impression": "多在约1500米以下次生阔叶、混交林的林鵙，俗名森林伯劳。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%92%A9%E5%98%B4%E6%9E%97%E9%B5%99"
+  },
+  "Rhipidura_aureola": {
+   "impression": "穿行灌丛时，常把白边尾巴展开成扇子。",
+   "marks": [
+    "成鸟长白眉在额头相接",
+    "成鸟扇形尾巴镶白边",
+    "成鸟上体深褐，翅有白点",
+    "成鸟喉及眼罩近黑，具浅白须纹"
+   ],
+   "funFact": "它在树上筑一个小杯状巢，一窝产3枚蛋。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%9C%89%E6%89%87%E5%B0%BE%E9%B6%B2"
+  },
+  "Lanius_isabellinus": {
+   "impression": "沙黄色羽毛、红色尾巴的伯劳，常见于荒漠疏林和绿洲。",
+   "marks": [
+    "羽毛沙黄色",
+    "尾巴红色"
+   ],
+   "similar": [
+    {
+     "sci": "Lanius collurio",
+     "zh": "红背伯劳",
+     "diff": "幼鸟下体的细纹稀疏得多，这是和红背伯劳幼鸟的区别。"
+    }
+   ],
+   "funFact": "像别的伯劳一样，会把猎物插在荆棘或铁丝网上存着。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%8D%92%E6%BC%A0%E4%BC%AF%E5%8A%B3"
+  },
+  "Dendrocitta_vagabunda": {
+   "impression": "黑头、肉桂色身体，拖着蓝灰长尾，叫声响亮。",
+   "marks": [
+    "头黑色，身体肉桂色",
+    "长尾蓝灰色，尾端黑色",
+    "翅上有白斑，初级飞羽黑",
+    "嘴粗壮、先端带钩，黑色"
+   ],
+   "sexAge": "雌雄相似。",
+   "similar": [
+    {
+     "sci": "Dendrocitta formosae",
+     "zh": "灰树鹊",
+     "diff": "灰树鹊上背缺少本种鲜亮的锈红色。"
+    }
+   ],
+   "funFact": "有个当地名字「taka chor」，意思是偷硬币的贼。",
+   "call": "叫声花样多，最常听到的是「bob-o-link」或「ko-tree」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A3%95%E8%85%B9%E6%A0%91%E9%B9%8A"
+  },
+  "Cyanopica_cyanus": {
+   "impression": "黑帽子，天蓝色的翅和长尾，成群在公园里穿梭。",
+   "marks": [
+    "头顶、颈侧、后颈饱满的黑色",
+    "飞羽、尾羽和下背天蓝色",
+    "尾羽长，几乎和身体等长，端白",
+    "肩和上背石板灰，下体污白"
+   ],
+   "sexAge": "雌雄同形同色；幼鸟头顶黑色羽毛端部污白，尾羽较短。",
+   "similar": [
+    {
+     "sci": "Pica serica",
+     "zh": "喜鹊",
+     "diff": "比喜鹊小很多，也更修长。"
+    },
+    {
+     "sci": "Pica pica",
+     "zh": "欧亚喜鹊",
+     "diff": "整体形状像欧亚喜鹊，但更修长，腿和嘴相对更小。"
+    }
+   ],
+   "funFact": "有的地方专门保护繁殖灰喜鹊来保护松林；它也是安徽的省鸟。",
+   "call": "连发带金属声的「kwink-kwink-kwink」，前面常有一声「krarrah」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E5%96%9C%E9%B9%8A"
+  },
+  "Pica_pica": {
+   "impression": "黑白分明的长尾鸟，肩和腹纯白，飞行时背上白成V形。",
+   "marks": [
+    "头颈胸背黑，泛蓝紫光",
+    "肩羽和上下腹洁白",
+    "飞行时翅端白，背上V形白",
+    "喙和脚都是黑色"
+   ],
+   "sexAge": "雌雄羽色相似，雌鸟略小；幼鸟起初没有光泽，脸颊偏粉，尾更短。",
+   "funFact": "每年造新巢，还会在真巢周围搭一堆不住的空巢。",
+   "call": "呛住般的嘈杂「chac-chac」声，也会重复连叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E4%BA%9A%E5%96%9C%E9%B9%8A"
+  },
+  "Corvus_splendens": {
+   "impression": "额、冠、喉黑亮，颈部浅灰褐，大小介于寒鸦与小嘴乌鸦间但更瘦",
+   "marks": [
+    "额、冠、喉深黑，富光泽",
+    "颈和胸浅灰褐色",
+    "翼、尾和脚都是黑色"
+   ],
+   "funFact": "南亚的噪鹃会寄生在它的巢里。",
+   "call": "粗哑的「kaaw-kaaw」声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%AE%B6%E9%B4%89"
+  },
+  "Parus_major": {
+   "impression": "黑头白脸颊，黄胸正中一道黑线的山雀。",
+   "marks": [
+    "黑头黑颈，脸颊白色",
+    "胸亮黄，正中一道黑纵带",
+    "背橄榄绿，翼蓝灰带白翼带",
+    "尾蓝灰，外侧尖端白"
+   ],
+   "sexAge": "雌鸟整体色更暗，胸兜黑色较淡，腹中线也较淡较窄、有时断开；幼鸟似雌鸟，后颈和颈部暗橄榄褐。",
+   "funFact": "英国的大山雀学会了啄破门口奶瓶的锡箔盖偷喝奶油，1921年首次记录，随后迅速传开。",
+   "call": "叫声和鸣唱多达40种；最熟悉的之一是「teacher, teacher」，常被比作吱呀作响的独轮车，用来宣示领地。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E9%9B%80"
+  },
+  "Alauda_arvensis": {
+   "impression": "外表朴素，雄鸟在高空悬停鸣唱，能连唱两三分钟。",
+   "marks": [
+    "头顶有短冠羽，受惊时竖起",
+    "上体沙棕或皮黄，有黑褐纵纹",
+    "胸棕白密布黑褐纹，腹白",
+    "尾和翼后缘白边，飞走时可见"
+   ],
+   "sexAge": "雌雄羽色相似。",
+   "similar": [
+    {
+     "sci": "Alauda gulgula",
+     "zh": "小云雀",
+     "diff": "云雀比小云雀体型大，翼后缘更白，叫声也不同。"
+    }
+   ],
+   "funFact": "在50到100米高空边悬停边唱，从地面看只是天空中的一个点。",
+   "call": "长而不断的清亮啭鸣，像水泡翻滚。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E4%BA%91%E9%9B%80"
+  },
+  "Galerida_cristata": {
+   "impression": "褐色小鸟，羽冠始终明显，鸣唱和求偶时更突出。",
+   "marks": [
+    "头顶有明显羽冠",
+    "整体为褐色",
+    "尾短，外侧尾羽浅褐",
+    "飞行时翼下红褐色"
+   ],
+   "sexAge": "雌雄没有明显差别；幼鸟背上斑点比成鸟多。",
+   "similar": [
+    {
+     "sci": "Alauda arvensis",
+     "zh": "云雀",
+     "diff": "大小接近，但凤头百灵整体更短、头身更壮；云雀边上升边唱，凤头百灵在高空或地面都唱。"
+    }
+   ],
+   "funFact": "圣方济各视它为特别的鸟，觉得它朴素的土色羽毛和「兜帽」像小兄弟会修士。",
+   "call": "歌声婉转，像「whee-whee-wheeoo」或「twee-tee-too」，在高空或地面都唱。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%87%A4%E5%A4%B4%E7%99%BE%E7%81%B5"
+  },
+  "Prinia_hodgsonii": {
+   "impression": "繁殖期烟灰胸带配白喉，尾常翘起，在灌丛枝间抖着尾巴蹿动。",
+   "marks": [
+    "繁殖期有烟灰色胸带，对比白喉",
+    "喙全黑，腿粉红色",
+    "眼圈橙色",
+    "尾长，灰色，羽端白色"
+   ],
+   "sexAge": "多数种群雌雄相似；非繁殖期成鸟常没有胸带，幼鸟像非繁殖成鸟，但背上更偏棕。",
+   "funFact": "吃花蜜时额头有时会沾上花粉，变成橙黄色，容易认错。",
+   "call": "雄鸟鸣唱是一串尖细的chiwee-chiwee-chiwi-chip-chip-chip；走动时发出zee zee zee的叫声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E8%83%B8%E9%B9%AA%E8%8E%BA"
+  },
+  "Prinia_crinigera": {
+   "impression": "尾巴又长又宽，颜色深而偏冷。",
+   "marks": [
+    "尾巴长而宽，颜色深",
+    "繁殖雄鸟头顶、脸近黑色",
+    "繁殖雄鸟胸侧深、有斑驳",
+    "繁殖雄鸟嘴近黑色"
+   ],
+   "sexAge": "繁殖期雌鸟颜色较浅、纵纹较少，嘴带浅粉色。",
+   "funFact": "到了非繁殖期，雌雄上体都会有纵纹，脸侧和胸部也有斑驳。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%96%9C%E5%B1%B1%E5%B1%B1%E9%B9%AA%E8%8E%BA"
+  },
+  "Arundinax_aedon": {
+   "impression": "大个子苇莺，背棕无斑，前额圆，喙短而尖。",
+   "marks": [
+    "背部棕色，无斑纹",
+    "下体黄褐，整体少有显眼的羽色特征",
+    "前额圆润",
+    "喙短而尖"
+   ],
+   "sexAge": "雌雄相同；幼鸟下半身的黄褐色更浓。",
+   "funFact": "种名aedon是夜莺的古希腊语名，神话里艾东错杀亲子后化为夜莺。",
+   "call": "鸣唱快速而响亮，像湿地苇莺，夹着大量模仿声和苇莺类典型的哨音。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8E%9A%E5%98%B4%E8%8B%87%E8%8E%BA"
+  },
+  "Aegithalos_caudatus": {
+   "impression": "身子圆小、尾巴极长，羽色以黑白为主，成群时叫个不停。",
+   "marks": [
+    "尾巴很长很窄",
+    "身体圆，喙短而粗",
+    "羽色黑白为主，带灰和粉",
+    "北方亚种头全白，无黑眉"
+   ],
+   "sexAge": "雌雄相同；幼鸟在第一个冬天前整体换成成鸟羽。",
+   "similar": [
+    {
+     "sci": "Aegithalos glaucogularis",
+     "zh": "银喉长尾山雀",
+     "diff": "过去被当作同一个种，因羽色和基因差异分开，见于中国东部。"
+    }
+   ],
+   "funFact": "遇上长时间的严寒，种群可能损失高达八成，但据信能很快恢复。",
+   "call": "三种主要叫声：高音单声「pit」、三连颤音「eez-eez-eez」、嘎啦作响的「schnuur」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8C%97%E9%95%BF%E5%B0%BE%E5%B1%B1%E9%9B%80"
+  },
+  "Cettia_cetti": {
+   "impression": "小个子棕褐色莺，爱躲藏，靠响亮的歌声暴露行踪。",
+   "marks": [
+    "细浅灰眉纹，眼睛黑而醒目",
+    "上体深栗色或红褐色",
+    "喉和胸浅灰褐色",
+    "尾比许多莺更长更宽"
+   ],
+   "sexAge": "雌雄羽色相近，雄鸟体重和翼长都明显更大。",
+   "funFact": "尾羽是10根，不同于雀形目常见的12根。",
+   "call": "歌声独特，一阵一阵响亮地爆发。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%AE%BD%E5%B0%BE%E6%A0%91%E8%8E%BA"
+  },
+  "Cettia_castaneocoronata": {
+   "impression": "食虫的小型鸣禽，住在热带亚热带潮湿的低地林和山地林。",
+   "funFact": "种加词来自拉丁语：castaneus是「栗色的」，coronatus是「戴冠的」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A0%97%E5%A4%B4%E5%9C%B0%E8%8E%BA"
+  },
+  "Phylloscopus_inornatus": {
+   "impression": "小柳莺，一道长黄眉线、两道翼带，几乎不停地动。",
+   "marks": [
+    "长长的黄色眉线",
+    "翅上两道黄白色翼带",
+    "三级飞羽羽缘黄色",
+    "上体绿色，下体白色"
+   ],
+   "similar": [
+    {
+     "sci": "Phylloscopus humei",
+     "zh": "淡眉柳莺",
+     "diff": "淡眉柳莺颜色更暗淡，第二道翼带模糊，腿和下嘴深色；叫声更像「chwee」。"
+    },
+    {
+     "sci": "Phylloscopus proregulus",
+     "zh": "黄腰柳莺",
+     "diff": "黄腰柳莺有明显的黄色头顶中央条纹和腰斑，黄眉柳莺没有。"
+    }
+   ],
+   "funFact": "每年秋天英国通常能发现数百只，它们从乌拉尔迁来，飞了3000到3500公里。",
+   "call": "叫声尖锐，常为双音节的「tseeweest」，对这么小的鸟来说格外响亮。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%84%E7%9C%89%E6%9F%B3%E8%8E%BA"
+  },
+  "Phylloscopus_coronatus": {
+   "impression": "头顶两道深灰侧冠纹，加一条长长的黄白眉线。",
+   "marks": [
+    "头顶两侧深灰冠纹，中间黄纹不明显",
+    "眉线长而黄白，贯眼纹深色",
+    "背深橄榄绿，腹白",
+    "翅上有一道浅色翼带"
+   ],
+   "funFact": "种名coronatus来自拉丁语，意思是「加冕的」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%86%95%E6%9F%B3%E8%8E%BA"
+  },
+  "Spizixos_canifrons": {
+   "impression": "多见于海拔1200到2800米的山地阔叶林和灌丛。",
+   "funFact": "种加词canifrons由拉丁语「灰色」和「前额」组成。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%87%A4%E5%A4%B4%E9%9B%80%E5%98%B4%E9%B9%8E"
+  },
+  "Pycnonotus_jocosus": {
+   "impression": "黑色高冠，眼下后方一块红斑，尾下也是红的。",
+   "marks": [
+    "头顶黑色，有直立长羽冠",
+    "眼下后方红斑，颊部白色",
+    "胸两侧各有一道黑带",
+    "外侧尾羽白端，尾下覆羽红"
+   ],
+   "sexAge": "雌鸟与雄鸟相似，黑色部分换成黑褐色；亚成鸟没有红斑，尾下覆羽棕色。",
+   "funFact": "吃的水果里有黄花夹竹桃的果实，这种果实对哺乳动物有毒。",
+   "call": "响亮的三或四音节，常被记成「kink-a-joo」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E8%80%B3%E9%B9%8E"
+  },
+  "Alophoixus_flaveolus": {
+   "impression": "在乔木和灌木间活动的林中鸟。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%BB%84%E8%85%B9%E5%86%A0%E9%B9%8E"
+  },
+  "Fulvetta_formosana": {
+   "impression": "高山箭竹林里的褐头小鸟，翅膀有橙黄色羽毛，不怕人。",
+   "marks": [
+    "头顶到背是褐色，眼圈白色",
+    "喉胸灰白，褐纵纹比相似种明显",
+    "翅和尾带橙黄色",
+    "虹膜淡金褐，喙黑褐"
+   ],
+   "sexAge": "两性没有明显差异；幼鸟比成鸟淡，喙颜色较粉。",
+   "funFact": "受全球变暖影响，它的分布海拔在1992到2014年间有所上升。",
+   "call": "歌声是「ti tuuu」，第一音上升、第二音下降；平时是尖细的双音节「吱—吱—」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%8E%89%E5%B1%B1%E9%9B%80%E9%B9%9B"
+  },
+  "Suthora_przewalskii": {
+   "impression": "中国特有的鸦雀，体重约8.5克，是留鸟。",
+   "funFact": "是中国特有种，分布在青海东南部、甘肃东南部和邻近的四川。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E5%86%A0%E9%B8%A6%E9%9B%80"
+  },
+  "Suthora_nipalensis": {
+   "impression": "爱钻竹丛和灌丛密处的鸦雀，俗名黑喉鸦雀。",
+   "funFact": "俗名叫黑喉鸦雀、橙背鸦雀。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%A9%99%E9%A2%9D%E9%B8%A6%E9%9B%80"
+  },
+  "Pomatorhinus_musicus": {
+   "impression": "黑脸罩、白眉线、栗褐色颈，胸腹有锈褐或灰色纵纹。",
+   "marks": [
+    "宽黑色脸罩，白色眉线",
+    "颈部栗褐色",
+    "喉和上胸白，往下有锈褐或灰色纵纹",
+    "上体深灰褐色"
+   ],
+   "funFact": "曾被当作棕颈钩嘴鹛的亚种，现在是中国台湾特有种。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E6%A3%95%E9%A2%88%E9%92%A9%E5%98%B4%E9%B9%9B"
+  },
+  "Ianthocincla_maxima": {
+   "impression": "栖息在温带森林里，叫声甜美、悠扬的噪鹛。",
+   "funFact": "蛋是蓝色的，一窝常见1到3枚，由双亲孵约2周。",
+   "call": "甜美、悠扬、有力。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%99%AA%E9%B9%9B"
+  },
+  "Tichodroma_muraria": {
+   "impression": "在岩壁上短飞跳跃的蓝灰小鸟，绯红翅膀带白点。",
+   "marks": [
+    "羽色主要蓝灰，飞羽和尾色更深",
+    "翅膀绯红，带白点",
+    "收翅时红色大多被盖住",
+    "尾短，黑色，有窄白边"
+   ],
+   "sexAge": "夏天雄鸟喉黑，雌鸟喉白或有小块暗斑；秋冬雌雄喉都白；幼鸟像冬羽。",
+   "funFact": "冬天会下到低处，在法国的大教堂和高架桥上过冬。",
+   "call": "高音调、拖长的口哨声，音符一升一降交替。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E7%BF%85%E6%97%8B%E5%A3%81%E9%9B%80"
+  },
+  "Sitta_himalayensis": {
+   "impression": "体长约12厘米、下体浅橙黄的小䴓，嘴小，有黑眼纹。",
+   "marks": [
+    "黑色过眼纹较宽，眼后展开",
+    "下体浅橙黄色",
+    "尾下覆羽鲜锈红，无斑纹",
+    "嘴小"
+   ],
+   "funFact": "上尾覆羽中央有一块白斑，但野外很难看到。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%B0%BE%E9%B3%BE"
+  },
+  "Sitta_europaea": {
+   "impression": "短尾长嘴，蓝灰背黑眼纹，能头朝下爬树。",
+   "marks": [
+    "上体蓝灰，过眼有黑纹",
+    "喙长而粗壮，深灰色",
+    "飞行时翅圆、尾短而方",
+    "下体橙黄或偏白，因亚种而异"
+   ],
+   "sexAge": "雌鸟上体稍淡，眼纹更棕，两侧和下腹更淡；幼鸟像雌鸟，但羽色更暗，腿色较浅。",
+   "similar": [
+    {
+     "sci": "Sitta nagaensis",
+     "zh": "栗臀䴓",
+     "diff": "在中国西南部很像；栗臀䴓上体更深，脸部白色更少，下体更灰。"
+    }
+   ],
+   "funFact": "巢洞口太大，雌鸟会用泥巴封小，还常把洞内也抹一层。",
+   "call": "响亮尖锐的dwip，常重复两次；歌声是缓慢的哨音pee-pee-pee。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E8%8C%B6%E8%85%B9%E9%B3%BE"
+  },
+  "Sitta_cinnamoventris": {
+   "impression": "翅尾黑白对比鲜明，尾上有大白斑。",
+   "marks": [
+    "尾上有大白斑",
+    "初级飞羽边缘银白",
+    "耳羽白色不延伸到下巴"
+   ],
+   "sexAge": "东喜马拉雅的koelzi亚种，雌鸟颜色比其他亚种的雌鸟深。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E6%A0%97%E8%85%B9%E9%B3%BE"
+  },
+  "Acridotheres_cristatellus": {
+   "impression": "通体黑，额前一撮羽冠，飞起来翅上有两块白斑。",
+   "marks": [
+    "通体黑色，略带绿色光泽",
+    "喙与头部交接处有明显的额羽",
+    "飞行时两翅中央有明显白斑",
+    "喙黄色，外侧尾羽白端"
+   ],
+   "sexAge": "雄鸟略大，雌鸟额羽略不发达，此外无两性差异；亚成鸟额羽不发达，体色略呈咖啡色。",
+   "similar": [
+    {
+     "sci": "Corvus macrorhynchos",
+     "zh": "大嘴乌鸦",
+     "diff": "通体黑，但大嘴乌鸦体长约50厘米，八哥约25厘米；八哥的喙是鲜黄色。"
+    }
+   ],
+   "funFact": "名字来自叫声：「八」是拟声词，「哥」通「歌」。",
+   "call": "善于鸣叫，也会模仿其他鸟叫；受惊时发出沙哑的「jaaay」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%85%AB%E5%93%A5"
+  },
+  "Eumyias_thalassinus": {
+   "impression": "通体亮铜蓝色的小鹟，雄鸟眼先有一块暗斑。",
+   "marks": [
+    "雄鸟通体鲜亮铜蓝色",
+    "成年雄鸟眼先及喙基上方有暗斑",
+    "尾下覆羽有白色端斑",
+    "喙和脚黑色，虹膜褐色"
+   ],
+   "sexAge": "雌鸟似雄鸟但偏暗，下体泛灰蓝；幼鸟灰色，带褐色斑点。",
+   "funFact": "蓝色不来自色素，是羽毛散射光线形成的结构色。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%93%9C%E8%93%9D%E9%B9%9F"
+  },
+  "Anthipes_monileger": {
+   "impression": "住在亚热带或热带湿润山地林里的鹟",
+   "funFact": "以前归在姬鹟属。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%96%89%E5%A7%AC%E9%B6%B2"
+  },
+  "Cyornis_poliogenys": {
+   "impression": "喉偏白、胸棕红，雄鸟不像不少同属仙鹟那样艳蓝。",
+   "marks": [
+    "上体暗淡的蓝灰色",
+    "胸部棕红色",
+    "喉偏白，腹部白色",
+    "体长15.5–18厘米，中型鹟类"
+   ],
+   "sexAge": "雌雄相似。",
+   "funFact": "繁殖期在4到6月，吃昆虫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E9%A2%8A%E4%BB%99%E9%B9%9F"
+  },
+  "Calliope_tschebaiewi": {
+   "impression": "雄鸟喉中央猩红，喉侧和胸黑，尾基和尾端白。",
+   "marks": [
+    "喉中央猩红色",
+    "喉侧和胸部黑色",
+    "额和眉纹白色",
+    "雄鸟尾近黑色，基部和端部白色"
+   ],
+   "sexAge": "雌鸟上体暗褐灰，眉纹模糊，下体烟灰，喉中央偏白。",
+   "similar": [
+    {
+     "sci": "Calliope calliope",
+     "zh": "红喉歌鸲",
+     "diff": "本种雄鸟尾基和尾端为白色，红喉歌鸲没有。"
+    }
+   ],
+   "funFact": "繁殖期雄鸟会站在外露的枝头，整天鸣唱。",
+   "call": "雄鸟歌声是一连串变化很多的尖细短音；警戒时发尖利的「skyap」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%A1%BB%E9%BB%91%E8%83%B8%E6%AD%8C%E9%B8%B2"
+  },
+  "Arachnothera_longirostra": {
+   "impression": "长嘴吸蜜的小鸟，不像一般太阳鸟，雌雄几乎一样。",
+   "marks": [
+    "嘴特别长，和其他太阳鸟不同",
+    "雄鸟嘴全黑"
+   ],
+   "sexAge": "雌雄相似，只是雌鸟下嘴基部颜色较淡。",
+   "funFact": "巢像吊床，用约150个蜘蛛丝和植物纤维的「铆钉」挂在叶背。",
+   "call": "常发「tzeck」声；受惊或觅食时是嗡嗡的「zick-zick」，歌声是一连串快速的啁啾。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E9%95%BF%E5%98%B4%E6%8D%95%E8%9B%9B%E9%B8%9F"
+  },
+  "Euplectes_orix": {
+   "impression": "繁殖期雄鸟红黑相间，平时和雌鸟一样是褐色纵纹。",
+   "marks": [
+    "繁殖雄鸟羽色红黑，有时偏橙",
+    "繁殖雄鸟上胸及尾下覆羽红",
+    "繁殖雄鸟背红，翼尾褐",
+    "嘴厚，呈圆锥形"
+   ],
+   "sexAge": "非繁殖期雄鸟和雌鸟是带纵纹的褐色、下体较浅；雌鸟比雄鸟小。",
+   "funFact": "繁殖季开始，雄鸟先筑好几个巢来吸引雌鸟，还会竖起羽毛飞行示爱。",
+   "call": "有各种啁啾声和带鼻音的联络叫声；雄鸟的歌声是嗡嗡声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AF%A1%E5%A9%A6%E9%B3%A5"
+  },
+  "Vidua_obtusa": {
+   "impression": "繁殖期雄鸟拖着又宽又长的尾羽。",
+   "marks": [
+    "繁殖雄鸟尾羽宽长，尾尖钝尖至圆",
+    "繁殖期雄鸟后颈有栗橙色斑",
+    "非繁殖雄鸟上体灰褐有纵纹",
+    "非繁殖雄鸟头有黑白纹"
+   ],
+   "sexAge": "雌鸟和非繁殖期雄鸟羽色相似，体长14–15厘米；繁殖期雄鸟长31–36厘米。",
+   "similar": [
+    {
+     "sci": "Vidua paradisaea",
+     "zh": "乐园维达雀",
+     "diff": "繁殖期雄鸟相比，对方尾羽更窄更长，后颈浅黄褐；本种后颈橙褐色。"
+    }
+   ],
+   "funFact": "把蛋下进另一种小雀的巢里，还会模仿对方的叫声。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%AE%BD%E5%B0%BE%E7%BB%B4%E8%BE%BE%E9%9B%80"
+  },
+  "Euodice_malabarica": {
+   "impression": "银灰锥形嘴、上身黄褐下身白的小鸟，成群在草地觅食",
+   "marks": [
+    "喙圆锥形，银灰色",
+    "上体黄褐色，下体白色",
+    "尾黑，尾上覆羽白，对比明显",
+    "尾尖，中央尾羽较长"
+   ],
+   "sexAge": "雌雄外观相似；幼鸟下体褐色，尾巴较短。",
+   "funFact": "会借用黄胸织布鸟的旧巢，有时连还住着织布鸟的巢也去。",
+   "call": "觅食时不断发出低沉的啾啾声，用来保持联系。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%96%89%E6%96%87%E9%B3%A5"
+  },
+  "Lonchura_striata": {
+   "impression": "棕褐色小鸟，腰白，尾长而尖，成群钻在草丛里。",
+   "marks": [
+    "背和胸棕色，下体较浅",
+    "腰部白色",
+    "喙短粗，灰色",
+    "尾巴长而尖，黑色"
+   ],
+   "sexAge": "雌雄几乎无法区分；雄鸟头和喙更粗壮。",
+   "funFact": "常在水边吃藻类，推测是从稻田的水绵里获取蛋白质。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B0%E6%96%87%E9%B3%A5"
+  },
+  "Lonchura_maja": {
+   "impression": "头和喉咙全白、身体棕色的小文鸟，爱成群活动。",
+   "marks": [
+    "整个头和喉咙白色",
+    "上体、两胁、翼栗棕色",
+    "腹部黑色，尾黑褐色",
+    "喙灰色"
+   ],
+   "sexAge": "雌雄差异很细微，雄鸟头更白且越老越白；幼鸟上体偏肉桂色，脸和下体淡黄褐。",
+   "similar": [
+    {
+     "sci": "Lonchura malacca",
+     "zh": "黑头文鸟",
+     "diff": "棕色比它浅，整个头部和喉咙都是白色。"
+    },
+    {
+     "sci": "Lonchura atricapilla",
+     "zh": "栗腹文鸟",
+     "diff": "幼鸟几乎没法和它的幼鸟分开。"
+    }
+   ],
+   "funFact": "稻米收割期会聚成大群，到繁殖季节才成对活动。",
+   "call": "高音的「啾啾」。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%A4%B4%E6%96%87%E9%B8%9F"
+  },
+  "Dendronanthus_indicus": {
+   "impression": "胸前两道黑带，尾巴左右摆的林中鹡鸰。",
+   "marks": [
+    "胸前两道黑带，上带如领结",
+    "白眉纹，眼部有深色条纹",
+    "翅黑，有两道宽大的白色翼斑",
+    "背和头顶橄榄棕色"
+   ],
+   "sexAge": "雌雄外观相似；幼鸟下体偏黄。",
+   "funFact": "它是唯一在树上筑巢的鹡鸰。",
+   "call": "单音的「pink pink」，在地面或高空飞行时都会叫。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E9%B6%BA%E9%B4%92"
+  },
+  "Anthus_trivialis": {
+   "impression": "棕色纵纹的小鹨，较常停在树上，唱着歌僵翅滑翔落回。",
+   "marks": [
+    "上体棕色，有条纹",
+    "胸黄褐带黑斑，腹部白色",
+    "胸腹色差比草地鹨更明显",
+    "嘴比草地鹨粗大"
+   ],
+   "similar": [
+    {
+     "sci": "Anthus pratensis",
+     "zh": "草地鹨",
+     "diff": "草地鹨体型略小；林鹨嘴更粗，胸黄褐与腹白的对比更明显。"
+    }
+   ],
+   "funFact": "名字叫林鹨，巢却筑在地面草丛里，有时被大杜鹃借去养雏。",
+   "call": "强烈的「spek」；飞行中的歌声越到最后越拉长。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9E%97%E9%B9%A8"
+  },
+  "Mycerobas_carnipes": {
+   "impression": "一般栖于海拔三四千米以上的高山针叶林下层和灌丛。",
+   "funFact": "冬季多在针阔混交林和丘陵灌丛，有时也到牧场。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%BF%85%E6%8B%9F%E8%9C%A1%E5%98%B4%E9%9B%80"
+  },
+  "Carpodacus_waltoni": {
+   "impression": "栖息在海拔2700到4300米的高山灌丛草地和林中。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9B%99%E7%BA%A2%E6%9C%B1%E9%9B%80"
+  },
+  "Pinicola_enucleator": {
+   "impression": "个头大的雀，雄鸟头背腰玫红，黑翅上有白翅带",
+   "marks": [
+    "雄鸟头、背、腰玫红色",
+    "黑色翅膀，有白色翅带",
+    "黑尾长而分叉",
+    "嘴大，呈圆锥形"
+   ],
+   "sexAge": "雌鸟头和腰橄榄黄，背和下体灰色；幼鸟反差小，换羽时显得毛糙",
+   "funFact": "繁殖期雌雄都会长出喉囊，用来存种子再喂雏鸟。",
+   "call": "鸣叫因地区而异，包括拟作pui pui pui或chii-vli的口哨声；歌声是短而悦耳的啭鸣",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E9%9B%80"
+  },
+  "Loxia_curvirostra": {
+   "impression": "喙尖交叉，能撬开针叶树球果的鳞片取出种子。",
+   "marks": [
+    "喙尖交叉",
+    "雄鸟多为红色或橙色",
+    "雌鸟多为绿色或黄色",
+    "翅膀全棕黑色，没有白翼斑"
+   ],
+   "sexAge": "雄鸟多为红或橙色，雌鸟绿或黄色；幼鸟灰绿带纵纹。",
+   "similar": [
+    {
+     "sci": "Loxia leucoptera",
+     "zh": "白翅交嘴雀",
+     "diff": "嘴也是交叉的，但白翅交嘴雀翅上有两道明显白翼斑，红交嘴雀翅是全棕黑。"
+    }
+   ],
+   "funFact": "传说耶稣被钉十字架时，它用嘴拔钉子，嘴才变成了交叉的样子。",
+   "call": "常发单音的「chip」，不同型态之间差别明显。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%B4%85%E4%BA%A4%E5%98%B4%E9%9B%80"
+  },
+  "Emberiza_cia": {
+   "impression": "繁殖雄鸟灰头带黑纹，上体栗色，下体深皮黄",
+   "marks": [
+    "繁殖雄鸟头浅灰，带黑纹",
+    "繁殖雄鸟上体栗色",
+    "繁殖雄鸟下体深皮黄，无斑"
+   ],
+   "sexAge": "雌鸟像淡化版雄鸟：下体更浅，背灰褐，头部对比更弱；幼鸟像雌鸟，但头有纵纹",
+   "funFact": "种加词cia源自意大利当地对它的叫法，该词来自动词zirlare「啾啾叫」",
+   "call": "尖锐的「tseee」；歌声是一串颤鸣「churrrr-chirrriiii-itt」",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E6%B7%A1%E7%81%B0%E7%9C%89%E5%B2%A9%E9%B9%80"
+  },
+  "Emberiza_buchanani": {
+   "impression": "雄鸟灰头配白眼圈，粉红色长嘴。",
+   "marks": [
+    "雄鸟灰色头罩，眼圈白",
+    "喙长，粉红色",
+    "颏喉粉白，两侧有灰颊纹",
+    "下体粉褐，外侧尾羽偏白"
+   ],
+   "sexAge": "雌鸟颜色更暗，但髭纹可能更明显。",
+   "similar": [
+    {
+     "sci": "Emberiza hortulana",
+     "zh": "圃鹀",
+     "diff": "非繁殖羽与圃鹀很像，远离繁殖地的个体可能因此被忽略。"
+    }
+   ],
+   "funFact": "学名纪念布坎南-汉密尔顿，布莱斯据他的画描述该种；据称的模式标本始终没找到。",
+   "call": "冬天发短促低沉的咔声；鸣唱是一串金属味的swee-swee，末尾接dzwe-ee-dul。",
+   "basedOn": "https://zh.wikipedia.org/wiki/%E7%81%B0%E9%A2%88%E9%B9%80"
+  }
+ }
+}
