@@ -91,7 +91,8 @@ def main():
         w.writerows(rows)
     huashu_total = sum(1 for s in species if s.get("sticker"))
     stats = {"selected": len(rows), "huashu_stickers": huashu_total, "fetched_species": len(obs), "reasons": reasons,
-             "huashu_below_bar_in_selection": sum(r["huashu_meets_bar"] == "no" for r in rows)}
+             "huashu_below_bar_in_selection": sum(r["huashu_meets_bar"] == "no" for r in rows),
+             "median_agree": sorted(r["people_agree"] for r in rows)[len(rows) // 2], "median_months": sorted(r["id_months"] for r in rows)[len(rows) // 2]}
     json.dump(stats, open(f"{out}/stats.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     data = json.dumps([[r["id"], r["chinese"], r["english"], r["scientific_name"], r["family"], r["people_agree"], r["id_months"], r["photo"], r["observation"], r["licence"],
                         r["credit"][:120], r["huashu_sticker"], r["huashu_score"], r["huashu_meets_bar"]] for r in rows], ensure_ascii=False).replace("</", "<\\/")

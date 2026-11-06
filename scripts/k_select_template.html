@@ -52,7 +52,7 @@ a{color:var(--accent)}
 <li>鸟种必须在花叔版有贴纸，且 AviList 没有调整过它的物种划分，iNaturalist 的学名也必须完全一致。</li>
 <li>照片需在 2025-11-05 之前上传，授权为 CC0、CC BY 或 CC BY-SA，原图长边至少 1200 像素。</li>
 <li>每张照片先由鸟类检测模型筛选构图：画面里只能有一只鸟、鸟要够大、不能有人或手。之后由 Claude 逐张看过，排除被遮挡、只拍到头、死鸟、家禽、手绘画、翻拍屏幕和拍错鸟的照片，每条排除记录都在 eye-check.csv。模型和 Claude 都不判断物种。</li>
-<li>3 个账号不等于 3 位专家，他们也可能跟随别人的鉴定。这一版还没有经过鸟友评审。</li>
+<li>3 个账号不等于 3 位专家，他们也可能跟随别人的鉴定。这一版只用网上已有的人的判断，没有专门请人打分；和花叔比效果，要等两版公开后比较各自被人指出的错误。</li>
 <li>真实照片的姿态、光线和背景各不相同，不是统一的透明贴纸风格。</li>
 <li>图片直接从 iNaturalist 和 GitHub 加载，需要联网才能显示。</li>
 </ul>
@@ -77,7 +77,7 @@ document.getElementById("facts").innerHTML=
  fact(S.selected.toLocaleString(),`入选鸟种，约为花叔 ${S.huashu_stickers.toLocaleString()} 种的 1/${Math.round(S.huashu_stickers/S.selected)}`)+
  fact(S.huashu_below_bar_in_selection,"其中花叔的贴纸未达他自己的质量标准")+
  fact(S.fetched_species.toLocaleString()+" / 11,011","已查询的鸟种，全量查询仍在进行，入选数会继续增加")+
- fact("0","经过鸟友评审的鸟种");
+ fact(S.median_agree+" 人 · "+S.median_months+" 个月","每张照片认定人数和跨越月份的中位数");
 let shown=0, list=D;
 function card(r){
  const [id,zh,en,sci,fam,agree,months,photo,obs,lic,credit,sticker,score,bar]=r;
