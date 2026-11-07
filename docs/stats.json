@@ -1,16 +1,16 @@
 {
  "selected": 1209,
  "huashu_stickers": 10973,
- "fetched_species": 7894,
+ "fetched_species": 10993,
  "reasons": {
-  "checked": 7859,
-  "no_three_people_three_months": 4261,
+  "checked": 10958,
+  "no_three_people_three_months": 5929,
   "no_single_clear_bird": 879,
-  "photo_too_small": 255,
+  "photo_too_small": 400,
   "taxon_changed": 90,
   "name_not_exact": 2,
   "eye_check_species": 1,
-  "framing_not_checked_yet": 1162
+  "framing_not_checked_yet": 2448
  },
  "huashu_below_bar_in_selection": 55,
  "median_agree": 5,
