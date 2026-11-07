@@ -6,11 +6,11 @@
 
 <a href="https://flychicken067.github.io/bird-human-picks/"><img src="docs/assets/og.png" alt="人选鸟图网站：每种鸟一张真实照片，每张都经至少3人认定" width="100%"></a>
 
-**这些照片的完整用法，去[网站](https://flychicken067.github.io/bird-human-picks/)看。** 人选鸟图网站有15种语言，1209种鸟每种一个页面：照片、几个人认定、体型、保护等级、分布、各语言鸟名、引用方式和报错入口，也能和花叔的AI贴纸并排对比。
+**这些照片的完整用法，去[网站](https://flychicken067.github.io/bird-human-picks/)看。** 人选鸟图网站有15种语言，1049种鸟每种一个页面：照片、几个人认定、体型、保护等级、分布、各语言鸟名、引用方式和报错入口，也能和花叔的AI贴纸并排对比。
 
-[Ivan](https://github.com/flychicken067)开源的鸟类真实照片库，起因是想看看：不让AI画、只用人的判断，能把花叔的「huashu-bird-sticker」做到什么程度。每种鸟一张iNaturalist上的野外照片，至少3个人在至少3个不同月份认定为同一物种，没有人给出别的物种。按全球统一鸟类名录[AviList v2026](https://www.avilist.org/)整理，目前1209种、39目145科，和[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)用同一套编号，可以直接对接。照片全部可以免费商用，每张都记录了作者、授权和认定依据。
+[Ivan](https://github.com/flychicken067)开源的鸟类真实照片库，起因是想看看：不让AI画、只用人的判断，能把花叔的「huashu-bird-sticker」做到什么程度。每种鸟一张iNaturalist上的野外照片，除上传者本人外，至少3个人在至少3个不同月份认定为同一物种，不算点AI建议给出的鉴定，也没有人给出别的物种。按全球统一鸟类名录[AviList v2026](https://www.avilist.org/)整理，目前1049种、39目141科，和[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)用同一套编号，可以直接对接。照片全部可以免费商用，每张都记录了作者、授权和认定依据。
 
-> **iNaturalist全量查询已经跑完。** 11011种里有10993种拿到了鉴定数据，另外18种学名对不上。新查到的鸟种还要做构图检查和逐张看图，做完后入选数会增加。花叔版有10973种贴纸，我们目前是其中的1209种。
+> **iNaturalist全量查询已经跑完。** 11011种里有10993种拿到了鉴定数据，另外18种学名对不上。新查到的鸟种还要做构图检查和逐张看图，做完后入选数会增加。花叔版有10973种贴纸，我们目前是其中的1049种。
 
 **授权一句话：** 照片可以免费用于任何用途，包括商用，只要按每张照片自己的授权署名（CC0不用署名，CC BY和CC BY-SA要署名，CC BY-SA改过的要按同样授权分享）。我们整理的数据按CC BY 4.0，代码按MIT，第三方部分见[NOTICE](NOTICE.md)。
 
@@ -18,7 +18,7 @@
 
 10个照片最多、最有代表性的类群，每组12张，同一个属尽量只放一张，优先选认定人数多的；最后是每个目各一只。每张图下面列了摄影师。
 
-### 蜂鸟 · *Trochilidae* — 122种
+### 蜂鸟 · *Trochilidae* — 82种
 
 ![蜂鸟](previews/families/trochilidae.jpg)
 
@@ -27,11 +27,11 @@
 1. *Archilochus colubris* — [Blake Ross](https://www.inaturalist.org/photos/239401590), CC BY
 2. *Sephanoides fernandensis* — [iNaturalist](https://www.inaturalist.org/photos/64734837), CC0
 3. *Eulampis jugularis* — [Annika Lindqvist](https://www.inaturalist.org/photos/2906217), CC BY
-4. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
-5. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
-6. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
-7. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
-8. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+4. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
+5. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
+6. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+7. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
+8. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
 9. *Heliactin bilophus* — [agujaceratops](https://www.inaturalist.org/photos/348331475), CC BY
 10. *Mellisuga helenae* — [iNaturalist](https://www.inaturalist.org/photos/258810323), CC0
 11. *Colibri cyanotus* — [Annika Lindqvist](https://www.inaturalist.org/photos/2383409), CC BY
@@ -39,7 +39,7 @@
 
 </details>
 
-### 翠鸟、蜂虎、鹦鹉和其他彩色鸟 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40种
+### 翠鸟、蜂虎、鹦鹉和其他彩色鸟 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 36种
 
 ![翠鸟、蜂虎、鹦鹉和其他彩色鸟](previews/families/colourful.jpg)
 
@@ -60,7 +60,7 @@
 
 </details>
 
-### 鸠鸽 · *Columbidae* — 89种
+### 鸠鸽 · *Columbidae* — 79种
 
 ![鸠鸽](previews/families/columbidae.jpg)
 
@@ -81,7 +81,7 @@
 
 </details>
 
-### 鸭、雁与天鹅 · *Anatidae* — 78种
+### 鸭、雁与天鹅 · *Anatidae* — 75种
 
 ![鸭、雁与天鹅](previews/families/anatidae.jpg)
 
@@ -102,7 +102,7 @@
 
 </details>
 
-### 雉鸡、鹑与冢雉 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110种
+### 雉鸡、鹑与冢雉 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 104种
 
 ![雉鸡、鹑与冢雉](previews/families/phasianidae.jpg)
 
@@ -123,7 +123,7 @@
 
 </details>
 
-### 鸮 · *Strigidae* · *Tytonidae* — 44种
+### 鸮 · *Strigidae* · *Tytonidae* — 41种
 
 ![鸮](previews/families/owls.jpg)
 
@@ -144,15 +144,15 @@
 
 </details>
 
-### 猛禽 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34种
+### 猛禽 · *Accipitridae* · *Falconidae* · *Cathartidae* — 32种
 
 ![猛禽](previews/families/raptors.jpg)
 
 <details><summary>照片作者（从左到右、从上到下）</summary>
 
 1. *Buteo lineatus* — [Don Loarie](https://www.inaturalist.org/photos/14603656), CC BY
-2. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
-3. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+2. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+3. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
 4. *Daptrius albogularis* — [Jeff Young](https://www.inaturalist.org/photos/12549808), CC BY
 5. *Spizaetus ornatus* — [iNaturalist](https://www.inaturalist.org/photos/440105675), CC0
 6. *Vultur gryphus* — [Ezequiel Racker](https://www.inaturalist.org/photos/202029519), CC BY
@@ -165,7 +165,7 @@
 
 </details>
 
-### 鹭、鹮与鹳 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64种
+### 鹭、鹮与鹳 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 63种
 
 ![鹭、鹮与鹳](previews/families/herons.jpg)
 
@@ -186,7 +186,7 @@
 
 </details>
 
-### 鹬、鸻与鸥 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115种
+### 鹬、鸻与鸥 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 101种
 
 ![鹬、鸻与鸥](previews/families/shorebirds.jpg)
 
@@ -207,7 +207,7 @@
 
 </details>
 
-### 鸣禽：鹟、鸫、莺、霸鹟与鸦 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63种
+### 鸣禽：鹟、鸫、莺、霸鹟与鸦 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 52种
 
 ![鸣禽：鹟、鸫、莺、霸鹟与鸦](previews/families/songbirds.jpg)
 
@@ -242,7 +242,7 @@
 6. *Somateria fischeri* — [Nigel Voaden](https://www.inaturalist.org/photos/2946643), CC BY
 7. *Phasianus colchicus* — [John Krampl](https://www.inaturalist.org/photos/127255695), CC BY
 8. *Phoenicopterus chilensis* — [Thibaud Aronson](https://www.inaturalist.org/photos/64524005), CC BY-SA
-9. *Tachybaptus dominicus* — [Laura Clark](https://www.inaturalist.org/photos/223776589), CC BY
+9. *Podiceps gallardoi* — [Ezequiel Racker](https://www.inaturalist.org/photos/213999760), CC BY
 10. *Crinifer piscator* — [Christoph Moning](https://www.inaturalist.org/photos/94968069), CC BY
 11. *Eupodotis caerulescens* — [Brian du Preez](https://www.inaturalist.org/photos/15201068), CC BY-SA
 12. *Geococcyx californianus* — [Jody Shugart](https://www.inaturalist.org/photos/8844788), CC BY
@@ -280,28 +280,28 @@
 
 | | |
 |---|---|
-| `data/species.json` | 每种一条记录，最完整的数据：分类、鸟名、编号、分布、形态、保护等级，以及照片、认定依据和检查记录。字段标准和花叔的`data/`一致，说明见[data/README.md](data/README.md)（1209种） |
+| `data/species.json` | 每种一条记录，最完整的数据：分类、鸟名、编号、分布、形态、保护等级，以及照片、认定依据和检查记录。字段标准和花叔的`data/`一致，说明见[data/README.md](data/README.md)（1049种） |
 | `data/species.csv` | 同上，摊平成表格，方便用Excel打开 |
-| `data/names.csv` | 1209种鸟、43种语言的鸟名（英文CC BY 4.0，其他语言CC BY 3.0） |
-| `data/field-guide.zh-Hans.json` | 325种鸟的中文图鉴笔记（CC BY-SA 4.0） |
+| `data/names.csv` | 1049种鸟、43种语言的鸟名（英文CC BY 4.0，其他语言CC BY 3.0） |
+| `data/field-guide.zh-Hans.json` | 289种鸟的中文图鉴笔记（CC BY-SA 4.0） |
 | `docs/` | 网站：15种语言，每种鸟一个页面 |
 | `ios/` | 离线iOS App源码 |
 | `scripts/、site/` | 采集、筛选、出图和建站的脚本（MIT） |
 
 ## 覆盖情况
 
-- 照片：1209种全部有，每张都有照片页、原图尺寸、授权和授权链接。163张CC0照片的摄影师放弃了署名，iNaturalist也不给名字，我们不替他们补名字，只留作者主页链接。
-- 认定：每张至少3人、跨至少3个月，中位数是5人、3个月，没有异议。
-- 编号：iNaturalist物种编号、eBird、Avibase 1209种全有；Wikidata 1194种，GBIF 1176种。
-- 鸟名、分布、形态、保护等级原样取自花叔的数据，我们没有改动，所以缺的地方和他一样，比如体长只有616种有。
+- 照片：1049种全部有，每张都有照片页、原图尺寸、授权和授权链接。143张CC0照片的摄影师放弃了署名，iNaturalist也不给名字，我们不替他们补名字，只留作者主页链接。
+- 认定：每张至少3人、跨至少3个月，中位数是4人、3个月，没有异议。
+- 编号：iNaturalist物种编号、eBird、Avibase 1049种全有；Wikidata 1034种，GBIF 1021种。
+- 鸟名、分布、形态、保护等级原样取自花叔的数据，我们没有改动，所以缺的地方和他一样，比如体长只有540种有。
 
 ## 照片怎么选的，质量如何
 
-**物种对不对，由人决定。** 照片来自iNaturalist的野外研究级观测，至少3个账号当前认定为这个物种，认定跨至少3个不同月份，没有人给出别的物种。原图长边至少1200像素，授权只收CC0、CC BY、CC BY-SA。
+**物种对不对，由人决定。** 照片来自iNaturalist的野外研究级观测，至少3个账号当前认定为这个物种，认定跨至少3个不同月份，没有人给出别的物种。原图长边至少1200像素，授权只收CC0、CC BY、CC BY-SA。上传者本人的鉴定和点AI建议给出的鉴定都不算。
 
-**画面先由模型初筛，再逐张看。** 检测模型只看画面里有几只鸟、鸟多大、有没有人手，不判断物种。之后逐张看图，排除了367张：被遮挡、只拍到局部、死鸟、家禽、手绘画、拍错的鸟等，每张都写了原因，见[docs/eye-check.csv](docs/eye-check.csv)。
+**画面先由模型初筛，再逐张看。** 检测模型只看画面里有几只鸟、鸟多大、有没有人手，不判断物种。之后逐张看图，排除了370张：被遮挡、只拍到局部、死鸟、家禽、手绘画、拍错的鸟等，每张都写了原因，见[docs/eye-check.csv](docs/eye-check.csv)。
 
-- **还有9749种没有入选。** 其中5929种没有一条观测做到3人认定、跨3个月；2448种还没做构图检查，正在做；879种没有一张画面清楚的单只鸟照片；400种原图太小；90种分类范围变了，暂不收；另有3种因学名对不上或看图排除。每一项的计数见[docs/stats.json](docs/stats.json)。
+- **还有9909种没有入选。** 其中6067种没有一条观测做到3人认定、跨3个月；3728种还没按新规则复核；22种没有一张画面清楚的单只鸟照片；90种分类范围变了，暂不收；另有2种因学名对不上或看图排除。每一项的计数见[docs/stats.json](docs/stats.json)。
 
 这些是真实照片，但物种是网友鉴定的，不是鸟类学家逐张核对的。当作一张可靠的参考照来用；涉及细节辨识，请以图鉴为准。 和花叔版谁错得少，要等两版公开后比较各自被人指出的错误。在那之前只能说物种依据更强，不能说效果更好。
 

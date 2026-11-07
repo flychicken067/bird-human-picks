@@ -43,7 +43,7 @@ struct BirdDetail: View {
                     VStack(alignment: .leading, spacing: 6) {
                         Label(bird.evidence, systemImage: "person.3")
                             .font(.headline)
-                        Text("这张照片在iNaturalist上由\(bird.agree)个账号认定为这个物种，认定跨\(bird.months)个不同月份，没有人给出其他物种。")
+                        Text("这张照片在iNaturalist上由\(bird.agree)个账号认定为这个物种，认定跨\(bird.months)个不同月份，没有人给出其他物种。上传者本人的鉴定和点AI建议给出的鉴定不算在内。")
                             .font(.callout)
                             .foregroundStyle(.secondary)
                         Text("真实照片，不是AI生成。物种由iNaturalist用户鉴定，人也会出错。")

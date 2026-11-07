@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 """Build the strict selection: species where several people agree over time, shown next to 花叔's sticker.
 
-Usage: k_build_select.py <species.json> <inat-obs.jsonl> <inat-taxa.json> <out_dir> <photo-check.jsonl> [eye-check.csv]
+Usage: k_build_select.py <species.json> <inat-obs.jsonl> <inat-taxa.json> <out_dir> <photo-check.jsonl> [eye-check.csv] [strict-ids.jsonl]
 
 A species is included when all of these hold:
 - 花叔 2.2.0 has a sticker for it (so the two can be compared);
 - AviList did not change its taxon concept, and the iNaturalist taxon has the same name;
 - an iNaturalist wild observation, uploaded before 2025-11-05, with a CC0, CC BY or CC BY-SA photo,
   has at least 3 accounts currently agreeing on the species, in at least 3 different months,
-  and nobody currently naming another species;
+  and nobody currently naming another species. With strict-ids.jsonl (k_strict_ids.py), only
+  identifications by people other than the poster, not made by accepting the AI suggestion, count;
 - the photo's long side is at least 1200 px;
 - a bird detector finds exactly one bird, spanning at least 40% of the photo (framing only, never species);
 - the eye check (if given) did not reject that photo.
@@ -49,6 +50,13 @@ def main():
     if len(sys.argv) > 6 and os.path.exists(sys.argv[6]):
         rejected = {r["obs"]: r["problem"] for r in csv.DictReader(open(sys.argv[6], encoding="utf-8")) if r["verdict"] == "reject"}
     os.makedirs(out, exist_ok=True)
+    strict = None
+    if len(sys.argv) > 7 and os.path.exists(sys.argv[7]):
+        strict = {}
+        for line in open(sys.argv[7], encoding="utf-8"):
+            if line.endswith("\n"):
+                r = json.loads(line)
+                strict[r["obs"]] = r
     rows, reasons = [], {"checked": 0}
     for s in species:
         st = s.get("sticker")
@@ -61,6 +69,15 @@ def main():
         elif taxa[s["id"]]["match"] != "exact":
             why = "name_not_exact"
         good = [c for c in obs[s["id"]]["candidates"] if c["agree"] >= 3 and c["months"] >= 3 and c["disagree"] == 0]
+        if strict is not None:  # recount without the poster's own ID and without AI-suggested IDs
+            loose = good
+            good = []
+            for c in loose:
+                sc = strict.get(c["obs"])
+                if sc and sc["agree_strict"] >= 3 and sc["months_strict"] >= 3 and sc["disagree"] == 0:
+                    good.append(dict(c, agree=sc["agree_strict"], months=sc["months_strict"]))
+            if loose and not good and not any(c["obs"] in strict for c in loose):
+                why = why or "strict_not_checked_yet"
         big = [c for c in good if max(c.get("w") or 0, c.get("h") or 0) >= 1200]
         checked = [c for c in big if c["obs"] in framing]
         clear = [c for c in checked if clear_bird(framing[c["obs"]]) and str(c["obs"]) not in rejected]

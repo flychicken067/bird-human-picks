@@ -2,17 +2,17 @@
 
 <img src="previews/header.jpg" alt="Bird Human Picks website: one real photo per bird, each identified by at least 3 people" width="100%">
 
-**Ivan开源的鸟类真实照片库：每种鸟一张iNaturalist上的野外照片，至少3人在至少3个不同月份认定为同一物种。目前1209种，和花叔的huashu-bird-sticker用同一套编号。[中文说明 →](README.zh-Hans.md)**
+**Ivan开源的鸟类真实照片库：每种鸟一张iNaturalist上的野外照片，除上传者外至少3人在至少3个不同月份认定为同一物种。目前1049种，和花叔的huashu-bird-sticker用同一套编号。[中文说明 →](README.zh-Hans.md)**
 
 **English** · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md)
 
 <a href="https://flychicken067.github.io/bird-human-picks/en/"><img src="docs/assets/og.png" alt="Bird Human Picks website: one real photo per bird, each identified by at least 3 people" width="100%"></a>
 
-**See the photos in use on [the website](https://flychicken067.github.io/bird-human-picks/en/).** It is in 15 languages with a page for each of the 1,209 species: the photo, how many people identified it, size, conservation status, range, names in other languages, a ready-made credit line and a report link. You can also put Huashu's AI stickers alongside.
+**See the photos in use on [the website](https://flychicken067.github.io/bird-human-picks/en/).** It is in 15 languages with a page for each of the 1,049 species: the photo, how many people identified it, size, conservation status, range, names in other languages, a ready-made credit line and a report link. You can also put Huashu's AI stickers alongside.
 
-By [Ivan](https://github.com/flychicken067), to see how far human judgement alone, with no AI drawing, can take the goal of Huashu's [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker). Each species gets one wild photo from iNaturalist that at least 3 people identified as the same species, in at least 3 different months, with nobody naming another. 1,209 species across 39 orders and 145 families so far, following [AviList v2026](https://www.avilist.org/) and using the same IDs as huashu-bird-sticker, so the two join directly. Every photo is free for commercial use and records its photographer, license and the evidence behind it.
+By [Ivan](https://github.com/flychicken067), to see how far human judgement alone, with no AI drawing, can take the goal of Huashu's [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker). Each species gets one wild photo from iNaturalist that at least 3 people other than the photographer identified as the same species, in at least 3 different months, not counting identifications that just accepted iNaturalist's AI suggestion, with nobody naming another. 1,049 species across 39 orders and 141 families so far, following [AviList v2026](https://www.avilist.org/) and using the same IDs as huashu-bird-sticker, so the two join directly. Every photo is free for commercial use and records its photographer, license and the evidence behind it.
 
-> **The full iNaturalist query has finished.** 10,993 of 11,011 species now have identification data; the names of the other 18 did not match. The newly found species still need the framing check and a photo-by-photo look; the count will grow once that is done. Huashu's set has stickers for 10,973 species; we have 1,209 of them so far.
+> **The full iNaturalist query has finished.** 10,993 of 11,011 species now have identification data; the names of the other 18 did not match. The newly found species still need the framing check and a photo-by-photo look; the count will grow once that is done. Huashu's set has stickers for 10,973 species; we have 1,049 of them so far.
 
 **License in short:** use the photos for anything, including commercial work, as long as you credit them under each photo's own license (CC0 needs no credit; CC BY and CC BY-SA do; changed CC BY-SA photos must be shared under the same license). Our compiled data is CC BY 4.0, code is MIT; third-party parts are listed in [NOTICE](NOTICE.md).
 
@@ -20,7 +20,7 @@ By [Ivan](https://github.com/flychicken067), to see how far human judgement alon
 
 The 10 groups with the most photos, 12 each, one per genus where possible, best-evidenced first; then one bird from each order. Photographers are listed under each plate.
 
-### Hummingbirds · *Trochilidae* — 122 species
+### Hummingbirds · *Trochilidae* — 82 species
 
 ![Hummingbirds](previews/families/trochilidae.jpg)
 
@@ -29,11 +29,11 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 1. *Archilochus colubris* — [Blake Ross](https://www.inaturalist.org/photos/239401590), CC BY
 2. *Sephanoides fernandensis* — [iNaturalist](https://www.inaturalist.org/photos/64734837), CC0
 3. *Eulampis jugularis* — [Annika Lindqvist](https://www.inaturalist.org/photos/2906217), CC BY
-4. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
-5. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
-6. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
-7. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
-8. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+4. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
+5. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
+6. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+7. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
+8. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
 9. *Heliactin bilophus* — [agujaceratops](https://www.inaturalist.org/photos/348331475), CC BY
 10. *Mellisuga helenae* — [iNaturalist](https://www.inaturalist.org/photos/258810323), CC0
 11. *Colibri cyanotus* — [Annika Lindqvist](https://www.inaturalist.org/photos/2383409), CC BY
@@ -41,7 +41,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Kingfishers, bee-eaters, parrots and other colourful birds · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40 species
+### Kingfishers, bee-eaters, parrots and other colourful birds · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 36 species
 
 ![Kingfishers, bee-eaters, parrots and other colourful birds](previews/families/colourful.jpg)
 
@@ -62,7 +62,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Pigeons and doves · *Columbidae* — 89 species
+### Pigeons and doves · *Columbidae* — 79 species
 
 ![Pigeons and doves](previews/families/columbidae.jpg)
 
@@ -83,7 +83,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Ducks, geese and swans · *Anatidae* — 78 species
+### Ducks, geese and swans · *Anatidae* — 75 species
 
 ![Ducks, geese and swans](previews/families/anatidae.jpg)
 
@@ -104,7 +104,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Pheasants, quail and megapodes · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110 species
+### Pheasants, quail and megapodes · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 104 species
 
 ![Pheasants, quail and megapodes](previews/families/phasianidae.jpg)
 
@@ -125,7 +125,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Owls · *Strigidae* · *Tytonidae* — 44 species
+### Owls · *Strigidae* · *Tytonidae* — 41 species
 
 ![Owls](previews/families/owls.jpg)
 
@@ -146,15 +146,15 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Birds of prey · *Accipitridae* · *Falconidae* · *Cathartidae* — 34 species
+### Birds of prey · *Accipitridae* · *Falconidae* · *Cathartidae* — 32 species
 
 ![Birds of prey](previews/families/raptors.jpg)
 
 <details><summary>Photographers (left to right, top to bottom)</summary>
 
 1. *Buteo lineatus* — [Don Loarie](https://www.inaturalist.org/photos/14603656), CC BY
-2. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
-3. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+2. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+3. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
 4. *Daptrius albogularis* — [Jeff Young](https://www.inaturalist.org/photos/12549808), CC BY
 5. *Spizaetus ornatus* — [iNaturalist](https://www.inaturalist.org/photos/440105675), CC0
 6. *Vultur gryphus* — [Ezequiel Racker](https://www.inaturalist.org/photos/202029519), CC BY
@@ -167,7 +167,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Herons, ibises and storks · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64 species
+### Herons, ibises and storks · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 63 species
 
 ![Herons, ibises and storks](previews/families/herons.jpg)
 
@@ -188,7 +188,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Sandpipers, plovers and gulls · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115 species
+### Sandpipers, plovers and gulls · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 101 species
 
 ![Sandpipers, plovers and gulls](previews/families/shorebirds.jpg)
 
@@ -209,7 +209,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 </details>
 
-### Songbirds: flycatchers, thrushes, warblers, tyrants and crows · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63 species
+### Songbirds: flycatchers, thrushes, warblers, tyrants and crows · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 52 species
 
 ![Songbirds: flycatchers, thrushes, warblers, tyrants and crows](previews/families/songbirds.jpg)
 
@@ -244,7 +244,7 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 6. *Somateria fischeri* — [Nigel Voaden](https://www.inaturalist.org/photos/2946643), CC BY
 7. *Phasianus colchicus* — [John Krampl](https://www.inaturalist.org/photos/127255695), CC BY
 8. *Phoenicopterus chilensis* — [Thibaud Aronson](https://www.inaturalist.org/photos/64524005), CC BY-SA
-9. *Tachybaptus dominicus* — [Laura Clark](https://www.inaturalist.org/photos/223776589), CC BY
+9. *Podiceps gallardoi* — [Ezequiel Racker](https://www.inaturalist.org/photos/213999760), CC BY
 10. *Crinifer piscator* — [Christoph Moning](https://www.inaturalist.org/photos/94968069), CC BY
 11. *Eupodotis caerulescens* — [Brian du Preez](https://www.inaturalist.org/photos/15201068), CC BY-SA
 12. *Geococcyx californianus* — [Jody Shugart](https://www.inaturalist.org/photos/8844788), CC BY
@@ -282,28 +282,28 @@ The 10 groups with the most photos, 12 each, one per genus where possible, best-
 
 | | |
 |---|---|
-| `data/species.json` | One record per species, the most complete data: taxonomy, names, IDs, range, traits, conservation status, plus the photo, the identification evidence and our checks. Same field standard as Huashu's `data/`; see [data/README.md](data/README.md) (1,209 species) |
+| `data/species.json` | One record per species, the most complete data: taxonomy, names, IDs, range, traits, conservation status, plus the photo, the identification evidence and our checks. Same field standard as Huashu's `data/`; see [data/README.md](data/README.md) (1,049 species) |
 | `data/species.csv` | The same, flattened for spreadsheets |
-| `data/names.csv` | Names of 1,209 species in 43 languages (English CC BY 4.0, others CC BY 3.0) |
-| `data/field-guide.zh-Hans.json` | Chinese field notes for 325 species (CC BY-SA 4.0) |
+| `data/names.csv` | Names of 1,049 species in 43 languages (English CC BY 4.0, others CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | Chinese field notes for 289 species (CC BY-SA 4.0) |
 | `docs/` | The website: 15 languages, one page per species |
 | `ios/` | Source of the offline iOS app |
 | `scripts/, site/` | Scripts that collect, select, draw the plates and build the site (MIT) |
 
 ## Coverage
 
-- Photos: all 1,209 species, each with photo page, original size, license and license URL. The photographers of the 163 CC0 photos waived credit and iNaturalist gives no name; we do not fill one in for them, and keep a link to their profile.
-- Evidence: every photo has at least 3 identifiers across at least 3 months; the median is 5 people over 3 months, with no dissent.
-- IDs: iNaturalist taxon, eBird and Avibase for all 1,209; Wikidata 1,194, GBIF 1,176.
-- Names, range, traits and status are taken unchanged from Huashu's data, so the gaps are his gaps too; for example only 616 species have a body length.
+- Photos: all 1,049 species, each with photo page, original size, license and license URL. The photographers of the 143 CC0 photos waived credit and iNaturalist gives no name; we do not fill one in for them, and keep a link to their profile.
+- Evidence: every photo has at least 3 identifiers across at least 3 months; the median is 4 people over 3 months, with no dissent.
+- IDs: iNaturalist taxon, eBird and Avibase for all 1,049; Wikidata 1,034, GBIF 1,021.
+- Names, range, traits and status are taken unchanged from Huashu's data, so the gaps are his gaps too; for example only 540 species have a body length.
 
 ## How the photos are chosen, and how good they are
 
-**People decide the species.** Each photo comes from a wild, research-grade iNaturalist observation that at least 3 accounts currently identify as this species, in at least 3 different months, with nobody naming another. The original is at least 1200 px on its long side and licensed CC0, CC BY or CC BY-SA.
+**People decide the species.** Each photo comes from a wild, research-grade iNaturalist observation that at least 3 accounts currently identify as this species, in at least 3 different months, with nobody naming another. The original is at least 1200 px on its long side and licensed CC0, CC BY or CC BY-SA. The photographer's own identification and identifications that just accepted the AI suggestion are not counted.
 
-**A model screens the frame, then every photo is looked at.** The detector only checks how many birds are in the frame, how big, and whether a person or hand is visible; it never decides the species. Every photo was then looked at and 367 were removed (hidden, partial, dead, domestic, drawn or wrong birds), each with a reason in [docs/eye-check.csv](docs/eye-check.csv).
+**A model screens the frame, then every photo is looked at.** The detector only checks how many birds are in the frame, how big, and whether a person or hand is visible; it never decides the species. Every photo was then looked at and 370 were removed (hidden, partial, dead, domestic, drawn or wrong birds), each with a reason in [docs/eye-check.csv](docs/eye-check.csv).
 
-- **9,749 species are not in yet.** 5,929 have no observation with 3 people agreeing over 3 months; 2,448 have not had the framing check yet, which is under way; 879 have no photo showing one clear bird; 400 have only small originals; 90 changed their boundaries and are left out for now; 3 more failed on name matching or the photo-by-photo look. Counts are in [docs/stats.json](docs/stats.json).
+- **9,909 species are not in yet.** 6,067 have no observation with 3 people agreeing over 3 months; 3,728 have not yet been rechecked under the stricter rule; 22 have no photo showing one clear bird; 90 changed their boundaries and are left out for now; 2 more failed on name matching or the photo-by-photo look. Counts are in [docs/stats.json](docs/stats.json).
 
 These are real photos, but the species were identified by iNaturalist users, not checked one by one by ornithologists. Use them as reliable reference photos; for fine identification details, rely on a field guide. Which set has fewer mistakes, this or Huashu's, will be judged by the errors people report once both are public. Until then we only claim stronger evidence for the species, not better results.
 

@@ -8,11 +8,11 @@
 
 <a href="https://flychicken067.github.io/bird-human-picks/en/"><img src="docs/assets/og.png" alt="موقع Bird Human Picks: صورة حقيقية لكل طائر، تعرّف على كل منها 3 أشخاص على الأقل" width="100%"></a>
 
-**شاهد الصور قيد الاستخدام على [الموقع](https://flychicken067.github.io/bird-human-picks/en/).** يتوفر بـ15 لغة، ولكل نوع من الأنواع الـ1,209 صفحة: الصورة، وعدد من تعرّفوا عليها، والحجم، وحالة الحفظ، والانتشار، والأسماء بلغات أخرى، وسطر نسبة جاهز، ورابط للإبلاغ عن خطأ. ويمكن عرض ملصقات هواشو المولّدة بالذكاء الاصطناعي بجانبها.
+**شاهد الصور قيد الاستخدام على [الموقع](https://flychicken067.github.io/bird-human-picks/en/).** يتوفر بـ15 لغة، ولكل نوع من الأنواع الـ1,049 صفحة: الصورة، وعدد من تعرّفوا عليها، والحجم، وحالة الحفظ، والانتشار، والأسماء بلغات أخرى، وسطر نسبة جاهز، ورابط للإبلاغ عن خطأ. ويمكن عرض ملصقات هواشو المولّدة بالذكاء الاصطناعي بجانبها.
 
-من [Ivan](https://github.com/flychicken067)، لنرى إلى أي حد يبلغ الحكم البشري وحده، دون رسوم الذكاء الاصطناعي، هدف [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) لهواشو. لكل نوع صورة واحدة من الطبيعة من iNaturalist، تعرّف عليها 3 أشخاص على الأقل على أنها النوع نفسه خلال 3 أشهر مختلفة على الأقل، ولم يقترح أحد نوعًا آخر. حتى الآن 1,209 نوعًا من 39 رتبة و145 فصيلة، وفق [AviList v2026](https://www.avilist.org/) وبالمعرّفات نفسها التي يستخدمها huashu-bird-sticker، فيمكن ربط المجموعتين مباشرة. كل الصور قابلة للاستخدام التجاري، ولكل منها اسم المصوّر والترخيص والدليل الذي تستند إليه.
+من [Ivan](https://github.com/flychicken067)، لنرى إلى أي حد يبلغ الحكم البشري وحده، دون رسوم الذكاء الاصطناعي، هدف [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) لهواشو. لكل نوع صورة واحدة من الطبيعة من iNaturalist، تعرّف عليها 3 أشخاص على الأقل غير المصوّر على أنها النوع نفسه خلال 3 أشهر مختلفة على الأقل، دون احتساب التعرّفات التي قبلت اقتراح الذكاء الاصطناعي في iNaturalist كما هو، ولم يقترح أحد نوعًا آخر. حتى الآن 1,049 نوعًا من 39 رتبة و141 فصيلة، وفق [AviList v2026](https://www.avilist.org/) وبالمعرّفات نفسها التي يستخدمها huashu-bird-sticker، فيمكن ربط المجموعتين مباشرة. كل الصور قابلة للاستخدام التجاري، ولكل منها اسم المصوّر والترخيص والدليل الذي تستند إليه.
 
-> **اكتمل الاستعلام الكامل من iNaturalist.** صار لـ10,993 من 11,011 نوعًا بيانات تعرّف، ولم تتطابق أسماء الأنواع الـ18 الباقية. ما زالت الأنواع الجديدة تحتاج إلى فحص الإطار ومراجعة كل صورة، وسيزداد العدد بعد ذلك. لدى هواشو ملصقات لـ10,973 نوعًا، ولدينا منها 1,209 حتى الآن.
+> **اكتمل الاستعلام الكامل من iNaturalist.** صار لـ10,993 من 11,011 نوعًا بيانات تعرّف، ولم تتطابق أسماء الأنواع الـ18 الباقية. ما زالت الأنواع الجديدة تحتاج إلى فحص الإطار ومراجعة كل صورة، وسيزداد العدد بعد ذلك. لدى هواشو ملصقات لـ10,973 نوعًا، ولدينا منها 1,049 حتى الآن.
 
 **الترخيص باختصار:** استخدم الصور لأي غرض، بما في ذلك الاستخدام التجاري، بشرط ذكر المصوّر وفق ترخيص كل صورة (CC0 لا يتطلب ذلك، وCC BY وCC BY-SA يتطلبانه، والصور المعدّلة بترخيص CC BY-SA تُشارك بالترخيص نفسه). بياناتنا المجمّعة بترخيص CC BY 4.0، والشيفرة بترخيص MIT، والأجزاء من أطراف أخرى مذكورة في [NOTICE](NOTICE.md).
 
@@ -20,7 +20,7 @@
 
 المجموعات العشر الأكثر صورًا، 12 صورة لكل منها، جنس واحد لكل صورة قدر الإمكان، والأقوى دليلًا أولًا؛ ثم طائر واحد من كل رتبة. أسماء المصوّرين تحت كل لوحة.
 
-### الطيور الطنانة · *Trochilidae* — 122 نوعًا
+### الطيور الطنانة · *Trochilidae* — 82 نوعًا
 
 ![الطيور الطنانة](previews/families/trochilidae.jpg)
 
@@ -29,11 +29,11 @@
 1. *Archilochus colubris* — [Blake Ross](https://www.inaturalist.org/photos/239401590), CC BY
 2. *Sephanoides fernandensis* — [iNaturalist](https://www.inaturalist.org/photos/64734837), CC0
 3. *Eulampis jugularis* — [Annika Lindqvist](https://www.inaturalist.org/photos/2906217), CC BY
-4. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
-5. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
-6. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
-7. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
-8. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+4. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
+5. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
+6. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+7. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
+8. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
 9. *Heliactin bilophus* — [agujaceratops](https://www.inaturalist.org/photos/348331475), CC BY
 10. *Mellisuga helenae* — [iNaturalist](https://www.inaturalist.org/photos/258810323), CC0
 11. *Colibri cyanotus* — [Annika Lindqvist](https://www.inaturalist.org/photos/2383409), CC BY
@@ -41,7 +41,7 @@
 
 </details>
 
-### الرفراف والوروار والببغاوات وطيور ملونة أخرى · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40 نوعًا
+### الرفراف والوروار والببغاوات وطيور ملونة أخرى · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 36 نوعًا
 
 ![الرفراف والوروار والببغاوات وطيور ملونة أخرى](previews/families/colourful.jpg)
 
@@ -62,7 +62,7 @@
 
 </details>
 
-### الحمام واليمام · *Columbidae* — 89 نوعًا
+### الحمام واليمام · *Columbidae* — 79 نوعًا
 
 ![الحمام واليمام](previews/families/columbidae.jpg)
 
@@ -83,7 +83,7 @@
 
 </details>
 
-### البط والإوز والبجع · *Anatidae* — 78 نوعًا
+### البط والإوز والبجع · *Anatidae* — 75 نوعًا
 
 ![البط والإوز والبجع](previews/families/anatidae.jpg)
 
@@ -104,7 +104,7 @@
 
 </details>
 
-### الدرّاج والسمان والطيور الحاضنة · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110 نوعًا
+### الدرّاج والسمان والطيور الحاضنة · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 104 نوعًا
 
 ![الدرّاج والسمان والطيور الحاضنة](previews/families/phasianidae.jpg)
 
@@ -125,7 +125,7 @@
 
 </details>
 
-### البوم · *Strigidae* · *Tytonidae* — 44 نوعًا
+### البوم · *Strigidae* · *Tytonidae* — 41 نوعًا
 
 ![البوم](previews/families/owls.jpg)
 
@@ -146,15 +146,15 @@
 
 </details>
 
-### الطيور الجارحة · *Accipitridae* · *Falconidae* · *Cathartidae* — 34 نوعًا
+### الطيور الجارحة · *Accipitridae* · *Falconidae* · *Cathartidae* — 32 نوعًا
 
 ![الطيور الجارحة](previews/families/raptors.jpg)
 
 <details><summary>المصوّرون (من اليسار إلى اليمين، ومن الأعلى إلى الأسفل)</summary>
 
 1. *Buteo lineatus* — [Don Loarie](https://www.inaturalist.org/photos/14603656), CC BY
-2. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
-3. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+2. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+3. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
 4. *Daptrius albogularis* — [Jeff Young](https://www.inaturalist.org/photos/12549808), CC BY
 5. *Spizaetus ornatus* — [iNaturalist](https://www.inaturalist.org/photos/440105675), CC0
 6. *Vultur gryphus* — [Ezequiel Racker](https://www.inaturalist.org/photos/202029519), CC BY
@@ -167,7 +167,7 @@
 
 </details>
 
-### البلشون وأبو منجل واللقالق · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64 نوعًا
+### البلشون وأبو منجل واللقالق · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 63 نوعًا
 
 ![البلشون وأبو منجل واللقالق](previews/families/herons.jpg)
 
@@ -188,7 +188,7 @@
 
 </details>
 
-### الطيطوي والزقزاق والنورس · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115 نوعًا
+### الطيطوي والزقزاق والنورس · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 101 نوعًا
 
 ![الطيطوي والزقزاق والنورس](previews/families/shorebirds.jpg)
 
@@ -209,7 +209,7 @@
 
 </details>
 
-### الطيور المغرّدة: صائد الذباب والسمّنة والهازجة والطاغية والغرابيات · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63 نوعًا
+### الطيور المغرّدة: صائد الذباب والسمّنة والهازجة والطاغية والغرابيات · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 52 نوعًا
 
 ![الطيور المغرّدة: صائد الذباب والسمّنة والهازجة والطاغية والغرابيات](previews/families/songbirds.jpg)
 
@@ -244,7 +244,7 @@
 6. *Somateria fischeri* — [Nigel Voaden](https://www.inaturalist.org/photos/2946643), CC BY
 7. *Phasianus colchicus* — [John Krampl](https://www.inaturalist.org/photos/127255695), CC BY
 8. *Phoenicopterus chilensis* — [Thibaud Aronson](https://www.inaturalist.org/photos/64524005), CC BY-SA
-9. *Tachybaptus dominicus* — [Laura Clark](https://www.inaturalist.org/photos/223776589), CC BY
+9. *Podiceps gallardoi* — [Ezequiel Racker](https://www.inaturalist.org/photos/213999760), CC BY
 10. *Crinifer piscator* — [Christoph Moning](https://www.inaturalist.org/photos/94968069), CC BY
 11. *Eupodotis caerulescens* — [Brian du Preez](https://www.inaturalist.org/photos/15201068), CC BY-SA
 12. *Geococcyx californianus* — [Jody Shugart](https://www.inaturalist.org/photos/8844788), CC BY
@@ -282,28 +282,28 @@
 
 | | |
 |---|---|
-| `data/species.json` | سجل لكل نوع، أكمل البيانات: التصنيف والأسماء والمعرّفات والانتشار والصفات وحالة الحفظ، إضافة إلى الصورة ودليل التعرّف وفحوصاتنا. معيار الحقول نفسه الذي في `data/` لدى هواشو؛ انظر [data/README.md](data/README.md) (1,209 نوعًا) |
+| `data/species.json` | سجل لكل نوع، أكمل البيانات: التصنيف والأسماء والمعرّفات والانتشار والصفات وحالة الحفظ، إضافة إلى الصورة ودليل التعرّف وفحوصاتنا. معيار الحقول نفسه الذي في `data/` لدى هواشو؛ انظر [data/README.md](data/README.md) (1,049 نوعًا) |
 | `data/species.csv` | المحتوى نفسه في جدول |
-| `data/names.csv` | أسماء 1,209 نوعًا بـ43 لغة (الإنجليزية CC BY 4.0، والبقية CC BY 3.0) |
-| `data/field-guide.zh-Hans.json` | ملاحظات ميدانية صينية لـ325 نوعًا (CC BY-SA 4.0) |
+| `data/names.csv` | أسماء 1,049 نوعًا بـ43 لغة (الإنجليزية CC BY 4.0، والبقية CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | ملاحظات ميدانية صينية لـ289 نوعًا (CC BY-SA 4.0) |
 | `docs/` | الموقع: 15 لغة، صفحة لكل نوع |
 | `ios/` | شيفرة تطبيق iOS الذي يعمل دون اتصال |
 | `scripts/, site/` | نصوص الجمع والاختيار ورسم اللوحات وبناء الموقع (MIT) |
 
 ## التغطية
 
-- الصور: كل الأنواع الـ1,209، ولكل صورة صفحتها وحجمها الأصلي وترخيصها ورابط الترخيص. تنازل مصوّرو صور CC0 البالغ عددها 163 عن ذكر أسمائهم ولا يعطي iNaturalist الاسم؛ لا نضيف اسمًا نيابة عنهم ونُبقي رابط صفحتهم.
-- الدليل: لكل صورة 3 متعرّفين على الأقل خلال 3 أشهر على الأقل؛ الوسيط 5 أشخاص خلال 3 أشهر، دون اعتراض.
-- المعرّفات: تصنيف iNaturalist وeBird وAvibase لكل الأنواع الـ1,209؛ Wikidata 1,194، GBIF 1,176.
-- الأسماء والانتشار والصفات والحالة مأخوذة دون تغيير من بيانات هواشو، فالنواقص هي نفسها؛ مثلًا طول الجسم متوفر لـ616 نوعًا فقط.
+- الصور: كل الأنواع الـ1,049، ولكل صورة صفحتها وحجمها الأصلي وترخيصها ورابط الترخيص. تنازل مصوّرو صور CC0 البالغ عددها 143 عن ذكر أسمائهم ولا يعطي iNaturalist الاسم؛ لا نضيف اسمًا نيابة عنهم ونُبقي رابط صفحتهم.
+- الدليل: لكل صورة 3 متعرّفين على الأقل خلال 3 أشهر على الأقل؛ الوسيط 4 أشخاص خلال 3 أشهر، دون اعتراض.
+- المعرّفات: تصنيف iNaturalist وeBird وAvibase لكل الأنواع الـ1,049؛ Wikidata 1,034، GBIF 1,021.
+- الأسماء والانتشار والصفات والحالة مأخوذة دون تغيير من بيانات هواشو، فالنواقص هي نفسها؛ مثلًا طول الجسم متوفر لـ540 نوعًا فقط.
 
 ## كيف تُختار الصور وما جودتها
 
-**الناس هم من يحددون النوع.** كل صورة من مشاهدة برية بدرجة بحثية على iNaturalist يتعرّف عليها 3 حسابات على الأقل حاليًا على أنها هذا النوع، خلال 3 أشهر مختلفة على الأقل، دون أن يقترح أحد نوعًا آخر. الأصل لا يقل عن 1200 بكسل في ضلعه الأطول، وترخيصه CC0 أو CC BY أو CC BY-SA.
+**الناس هم من يحددون النوع.** كل صورة من مشاهدة برية بدرجة بحثية على iNaturalist يتعرّف عليها 3 حسابات على الأقل حاليًا على أنها هذا النوع، خلال 3 أشهر مختلفة على الأقل، دون أن يقترح أحد نوعًا آخر. الأصل لا يقل عن 1200 بكسل في ضلعه الأطول، وترخيصه CC0 أو CC BY أو CC BY-SA. لا يُحتسب تعرّف المصوّر نفسه ولا التعرّفات التي قبلت اقتراح الذكاء الاصطناعي كما هو.
 
-**نموذج يفحص الإطار، ثم تُراجع كل صورة.** يتحقق الكاشف فقط من عدد الطيور وحجمها وظهور شخص أو يد، ولا يحدد النوع أبدًا. بعد ذلك رُوجعت كل صورة واستُبعدت 367 صورة (طيور مخفية أو جزئية أو ميتة أو داجنة أو مرسومة أو خاطئة)، ولكل منها سبب في [docs/eye-check.csv](docs/eye-check.csv).
+**نموذج يفحص الإطار، ثم تُراجع كل صورة.** يتحقق الكاشف فقط من عدد الطيور وحجمها وظهور شخص أو يد، ولا يحدد النوع أبدًا. بعد ذلك رُوجعت كل صورة واستُبعدت 370 صورة (طيور مخفية أو جزئية أو ميتة أو داجنة أو مرسومة أو خاطئة)، ولكل منها سبب في [docs/eye-check.csv](docs/eye-check.csv).
 
-- **ما زال 9,749 نوعًا خارج المجموعة.** 5,929 منها بلا أي مشاهدة اتفق عليها 3 أشخاص خلال 3 أشهر؛ و2,448 تنتظر فحص الإطار الجاري؛ و879 بلا صورة لطائر واحد واضح؛ و400 أصولها صغيرة؛ و90 تغيّرت حدودها فاستُبعدت مؤقتًا؛ و3 أخرى لم تجتز مطابقة الأسماء أو المراجعة. الأعداد في [docs/stats.json](docs/stats.json).
+- **ما زال 9,909 نوعًا خارج المجموعة.** 6,067 منها بلا أي مشاهدة اتفق عليها 3 أشخاص خلال 3 أشهر؛ و3,728 لم تُراجع بعد وفق القاعدة الأشد؛ و22 بلا صورة لطائر واحد واضح؛ و90 تغيّرت حدودها فاستُبعدت مؤقتًا؛ و2 أخرى لم تجتز مطابقة الأسماء أو المراجعة. الأعداد في [docs/stats.json](docs/stats.json).
 
 هذه صور حقيقية، لكن الأنواع حددها مستخدمو iNaturalist، ولم يراجعها علماء طيور صورة بصورة. استخدمها صورًا مرجعية موثوقة، واعتمد على دليل ميداني في تفاصيل التعرّف الدقيقة. أيّ المجموعتين أقل أخطاءً، هذه أم مجموعة هواشو، ستحسمه الأخطاء المبلغ عنها بعد نشر الاثنتين. حتى ذلك الحين ندّعي فقط دليلًا أقوى على النوع، لا نتائج أفضل.
 

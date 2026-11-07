@@ -6,11 +6,11 @@
 
 <a href="https://flychicken067.github.io/bird-human-picks/ru/"><img src="docs/assets/og.png" alt="Сайт Bird Human Picks: одна настоящая фотография каждой птицы, каждую определили не менее 3 человек" width="100%"></a>
 
-**Как используются фотографии, видно на [сайте](https://flychicken067.github.io/bird-human-picks/ru/).** Он на 15 языках, у каждого из 1 209 видов своя страница: фотография, сколько человек её определили, размеры, охранный статус, распространение, названия на других языках, готовая строка с указанием автора и ссылка для сообщения об ошибке. Рядом можно показать ИИ-наклейки Хуашу.
+**Как используются фотографии, видно на [сайте](https://flychicken067.github.io/bird-human-picks/ru/).** Он на 15 языках, у каждого из 1 049 видов своя страница: фотография, сколько человек её определили, размеры, охранный статус, распространение, названия на других языках, готовая строка с указанием автора и ссылка для сообщения об ошибке. Рядом можно показать ИИ-наклейки Хуашу.
 
-Автор — [Ivan](https://github.com/flychicken067): проект проверяет, как далеко одно человеческое суждение, без рисунков ИИ, продвигает цель [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) Хуашу. Для каждого вида выбрана одна фотография из природы с iNaturalist, которую не менее 3 человек в течение не менее 3 разных месяцев определили как один и тот же вид, и никто не предложил другой. Пока здесь 1 209 видов из 39 отрядов и 145 семейств; список следует [AviList v2026](https://www.avilist.org/) и использует те же идентификаторы, что и huashu-bird-sticker, поэтому данные соединяются напрямую. Все фотографии можно использовать в коммерческих целях; для каждой записаны автор, лицензия и основания определения.
+Автор — [Ivan](https://github.com/flychicken067): проект проверяет, как далеко одно человеческое суждение, без рисунков ИИ, продвигает цель [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) Хуашу. Для каждого вида выбрана одна фотография из природы с iNaturalist, которую не менее 3 человек, кроме автора снимка, в течение не менее 3 разных месяцев определили как один и тот же вид (определения, просто принявшие подсказку ИИ iNaturalist, не считаются), и никто не предложил другой. Пока здесь 1 049 видов из 39 отрядов и 141 семейств; список следует [AviList v2026](https://www.avilist.org/) и использует те же идентификаторы, что и huashu-bird-sticker, поэтому данные соединяются напрямую. Все фотографии можно использовать в коммерческих целях; для каждой записаны автор, лицензия и основания определения.
 
-> **Полный запрос к iNaturalist завершён.** Для 10 993 из 11 011 видов теперь есть данные определений; названия остальных 18 не совпали. Новые виды ещё должны пройти проверку кадра и просмотр каждой фотографии; после этого их число вырастет. У Хуашу наклейки для 10 973 видов; у нас пока 1 209 из них.
+> **Полный запрос к iNaturalist завершён.** Для 10 993 из 11 011 видов теперь есть данные определений; названия остальных 18 не совпали. Новые виды ещё должны пройти проверку кадра и просмотр каждой фотографии; после этого их число вырастет. У Хуашу наклейки для 10 973 видов; у нас пока 1 049 из них.
 
 **Лицензия коротко:** используйте фотографии для чего угодно, в том числе в коммерческих целях, если указываете автора по лицензии каждой фотографии (для CC0 это не нужно, для CC BY и CC BY-SA нужно; изменённые фотографии CC BY-SA распространяются под той же лицензией). Наши собранные данные — CC BY 4.0, код — MIT; сторонние части перечислены в [NOTICE](NOTICE.md).
 
@@ -18,7 +18,7 @@
 
 10 групп с наибольшим числом фотографий, по 12, по возможности по одному роду, сначала наиболее подтверждённые; в конце — по одной птице из каждого отряда. Авторы указаны под каждой таблицей.
 
-### Колибри · *Trochilidae* — 122 видов
+### Колибри · *Trochilidae* — 82 видов
 
 ![Колибри](previews/families/trochilidae.jpg)
 
@@ -27,11 +27,11 @@
 1. *Archilochus colubris* — [Blake Ross](https://www.inaturalist.org/photos/239401590), CC BY
 2. *Sephanoides fernandensis* — [iNaturalist](https://www.inaturalist.org/photos/64734837), CC0
 3. *Eulampis jugularis* — [Annika Lindqvist](https://www.inaturalist.org/photos/2906217), CC BY
-4. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
-5. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
-6. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
-7. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
-8. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+4. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
+5. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
+6. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+7. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
+8. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
 9. *Heliactin bilophus* — [agujaceratops](https://www.inaturalist.org/photos/348331475), CC BY
 10. *Mellisuga helenae* — [iNaturalist](https://www.inaturalist.org/photos/258810323), CC0
 11. *Colibri cyanotus* — [Annika Lindqvist](https://www.inaturalist.org/photos/2383409), CC BY
@@ -39,7 +39,7 @@
 
 </details>
 
-### Зимородки, щурки, попугаи и другие яркие птицы · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40 видов
+### Зимородки, щурки, попугаи и другие яркие птицы · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 36 видов
 
 ![Зимородки, щурки, попугаи и другие яркие птицы](previews/families/colourful.jpg)
 
@@ -60,7 +60,7 @@
 
 </details>
 
-### Голуби · *Columbidae* — 89 видов
+### Голуби · *Columbidae* — 79 видов
 
 ![Голуби](previews/families/columbidae.jpg)
 
@@ -81,7 +81,7 @@
 
 </details>
 
-### Утки, гуси и лебеди · *Anatidae* — 78 видов
+### Утки, гуси и лебеди · *Anatidae* — 75 видов
 
 ![Утки, гуси и лебеди](previews/families/anatidae.jpg)
 
@@ -102,7 +102,7 @@
 
 </details>
 
-### Фазаны, перепела и сорные куры · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110 видов
+### Фазаны, перепела и сорные куры · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 104 видов
 
 ![Фазаны, перепела и сорные куры](previews/families/phasianidae.jpg)
 
@@ -123,7 +123,7 @@
 
 </details>
 
-### Совы · *Strigidae* · *Tytonidae* — 44 видов
+### Совы · *Strigidae* · *Tytonidae* — 41 видов
 
 ![Совы](previews/families/owls.jpg)
 
@@ -144,15 +144,15 @@
 
 </details>
 
-### Хищные птицы · *Accipitridae* · *Falconidae* · *Cathartidae* — 34 видов
+### Хищные птицы · *Accipitridae* · *Falconidae* · *Cathartidae* — 32 видов
 
 ![Хищные птицы](previews/families/raptors.jpg)
 
 <details><summary>Авторы фотографий (слева направо, сверху вниз)</summary>
 
 1. *Buteo lineatus* — [Don Loarie](https://www.inaturalist.org/photos/14603656), CC BY
-2. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
-3. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+2. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+3. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
 4. *Daptrius albogularis* — [Jeff Young](https://www.inaturalist.org/photos/12549808), CC BY
 5. *Spizaetus ornatus* — [iNaturalist](https://www.inaturalist.org/photos/440105675), CC0
 6. *Vultur gryphus* — [Ezequiel Racker](https://www.inaturalist.org/photos/202029519), CC BY
@@ -165,7 +165,7 @@
 
 </details>
 
-### Цапли, ибисы и аисты · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64 видов
+### Цапли, ибисы и аисты · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 63 видов
 
 ![Цапли, ибисы и аисты](previews/families/herons.jpg)
 
@@ -186,7 +186,7 @@
 
 </details>
 
-### Песочники, зуйки и чайки · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115 видов
+### Песочники, зуйки и чайки · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 101 видов
 
 ![Песочники, зуйки и чайки](previews/families/shorebirds.jpg)
 
@@ -207,7 +207,7 @@
 
 </details>
 
-### Воробьинообразные: мухоловки, дрозды, древесницы, тиранны и врановые · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63 видов
+### Воробьинообразные: мухоловки, дрозды, древесницы, тиранны и врановые · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 52 видов
 
 ![Воробьинообразные: мухоловки, дрозды, древесницы, тиранны и врановые](previews/families/songbirds.jpg)
 
@@ -242,7 +242,7 @@
 6. *Somateria fischeri* — [Nigel Voaden](https://www.inaturalist.org/photos/2946643), CC BY
 7. *Phasianus colchicus* — [John Krampl](https://www.inaturalist.org/photos/127255695), CC BY
 8. *Phoenicopterus chilensis* — [Thibaud Aronson](https://www.inaturalist.org/photos/64524005), CC BY-SA
-9. *Tachybaptus dominicus* — [Laura Clark](https://www.inaturalist.org/photos/223776589), CC BY
+9. *Podiceps gallardoi* — [Ezequiel Racker](https://www.inaturalist.org/photos/213999760), CC BY
 10. *Crinifer piscator* — [Christoph Moning](https://www.inaturalist.org/photos/94968069), CC BY
 11. *Eupodotis caerulescens* — [Brian du Preez](https://www.inaturalist.org/photos/15201068), CC BY-SA
 12. *Geococcyx californianus* — [Jody Shugart](https://www.inaturalist.org/photos/8844788), CC BY
@@ -280,28 +280,28 @@
 
 | | |
 |---|---|
-| `data/species.json` | Одна запись на вид, самые полные данные: систематика, названия, идентификаторы, распространение, признаки, охранный статус, а также фотография, основания определения и наши проверки. Тот же стандарт полей, что в `data/` Хуашу; см. [data/README.md](data/README.md) (1 209 видов) |
+| `data/species.json` | Одна запись на вид, самые полные данные: систематика, названия, идентификаторы, распространение, признаки, охранный статус, а также фотография, основания определения и наши проверки. Тот же стандарт полей, что в `data/` Хуашу; см. [data/README.md](data/README.md) (1 049 видов) |
 | `data/species.csv` | То же в виде таблицы |
-| `data/names.csv` | Названия 1 209 видов на 43 языках (английские CC BY 4.0, остальные CC BY 3.0) |
-| `data/field-guide.zh-Hans.json` | Китайские полевые заметки для 325 видов (CC BY-SA 4.0) |
+| `data/names.csv` | Названия 1 049 видов на 43 языках (английские CC BY 4.0, остальные CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | Китайские полевые заметки для 289 видов (CC BY-SA 4.0) |
 | `docs/` | Сайт: 15 языков, по странице на вид |
 | `ios/` | Исходный код офлайн-приложения для iOS |
 | `scripts/, site/` | Скрипты сбора, отбора, создания таблиц и сайта (MIT) |
 
 ## Охват
 
-- Фотографии: все 1 209 видов, у каждой страница фото, исходный размер, лицензия и ссылка на неё. Авторы 163 фотографий CC0 отказались от указания имени, и iNaturalist его не даёт; мы не вписываем имя за них и оставляем ссылку на профиль.
-- Основания: у каждой фотографии не менее 3 определивших за не менее чем 3 месяца; медиана — 5 человек за 3 месяца, без возражений.
-- Идентификаторы: таксон iNaturalist, eBird и Avibase для всех 1 209; Wikidata 1 194, GBIF 1 176.
-- Названия, распространение, признаки и статус взяты без изменений из данных Хуашу, поэтому пробелы те же; например, длина тела есть только у 616 видов.
+- Фотографии: все 1 049 видов, у каждой страница фото, исходный размер, лицензия и ссылка на неё. Авторы 143 фотографий CC0 отказались от указания имени, и iNaturalist его не даёт; мы не вписываем имя за них и оставляем ссылку на профиль.
+- Основания: у каждой фотографии не менее 3 определивших за не менее чем 3 месяца; медиана — 4 человек за 3 месяца, без возражений.
+- Идентификаторы: таксон iNaturalist, eBird и Avibase для всех 1 049; Wikidata 1 034, GBIF 1 021.
+- Названия, распространение, признаки и статус взяты без изменений из данных Хуашу, поэтому пробелы те же; например, длина тела есть только у 540 видов.
 
 ## Как выбираются фотографии и насколько они хороши
 
-**Вид определяют люди.** Каждая фотография взята из наблюдения в природе исследовательского уровня на iNaturalist, которое не менее 3 аккаунтов сейчас определяют как этот вид, не менее чем в 3 разных месяцах, и никто не предлагает другой. Оригинал не меньше 1200 px по длинной стороне, лицензия CC0, CC BY или CC BY-SA.
+**Вид определяют люди.** Каждая фотография взята из наблюдения в природе исследовательского уровня на iNaturalist, которое не менее 3 аккаунтов сейчас определяют как этот вид, не менее чем в 3 разных месяцах, и никто не предлагает другой. Оригинал не меньше 1200 px по длинной стороне, лицензия CC0, CC BY или CC BY-SA. Определение самого автора снимка и определения, просто принявшие подсказку ИИ, не считаются.
 
-**Модель проверяет кадр, затем каждую фотографию просматривают.** Детектор смотрит только, сколько птиц в кадре, какого они размера и виден ли человек или рука; вид он не определяет. Затем каждую фотографию просмотрели и исключили 367 (скрытые, неполные, мёртвые, домашние, нарисованные и не те птицы), причины — в [docs/eye-check.csv](docs/eye-check.csv).
+**Модель проверяет кадр, затем каждую фотографию просматривают.** Детектор смотрит только, сколько птиц в кадре, какого они размера и виден ли человек или рука; вид он не определяет. Затем каждую фотографию просмотрели и исключили 370 (скрытые, неполные, мёртвые, домашние, нарисованные и не те птицы), причины — в [docs/eye-check.csv](docs/eye-check.csv).
 
-- **Ещё 9 749 видов не вошли.** У 5 929 нет ни одного наблюдения, где 3 человека согласны за 3 месяца; 2 448 ждут проверки кадра, она идёт; у 879 нет фотографии с одной чёткой птицей; у 400 только маленькие оригиналы; 90 изменили границы и пока исключены; ещё 3 отсеялись при сопоставлении названий или просмотре. Подсчёты — в [docs/stats.json](docs/stats.json).
+- **Ещё 9 909 видов не вошли.** У 6 067 нет ни одного наблюдения, где 3 человека согласны за 3 месяца; 3 728 ещё не перепроверены по более строгому правилу; у 22 нет фотографии с одной чёткой птицей; 90 изменили границы и пока исключены; ещё 2 отсеялись при сопоставлении названий или просмотре. Подсчёты — в [docs/stats.json](docs/stats.json).
 
 Это настоящие фотографии, но виды определили пользователи iNaturalist, а не орнитологи, проверявшие каждую. Используйте их как надёжные справочные фото; для тонких признаков опирайтесь на определитель. У какого набора меньше ошибок — у этого или у Хуашу, покажут ошибки, о которых сообщат после публикации обоих. До тех пор мы утверждаем лишь более надёжные основания для вида, а не лучший результат.
 

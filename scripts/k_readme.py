@@ -31,8 +31,8 @@ raw = {"n": cov["count"], "orders": len({s["taxonomy"]["order"] for s in sp}), "
         "fetched": stats["fetched_species"], "cc0": sum(1 for s in sp if s["photo"]["license"] == "CC0"), "med_a": site["median_agree"],
        "med_m": site["median_months"], "wd": f["ids.wikidata"], "gbif": f["ids.gbif"], "size": f["size"], "fg": cov["fieldGuide"],
        "removed": site["removed"], "all": 11011, "unmatched": 11011 - stats["fetched_species"], "stickers": stats["huashu_stickers"],
-       "unsel": unsel, "r_three": R.get("no_three_people_three_months", 0), "r_frame": R.get("framing_not_checked_yet", 0),
-       "r_clear": R.get("no_single_clear_bird", 0), "r_small": R.get("photo_too_small", 0), "r_taxon": R.get("taxon_changed", 0),
+       "unsel": unsel, "r_three": R.get("no_three_people_three_months", 0), "r_frame": R.get("framing_not_checked_yet", 0) + R.get("strict_not_checked_yet", 0),
+       "r_clear": R.get("no_single_clear_bird", 0) + R.get("photo_too_small", 0), "r_small": R.get("photo_too_small", 0), "r_taxon": R.get("taxon_changed", 0),
        "r_other": R.get("name_not_exact", 0) + R.get("eye_check_species", 0)}
 SEP = {"zh-Hans": "", "zh-Hant": "", "en": ",", "ja": ",", "ko": ",", "ar": ",", "es": ".", "de": ".", "pt": ".", "fr": "\u202f", "ru": "\u00a0"}
 

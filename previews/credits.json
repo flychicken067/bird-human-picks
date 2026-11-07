@@ -4,7 +4,7 @@
    "families": [
     "Trochilidae"
    ],
-   "species": 122,
+   "species": 82,
    "photos": [
     {
      "id": "Archilochus_colubris",
@@ -34,24 +34,6 @@
      "page": "https://www.inaturalist.org/photos/2906217"
     },
     {
-     "id": "Selasphorus_platycercus",
-     "scientificName": "Selasphorus platycercus",
-     "en": "Broad-tailed Hummingbird",
-     "zh": "宽尾煌蜂鸟",
-     "author": "Texas Bird Family",
-     "license": "CC BY",
-     "page": "https://www.inaturalist.org/photos/444286145"
-    },
-    {
-     "id": "Loddigesia_mirabilis",
-     "scientificName": "Loddigesia mirabilis",
-     "en": "Marvelous Spatuletail",
-     "zh": "叉扇尾蜂鸟",
-     "author": "Thibaud Aronson",
-     "license": "CC BY-SA",
-     "page": "https://www.inaturalist.org/photos/114707728"
-    },
-    {
      "id": "Anthracothorax_nigricollis",
      "scientificName": "Anthracothorax nigricollis",
      "en": "Black-throated Mango",
@@ -77,6 +59,24 @@
      "author": "iNaturalist",
      "license": "CC0",
      "page": "https://www.inaturalist.org/photos/543676913"
+    },
+    {
+     "id": "Selasphorus_platycercus",
+     "scientificName": "Selasphorus platycercus",
+     "en": "Broad-tailed Hummingbird",
+     "zh": "宽尾煌蜂鸟",
+     "author": "Texas Bird Family",
+     "license": "CC BY",
+     "page": "https://www.inaturalist.org/photos/444286145"
+    },
+    {
+     "id": "Loddigesia_mirabilis",
+     "scientificName": "Loddigesia mirabilis",
+     "en": "Marvelous Spatuletail",
+     "zh": "叉扇尾蜂鸟",
+     "author": "Thibaud Aronson",
+     "license": "CC BY-SA",
+     "page": "https://www.inaturalist.org/photos/114707728"
     },
     {
      "id": "Heliactin_bilophus",
@@ -131,7 +131,7 @@
     "Paradisaeidae",
     "Pipridae"
    ],
-   "species": 40,
+   "species": 36,
    "photos": [
     {
      "id": "Anodorhynchus_hyacinthinus",
@@ -247,7 +247,7 @@
    "families": [
     "Columbidae"
    ],
-   "species": 89,
+   "species": 79,
    "photos": [
     {
      "id": "Hemiphaga_novaeseelandiae",
@@ -363,7 +363,7 @@
    "families": [
     "Anatidae"
    ],
-   "species": 78,
+   "species": 75,
    "photos": [
     {
      "id": "Somateria_fischeri",
@@ -483,7 +483,7 @@
     "Megapodiidae",
     "Cracidae"
    ],
-   "species": 110,
+   "species": 104,
    "photos": [
     {
      "id": "Phasianus_colchicus",
@@ -600,7 +600,7 @@
     "Strigidae",
     "Tytonidae"
    ],
-   "species": 44,
+   "species": 41,
    "photos": [
     {
      "id": "Surnia_ulula",
@@ -719,7 +719,7 @@
     "Pandionidae",
     "Cathartidae"
    ],
-   "species": 34,
+   "species": 32,
    "photos": [
     {
      "id": "Buteo_lineatus",
@@ -731,15 +731,6 @@
      "page": "https://www.inaturalist.org/photos/14603656"
     },
     {
-     "id": "Icthyophaga_vocifer",
-     "scientificName": "Icthyophaga vocifer",
-     "en": "African Fish Eagle",
-     "zh": "非洲海雕",
-     "author": "Wynand Uys",
-     "license": "CC BY",
-     "page": "https://www.inaturalist.org/photos/20939777"
-    },
-    {
      "id": "Astur_cooperii",
      "scientificName": "Astur cooperii",
      "en": "Cooper's Hawk",
@@ -747,6 +738,15 @@
      "author": "Becky Matsubara",
      "license": "CC BY",
      "page": "https://www.inaturalist.org/photos/43282408"
+    },
+    {
+     "id": "Icthyophaga_vocifer",
+     "scientificName": "Icthyophaga vocifer",
+     "en": "African Fish Eagle",
+     "zh": "非洲海雕",
+     "author": "Wynand Uys",
+     "license": "CC BY",
+     "page": "https://www.inaturalist.org/photos/20939777"
     },
     {
      "id": "Daptrius_albogularis",
@@ -837,7 +837,7 @@
     "Threskiornithidae",
     "Ciconiidae"
    ],
-   "species": 64,
+   "species": 63,
    "photos": [
     {
      "id": "Ardea_herodias",
@@ -957,7 +957,7 @@
     "Recurvirostridae",
     "Haematopodidae"
    ],
-   "species": 115,
+   "species": 101,
    "photos": [
     {
      "id": "Larus_michahellis",
@@ -1081,7 +1081,7 @@
     "Fringillidae",
     "Estrildidae"
    ],
-   "species": 63,
+   "species": 52,
    "photos": [
     {
      "id": "Pica_pica",
@@ -1268,13 +1268,13 @@
    "page": "https://www.inaturalist.org/photos/64524005"
   },
   {
-   "id": "Tachybaptus_dominicus",
-   "scientificName": "Tachybaptus dominicus",
-   "en": "Least Grebe",
-   "zh": "侏䴙䴘",
-   "author": "Laura Clark",
+   "id": "Podiceps_gallardoi",
+   "scientificName": "Podiceps gallardoi",
+   "en": "Hooded Grebe",
+   "zh": "阿根廷䴙䴘",
+   "author": "Ezequiel Racker",
    "license": "CC BY",
-   "page": "https://www.inaturalist.org/photos/223776589"
+   "page": "https://www.inaturalist.org/photos/213999760"
   },
   {
    "id": "Crinifer_piscator",
@@ -1585,6 +1585,15 @@
    "page": "https://www.inaturalist.org/photos/60898454"
   },
   {
+   "id": "Sephanoides_fernandensis",
+   "scientificName": "Sephanoides fernandensis",
+   "en": "Juan Fernandez Firecrown",
+   "zh": "火冠蜂鸟",
+   "author": "iNaturalist",
+   "license": "CC0",
+   "page": "https://www.inaturalist.org/photos/64734837"
+  },
+  {
    "id": "Ciconia_nigra",
    "scientificName": "Ciconia nigra",
    "en": "Black Stork",
@@ -1603,22 +1612,13 @@
    "page": "https://www.inaturalist.org/photos/12497659"
   },
   {
-   "id": "Phaethon_lepturus",
-   "scientificName": "Phaethon lepturus",
-   "en": "White-tailed Tropicbird",
-   "zh": "白尾鹲",
+   "id": "Threskiornis_aethiopicus",
+   "scientificName": "Threskiornis aethiopicus",
+   "en": "African Sacred Ibis",
+   "zh": "非洲白鹮",
    "author": "iNaturalist",
    "license": "CC0",
-   "page": "https://www.inaturalist.org/photos/102189130"
-  },
-  {
-   "id": "Sephanoides_fernandensis",
-   "scientificName": "Sephanoides fernandensis",
-   "en": "Juan Fernandez Firecrown",
-   "zh": "火冠蜂鸟",
-   "author": "iNaturalist",
-   "license": "CC0",
-   "page": "https://www.inaturalist.org/photos/64734837"
+   "page": "https://www.inaturalist.org/photos/64691895"
   }
  ]
 }

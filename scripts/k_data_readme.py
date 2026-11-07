@@ -56,7 +56,7 @@ text = f"""# Data
 | `zh` | Pinyin, Chinese aliases, order and family names, Chinese Wikipedia page | IOC 15.2 Chinese; Wikidata; Chinese Wikipedia | {c('zh')} |
 | `taxonConcept`, `previous`, `dataNotes` | What changed in the move to AviList | huashu-bird-sticker | {c('taxonConcept')}; `dataNotes` {c('dataNotes')} |
 | `photo` | The chosen photo: iNaturalist observation and photo page, original and large URLs, original width and height, author, author profile, the attribution text iNaturalist gives, license and license URL | iNaturalist | page {c('photo.page')}, size {c('photo.width')}, author {c('photo.author')}, author profile {c('photo.authorUrl')}, license {c('photo.license')} |
-| `evidence` | Identifiers who currently agree on this species, in how many different months, dissenting identifiers (always 0), faves, research-grade observations of the species | iNaturalist identifications | {c('evidence.agreeingIdentifiers')} |
+| `evidence` | Identifiers who currently agree on this species, not counting the photographer and not counting identifications made by accepting iNaturalist's AI suggestion; in how many different months; dissenting identifiers (always 0); faves; research-grade observations of the species | iNaturalist identifications | {c('evidence.agreeingIdentifiers')} |
 | `checks` | `framing`: what the detector found (number of birds, how much of the frame the bird spans, whether a person is visible); `eyeCheck`: passed the photo-by-photo look. Neither decides the species | this project | {c('checks.framing')} |
 | `huashu` | The matching huashu-bird-sticker AI sticker: file URL at the pinned commit, kind, review score, whether it meets his quality bar | huashu-bird-sticker | {c('huashu.sticker')} |
 

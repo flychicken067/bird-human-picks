@@ -6,11 +6,11 @@
 
 <a href="https://flychicken067.github.io/bird-human-picks/ko/"><img src="docs/assets/og.png" alt="Bird Human Picks 웹사이트: 새마다 실제 사진 한 장, 모두 3명 이상이 동정" width="100%"></a>
 
-**사진의 전체 사용법은 [웹사이트](https://flychicken067.github.io/bird-human-picks/ko/)에서 보세요.** 15개 언어로, 1,209종마다 페이지가 있습니다. 사진, 동정한 사람 수, 크기, 보전 상태, 분포, 언어별 이름, 출처 표기 예시와 오류 신고 링크가 있고, 화수의 AI 스티커와 나란히 비교할 수도 있습니다.
+**사진의 전체 사용법은 [웹사이트](https://flychicken067.github.io/bird-human-picks/ko/)에서 보세요.** 15개 언어로, 1,049종마다 페이지가 있습니다. 사진, 동정한 사람 수, 크기, 보전 상태, 분포, 언어별 이름, 출처 표기 예시와 오류 신고 링크가 있고, 화수의 AI 스티커와 나란히 비교할 수도 있습니다.
 
-[Ivan](https://github.com/flychicken067)이 공개한 새 실제 사진 라이브러리입니다. AI에게 그리게 하지 않고 사람의 판단만으로 화수의 「huashu-bird-sticker」를 어디까지 해낼 수 있는지 보려고 만들었습니다. 종마다 iNaturalist의 야외 사진 한 장을 골랐고, 모든 사진은 3명 이상이 서로 다른 3개월 이상에 걸쳐 같은 종으로 동정했으며 다른 종을 제시한 사람은 없습니다. 세계 공통 조류 목록 [AviList v2026](https://www.avilist.org/)을 따르며 현재 1,209종, 39목 145과이고, [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)와 같은 ID를 써서 바로 연결할 수 있습니다. 모든 사진은 상업적으로 쓸 수 있고, 촬영자·라이선스·동정 근거를 한 장씩 기록했습니다.
+[Ivan](https://github.com/flychicken067)이 공개한 새 실제 사진 라이브러리입니다. AI에게 그리게 하지 않고 사람의 판단만으로 화수의 「huashu-bird-sticker」를 어디까지 해낼 수 있는지 보려고 만들었습니다. 종마다 iNaturalist의 야외 사진 한 장을 골랐고, 모든 사진은 촬영자 본인을 제외한 3명 이상이 서로 다른 3개월 이상에 걸쳐 같은 종으로 동정했고(AI 제안을 그대로 고른 동정은 세지 않습니다), 다른 종을 제시한 사람은 없습니다. 세계 공통 조류 목록 [AviList v2026](https://www.avilist.org/)을 따르며 현재 1,049종, 39목 141과이고, [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)와 같은 ID를 써서 바로 연결할 수 있습니다. 모든 사진은 상업적으로 쓸 수 있고, 촬영자·라이선스·동정 근거를 한 장씩 기록했습니다.
 
-> **iNaturalist 전체 조회가 끝났습니다.** 11,011종 중 10,993종의 동정 데이터를 얻었고, 나머지 18종은 학명이 맞지 않았습니다. 새로 찾은 종은 구도 검사와 육안 확인을 거쳐야 하며, 끝나면 수록 종이 늘어납니다. 화수의 세트에는 10,973종의 스티커가 있고, 우리는 현재 그중 1,209종입니다.
+> **iNaturalist 전체 조회가 끝났습니다.** 11,011종 중 10,993종의 동정 데이터를 얻었고, 나머지 18종은 학명이 맞지 않았습니다. 새로 찾은 종은 구도 검사와 육안 확인을 거쳐야 하며, 끝나면 수록 종이 늘어납니다. 화수의 세트에는 10,973종의 스티커가 있고, 우리는 현재 그중 1,049종입니다.
 
 **라이선스 요약:** 사진은 상업적 용도를 포함해 어디에든 무료로 쓸 수 있습니다. 조건은 각 사진의 라이선스에 따른 출처 표기뿐입니다(CC0는 불필요, CC BY와 CC BY-SA는 필요, 수정한 CC BY-SA는 같은 라이선스로 공유). 정리한 데이터는 CC BY 4.0, 코드는 MIT이며 제3자 부분은 [NOTICE](NOTICE.md)를 보세요.
 
@@ -18,7 +18,7 @@
 
 사진이 가장 많은 10개 그룹에서 12장씩, 가능하면 한 속에 한 장, 동정 인원이 많은 것부터 골랐고, 마지막은 목마다 한 마리씩입니다. 각 이미지 아래에 촬영자를 적었습니다.
 
-### 벌새 · *Trochilidae* — 122종
+### 벌새 · *Trochilidae* — 82종
 
 ![벌새](previews/families/trochilidae.jpg)
 
@@ -27,11 +27,11 @@
 1. *Archilochus colubris* — [Blake Ross](https://www.inaturalist.org/photos/239401590), CC BY
 2. *Sephanoides fernandensis* — [iNaturalist](https://www.inaturalist.org/photos/64734837), CC0
 3. *Eulampis jugularis* — [Annika Lindqvist](https://www.inaturalist.org/photos/2906217), CC BY
-4. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
-5. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
-6. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
-7. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
-8. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+4. *Anthracothorax nigricollis* — [graciela arballo](https://www.inaturalist.org/photos/468129910), CC BY
+5. *Coeligena torquata* — [Kristiina Hurme](https://www.inaturalist.org/photos/1618568), CC BY
+6. *Eupetomena macroura* — [iNaturalist](https://www.inaturalist.org/photos/543676913), CC0
+7. *Selasphorus platycercus* — [Texas Bird Family](https://www.inaturalist.org/photos/444286145), CC BY
+8. *Loddigesia mirabilis* — [Thibaud Aronson](https://www.inaturalist.org/photos/114707728), CC BY-SA
 9. *Heliactin bilophus* — [agujaceratops](https://www.inaturalist.org/photos/348331475), CC BY
 10. *Mellisuga helenae* — [iNaturalist](https://www.inaturalist.org/photos/258810323), CC0
 11. *Colibri cyanotus* — [Annika Lindqvist](https://www.inaturalist.org/photos/2383409), CC BY
@@ -39,7 +39,7 @@
 
 </details>
 
-### 물총새, 벌잡이새, 앵무새와 다른 화려한 새 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40종
+### 물총새, 벌잡이새, 앵무새와 다른 화려한 새 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 36종
 
 ![물총새, 벌잡이새, 앵무새와 다른 화려한 새](previews/families/colourful.jpg)
 
@@ -60,7 +60,7 @@
 
 </details>
 
-### 비둘기 · *Columbidae* — 89종
+### 비둘기 · *Columbidae* — 79종
 
 ![비둘기](previews/families/columbidae.jpg)
 
@@ -81,7 +81,7 @@
 
 </details>
 
-### 오리, 기러기, 고니 · *Anatidae* — 78종
+### 오리, 기러기, 고니 · *Anatidae* — 75종
 
 ![오리, 기러기, 고니](previews/families/anatidae.jpg)
 
@@ -102,7 +102,7 @@
 
 </details>
 
-### 꿩, 메추라기, 무덤새 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110종
+### 꿩, 메추라기, 무덤새 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 104종
 
 ![꿩, 메추라기, 무덤새](previews/families/phasianidae.jpg)
 
@@ -123,7 +123,7 @@
 
 </details>
 
-### 올빼미 · *Strigidae* · *Tytonidae* — 44종
+### 올빼미 · *Strigidae* · *Tytonidae* — 41종
 
 ![올빼미](previews/families/owls.jpg)
 
@@ -144,15 +144,15 @@
 
 </details>
 
-### 맹금류 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34종
+### 맹금류 · *Accipitridae* · *Falconidae* · *Cathartidae* — 32종
 
 ![맹금류](previews/families/raptors.jpg)
 
 <details><summary>촬영자(왼쪽에서 오른쪽, 위에서 아래)</summary>
 
 1. *Buteo lineatus* — [Don Loarie](https://www.inaturalist.org/photos/14603656), CC BY
-2. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
-3. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+2. *Astur cooperii* — [Becky Matsubara](https://www.inaturalist.org/photos/43282408), CC BY
+3. *Icthyophaga vocifer* — [Wynand Uys](https://www.inaturalist.org/photos/20939777), CC BY
 4. *Daptrius albogularis* — [Jeff Young](https://www.inaturalist.org/photos/12549808), CC BY
 5. *Spizaetus ornatus* — [iNaturalist](https://www.inaturalist.org/photos/440105675), CC0
 6. *Vultur gryphus* — [Ezequiel Racker](https://www.inaturalist.org/photos/202029519), CC BY
@@ -165,7 +165,7 @@
 
 </details>
 
-### 백로, 따오기, 황새 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64종
+### 백로, 따오기, 황새 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 63종
 
 ![백로, 따오기, 황새](previews/families/herons.jpg)
 
@@ -186,7 +186,7 @@
 
 </details>
 
-### 도요, 물떼새, 갈매기 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115종
+### 도요, 물떼새, 갈매기 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 101종
 
 ![도요, 물떼새, 갈매기](previews/families/shorebirds.jpg)
 
@@ -207,7 +207,7 @@
 
 </details>
 
-### 명금류: 딱새, 지빠귀, 휘파람새, 타이란새, 까마귀 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63종
+### 명금류: 딱새, 지빠귀, 휘파람새, 타이란새, 까마귀 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 52종
 
 ![명금류: 딱새, 지빠귀, 휘파람새, 타이란새, 까마귀](previews/families/songbirds.jpg)
 
@@ -242,7 +242,7 @@
 6. *Somateria fischeri* — [Nigel Voaden](https://www.inaturalist.org/photos/2946643), CC BY
 7. *Phasianus colchicus* — [John Krampl](https://www.inaturalist.org/photos/127255695), CC BY
 8. *Phoenicopterus chilensis* — [Thibaud Aronson](https://www.inaturalist.org/photos/64524005), CC BY-SA
-9. *Tachybaptus dominicus* — [Laura Clark](https://www.inaturalist.org/photos/223776589), CC BY
+9. *Podiceps gallardoi* — [Ezequiel Racker](https://www.inaturalist.org/photos/213999760), CC BY
 10. *Crinifer piscator* — [Christoph Moning](https://www.inaturalist.org/photos/94968069), CC BY
 11. *Eupodotis caerulescens* — [Brian du Preez](https://www.inaturalist.org/photos/15201068), CC BY-SA
 12. *Geococcyx californianus* — [Jody Shugart](https://www.inaturalist.org/photos/8844788), CC BY
@@ -280,28 +280,28 @@
 
 | | |
 |---|---|
-| `data/species.json` | 종마다 한 레코드, 가장 완전한 데이터: 분류, 이름, ID, 분포, 형태, 보전 상태, 그리고 사진·동정 근거·검사 기록. 화수의 `data/`와 같은 필드 기준. 설명은 [data/README.md](data/README.md)(1,209종) |
+| `data/species.json` | 종마다 한 레코드, 가장 완전한 데이터: 분류, 이름, ID, 분포, 형태, 보전 상태, 그리고 사진·동정 근거·검사 기록. 화수의 `data/`와 같은 필드 기준. 설명은 [data/README.md](data/README.md)(1,049종) |
 | `data/species.csv` | 같은 내용을 표로 펼친 것 |
-| `data/names.csv` | 1,209종의 43개 언어 이름(영어 CC BY 4.0, 그 외 CC BY 3.0) |
-| `data/field-guide.zh-Hans.json` | 325종의 중국어 도감 노트(CC BY-SA 4.0) |
+| `data/names.csv` | 1,049종의 43개 언어 이름(영어 CC BY 4.0, 그 외 CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | 289종의 중국어 도감 노트(CC BY-SA 4.0) |
 | `docs/` | 웹사이트: 15개 언어, 종마다 한 페이지 |
 | `ios/` | 오프라인 iOS 앱 소스 |
 | `scripts/, site/` | 수집, 선정, 이미지 제작, 사이트 생성 스크립트(MIT) |
 
 ## 수록 현황
 
-- 사진: 1,209종 모두 있으며, 사진 페이지·원본 크기·라이선스와 그 링크를 기록했습니다. CC0 사진 163장은 촬영자가 표기를 포기했고 iNaturalist도 이름을 주지 않습니다. 우리가 이름을 대신 채우지 않고, 촬영자 프로필 링크만 남깁니다.
-- 동정: 모든 사진이 3명 이상, 3개월 이상이며 중앙값은 5명, 3개월이고 이견은 없습니다.
-- ID: iNaturalist 분류군 ID, eBird, Avibase는 1,209종 모두, Wikidata 1,194종, GBIF 1,176종.
-- 이름, 분포, 형태, 보전 상태는 화수의 데이터를 그대로 썼으므로 빠진 곳도 같습니다. 예를 들어 몸길이는 616종에만 있습니다.
+- 사진: 1,049종 모두 있으며, 사진 페이지·원본 크기·라이선스와 그 링크를 기록했습니다. CC0 사진 143장은 촬영자가 표기를 포기했고 iNaturalist도 이름을 주지 않습니다. 우리가 이름을 대신 채우지 않고, 촬영자 프로필 링크만 남깁니다.
+- 동정: 모든 사진이 3명 이상, 3개월 이상이며 중앙값은 4명, 3개월이고 이견은 없습니다.
+- ID: iNaturalist 분류군 ID, eBird, Avibase는 1,049종 모두, Wikidata 1,034종, GBIF 1,021종.
+- 이름, 분포, 형태, 보전 상태는 화수의 데이터를 그대로 썼으므로 빠진 곳도 같습니다. 예를 들어 몸길이는 540종에만 있습니다.
 
 ## 사진 선정 방법과 품질
 
-**종은 사람이 판단합니다.** 사진은 iNaturalist의 야외 연구 등급 관찰에서 가져왔고, 3개 이상의 계정이 현재 이 종으로 동정하며, 동정은 서로 다른 3개월 이상에 걸쳐 있고, 다른 종을 제시한 사람은 없습니다. 원본은 긴 변 1200px 이상, 라이선스는 CC0, CC BY, CC BY-SA만.
+**종은 사람이 판단합니다.** 사진은 iNaturalist의 야외 연구 등급 관찰에서 가져왔고, 3개 이상의 계정이 현재 이 종으로 동정하며, 동정은 서로 다른 3개월 이상에 걸쳐 있고, 다른 종을 제시한 사람은 없습니다. 원본은 긴 변 1200px 이상, 라이선스는 CC0, CC BY, CC BY-SA만. 촬영자 본인의 동정과 AI 제안을 그대로 고른 동정은 세지 않습니다.
 
-**모델로 화면을 거르고, 한 장씩 봅니다.** 검출 모델은 새의 수와 크기, 사람이나 손이 있는지만 보고 종은 판단하지 않습니다. 이후 모든 사진을 직접 보고 가려진 새, 일부만 나온 새, 죽은 새, 가금, 그림, 다른 새 등 367장을 제외했으며 사유는 [docs/eye-check.csv](docs/eye-check.csv)에 있습니다.
+**모델로 화면을 거르고, 한 장씩 봅니다.** 검출 모델은 새의 수와 크기, 사람이나 손이 있는지만 보고 종은 판단하지 않습니다. 이후 모든 사진을 직접 보고 가려진 새, 일부만 나온 새, 죽은 새, 가금, 그림, 다른 새 등 370장을 제외했으며 사유는 [docs/eye-check.csv](docs/eye-check.csv)에 있습니다.
 
-- **아직 9,749종이 들어오지 않았습니다.** 그중 5,929종은 3명·3개월 동정을 갖춘 관찰이 없고, 2,448종은 구도 검사를 아직 하지 않아 진행 중이며, 879종은 한 마리가 뚜렷한 사진이 없고, 400종은 원본이 작고, 90종은 분류 범위가 바뀌어 당분간 제외했으며, 나머지 3종은 학명 불일치나 육안 확인으로 제외했습니다. 집계는 [docs/stats.json](docs/stats.json)에 있습니다.
+- **아직 9,909종이 들어오지 않았습니다.** 그중 6,067종은 3명·3개월 동정을 갖춘 관찰이 없고, 3,728종은 새 규칙으로 아직 다시 확인하지 않았고, 22종은 한 마리가 뚜렷한 사진이 없고, 90종은 분류 범위가 바뀌어 당분간 제외했으며, 나머지 2종은 학명 불일치나 육안 확인으로 제외했습니다. 집계는 [docs/stats.json](docs/stats.json)에 있습니다.
 
 실제 사진이지만 종은 iNaturalist 사용자가 동정한 것이며, 조류학자가 한 장씩 확인한 것은 아닙니다. 믿을 만한 참고 사진으로 쓰고, 세부 식별은 도감으로 확인하세요. 화수 버전과 어느 쪽이 덜 틀리는지는 둘 다 공개한 뒤 각자 지적받은 오류로 비교합니다. 그전까지는 종 근거가 더 강하다고만 말할 수 있습니다.
 

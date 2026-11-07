@@ -102,6 +102,8 @@ def candidate(o, name):
     if not photo or not (taxon == name or taxon.startswith(name + " ")):
         return None
     agree, months, disagree = set(), set(), set()
+    strict, strict_months = set(), set()  # without the poster's own ID and without AI-suggested IDs (RULES.md, 2026-11-07)
+    poster = (o.get("user") or {}).get("id")
     for i in o.get("identifications") or []:
         if not i.get("current"):
             continue
@@ -110,10 +112,14 @@ def candidate(o, name):
         if t.get("name") == name or (t.get("name") or "").startswith(name + " "):
             agree.add(uid)
             months.add((i.get("created_at") or "")[:7])
+            if uid != poster and not i.get("vision"):
+                strict.add(uid)
+                strict_months.add((i.get("created_at") or "")[:7])
         elif t.get("rank") in ("species", "subspecies", "hybrid"):
             disagree.add(uid)
     dims = photo.get("original_dimensions") or {}
     return {"obs": o["id"], "observer": (o.get("user") or {}).get("id"), "faves": o.get("faves_count", 0), "agree": len(agree), "months": len(months - {""}), "disagree": len(disagree),
+            "agree_strict": len(strict), "months_strict": len(strict_months - {""}),
             "license": photo["license_code"], "credit": photo.get("attribution"), "photo": photo["url"].replace("/square.", "/medium."), "w": dims.get("width"), "h": dims.get("height"),
             "created": (o.get("created_at") or "")[:10], "n_photos": len(o.get("photos") or [])}
 

@@ -8,7 +8,7 @@ struct AboutView: View {
         NavigationStack {
             List {
                 Section("这是什么") {
-                    Text("每种鸟一张真实的野外照片。照片来自iNaturalist，每张都有至少3个人在至少3个不同月份认定为同一物种，而且没有人给出其他物种。共收录\(store.birds.count)种。")
+                    Text("每种鸟一张真实的野外照片。照片来自iNaturalist，每张都有除上传者外至少3个人在至少3个不同月份认定为同一物种（点AI建议给出的鉴定不算），而且没有人给出其他物种。共收录\(store.birds.count)种。")
                 }
                 Section("怎么选的") {
                     Text("照片授权必须是CC0、CC BY或CC BY-SA，原图足够清晰。先由检测模型筛掉画面里有多只鸟、鸟太小或有人手的照片，再逐张人工看图，排除被遮挡、死鸟、家禽、手绘画等。模型只看画面，不判断物种；物种以人的鉴定为准。")
