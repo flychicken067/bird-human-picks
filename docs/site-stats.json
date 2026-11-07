@@ -1,9 +1,9 @@
 {
- "species": 1209,
+ "species": 1049,
  "languages": 15,
- "pages": 18165,
- "removed": 367,
- "median_agree": 5,
+ "pages": 15765,
+ "removed": 370,
+ "median_agree": 4,
  "median_months": 3,
  "huashu_commit": "ee340d5",
  "huashu_below_bar": 2
