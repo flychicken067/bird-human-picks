@@ -1,22 +1,24 @@
-# Bird Human Picks: one real photo per bird species, identified by several people
+# Real bird photos, each identified by several people
 
 <img src="previews/header.jpg" alt="Bird Human Picks website: one real photo per bird, each identified by at least 3 people" width="100%">
+
+**Ivan开源的鸟类真实照片库：每种鸟一张iNaturalist上的野外照片，至少3人在至少3个不同月份认定为同一物种。目前1209种，和花叔的huashu-bird-sticker用同一套编号。[中文说明 →](README.zh-Hans.md)**
 
 **English** · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md)
 
 <a href="https://flychicken067.github.io/bird-human-picks/en/"><img src="docs/assets/og.png" alt="Bird Human Picks website: one real photo per bird, each identified by at least 3 people" width="100%"></a>
 
-**For the full experience, visit [the website](https://flychicken067.github.io/bird-human-picks/en/).** It is in 15 languages with a page for every species: the photo, how many people identified it, size, conservation status, range, names in other languages, a ready-made credit line and a report link. You can also put Huashu's AI stickers alongside.
+**See the photos in use on [the website](https://flychicken067.github.io/bird-human-picks/en/).** It is in 15 languages with a page for each of the 1,209 species: the photo, how many people identified it, size, conservation status, range, names in other languages, a ready-made credit line and a report link. You can also put Huashu's AI stickers alongside.
 
-An open library of real bird photos. Each species gets one wild photo from iNaturalist that at least 3 people identified as the same species, in at least 3 different months, with nobody naming another. It now covers 1,209 species in 39 orders and 145 families, follows the global [AviList v2026](https://www.avilist.org/) checklist, and uses the same IDs as Huashu's [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), so the two join directly. Every photo is free for commercial use and records its photographer, license and the evidence behind it.
+By [Ivan](https://github.com/flychicken067), to see how far human judgement alone, with no AI drawing, can take the goal of Huashu's [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker). Each species gets one wild photo from iNaturalist that at least 3 people identified as the same species, in at least 3 different months, with nobody naming another. 1,209 species across 39 orders and 145 families so far, following [AviList v2026](https://www.avilist.org/) and using the same IDs as huashu-bird-sticker, so the two join directly. Every photo is free for commercial use and records its photographer, license and the evidence behind it.
 
-> **Still growing.** Data collection has covered 7,894 of 11,011 species; more will be added when it finishes. Huashu's set has stickers for 10,973 species, so we cover only a fraction of it so far.
+> **The full iNaturalist query has finished.** 10,993 of 11,011 species now have identification data; the names of the other 18 did not match. The newly found species still need the framing check and a photo-by-photo look; the count will grow once that is done. Huashu's set has stickers for 10,973 species; we have 1,209 of them so far.
 
-**License in short:** photos belong to their photographers and are used under their own licenses (CC0, CC BY or CC BY-SA: all allow commercial use; CC BY and CC BY-SA need credit). Our compiled data is CC BY 4.0, code is MIT; third-party parts are listed in [NOTICE](NOTICE.md).
+**License in short:** use the photos for anything, including commercial work, as long as you credit them under each photo's own license (CC0 needs no credit; CC BY and CC BY-SA do; changed CC BY-SA photos must be shared under the same license). Our compiled data is CC BY 4.0, code is MIT; third-party parts are listed in [NOTICE](NOTICE.md).
 
 ## Gallery
 
-Groups drawn from the species we have, 12 photos each, one per genus where possible, best-evidenced first. Photographers are listed under each plate.
+The 10 groups with the most photos, 12 each, one per genus where possible, best-evidenced first; then one bird from each order. Photographers are listed under each plate.
 
 ### Hummingbirds · *Trochilidae* — 122 species
 
@@ -280,20 +282,20 @@ Groups drawn from the species we have, 12 photos each, one per genus where possi
 
 | | |
 |---|---|
-| `data/species.json` | One record per species: taxonomy, names, IDs, range, traits, conservation status, plus the photo, the identification evidence and our checks. Same field standard as Huashu's `data/`; see [data/README.md](data/README.md) |
+| `data/species.json` | One record per species, the most complete data: taxonomy, names, IDs, range, traits, conservation status, plus the photo, the identification evidence and our checks. Same field standard as Huashu's `data/`; see [data/README.md](data/README.md) (1,209 species) |
 | `data/species.csv` | The same, flattened for spreadsheets |
-| `data/names.csv` | Names in 43 languages |
-| `data/field-guide.zh-Hans.json` | Chinese field notes for 325 species, CC BY-SA 4.0 |
+| `data/names.csv` | Names of 1,209 species in 43 languages (English CC BY 4.0, others CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | Chinese field notes for 325 species (CC BY-SA 4.0) |
 | `docs/` | The website: 15 languages, one page per species |
 | `ios/` | Source of the offline iOS app |
-| `scripts/, site/` | Scripts that collect, select, draw the plates and build the site |
+| `scripts/, site/` | Scripts that collect, select, draw the plates and build the site (MIT) |
 
 ## Coverage
 
-- Photos: all 1,209 species, each with photo page, original size, license and license URL. The photographers of the 163 CC0 photos waived credit and iNaturalist gives no name, but each links to the author's profile.
+- Photos: all 1,209 species, each with photo page, original size, license and license URL. The photographers of the 163 CC0 photos waived credit and iNaturalist gives no name; we do not fill one in for them, and keep a link to their profile.
 - Evidence: every photo has at least 3 identifiers across at least 3 months; the median is 5 people over 3 months, with no dissent.
 - IDs: iNaturalist taxon, eBird and Avibase for all 1,209; Wikidata 1,194, GBIF 1,176.
-- Names, range, traits and status come from Huashu's data and have the same coverage there; for example only 616 species have a body length.
+- Names, range, traits and status are taken unchanged from Huashu's data, so the gaps are his gaps too; for example only 616 species have a body length.
 
 ## How the photos are chosen, and how good they are
 
@@ -301,9 +303,9 @@ Groups drawn from the species we have, 12 photos each, one per genus where possi
 
 **A model screens the frame, then every photo is looked at.** The detector only checks how many birds are in the frame, how big, and whether a person or hand is visible; it never decides the species. Every photo was then looked at and 367 were removed (hidden, partial, dead, domestic, drawn or wrong birds), each with a reason in [docs/eye-check.csv](docs/eye-check.csv).
 
-- 3 accounts are not 3 experts, and they may follow each other; no ornithologist checked every photo.
-- Real photos differ in light, pose and background; they are not stickers in one style.
-- Which set has fewer mistakes, this or Huashu's, will be judged by the errors people report once both are public. Until then we only claim stronger evidence for the species, not better results.
+- **9,749 species are not in yet.** 5,929 have no observation with 3 people agreeing over 3 months; 2,448 have not had the framing check yet, which is under way; 879 have no photo showing one clear bird; 400 have only small originals; 90 changed their boundaries and are left out for now; 3 more failed on name matching or the photo-by-photo look. Counts are in [docs/stats.json](docs/stats.json).
+
+These are real photos, but the species were identified by iNaturalist users, not checked one by one by ornithologists. Use them as reliable reference photos; for fine identification details, rely on a field guide. Which set has fewer mistakes, this or Huashu's, will be judged by the errors people report once both are public. Until then we only claim stronger evidence for the species, not better results.
 
 Found a wrong photo? Please [open an issue](../../issues/new/choose); every species page on the site has a report link with the bird filled in. Corrections from birders are the contribution this project needs most.
 
@@ -313,7 +315,13 @@ The page, author and license of each photo are in `photo` in `data/species.json`
 
 ## How to use
 
-Use a photo under its own license: credit the photographer and mention iNaturalist. Each species page on the site has a ready-made credit line; photo links are in the `photoUrl` column of `data/species.csv`.
+You can link a single photo directly; the format is:
+
+```
+https://inaturalist-open-data.s3.amazonaws.com/photos/<photoId>/original.jpg
+```
+
+The number is in the `photoUrl` column of `data/species.csv`. Credit the photographer and mention iNaturalist; each species page on the site has a ready-made credit line.
 
 To fetch just the data:
 
@@ -325,8 +333,8 @@ cd bird-human-picks && git sparse-checkout set data
 ## Credits
 
 - Photos and identifications: the photographers and identifiers of iNaturalist, listed photo by photo in `data/species.json`. The photos themselves are not in this repository.
-- Taxonomy, names, IDs, range, traits and Chinese field notes: [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) by Huashu, MIT; field notes CC BY-SA 4.0.
-- AviList v2026 (CC BY 4.0), IOC World Bird List v15.2 (CC BY 3.0), AVONET (CC BY 4.0), Wikidata (CC0).
+- Taxonomy, names, IDs, range, traits: [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), Huashu, MIT. The Chinese field notes come from the same repository, CC BY-SA 4.0.
+- AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026, CC BY 4.0; IOC World Bird List v15.2, CC BY 3.0; AVONET, Tobias et al., 2022, CC BY 4.0; Wikidata, CC0.
 
 
 [BUILD.md](BUILD.md) · [RULES.md](RULES.md) · [PARITY.md](PARITY.md) · [NOTICE.md](NOTICE.md)

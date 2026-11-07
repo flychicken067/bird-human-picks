@@ -1,24 +1,24 @@
-# Bird Human Picks：鳥の種ごとに、複数の人が同定した実写の写真を 1 枚
+# Ivanオープンソース：複数の人が同定した鳥の実写写真ライブラリ
 
-<img src="previews/header.jpg" alt="Bird Human Picks のサイト：鳥ごとに実写の写真を 1 枚、どれも 3 人以上が同定" width="100%">
+<img src="previews/header.jpg" alt="Bird Human Picksのサイト：鳥ごとに実写の写真を1枚、どれも3人以上が同定" width="100%">
 
 [English](README.md) · [简体中文](README.zh-Hans.md) · [繁體中文](README.zh-Hant.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md)
 
-<a href="https://flychicken067.github.io/bird-human-picks/ja/"><img src="docs/assets/og.png" alt="Bird Human Picks のサイト：鳥ごとに実写の写真を 1 枚、どれも 3 人以上が同定" width="100%"></a>
+<a href="https://flychicken067.github.io/bird-human-picks/ja/"><img src="docs/assets/og.png" alt="Bird Human Picksのサイト：鳥ごとに実写の写真を1枚、どれも3人以上が同定" width="100%"></a>
 
-**詳しい使い方は[サイト](https://flychicken067.github.io/bird-human-picks/ja/)で。** 15 言語に対応し、種ごとにページがあります。写真、同定した人数、大きさ、保全状況、分布、各言語の名前、クレジット表記の例、誤りの報告リンク。花叔の AI ステッカーと並べて比べることもできます。
+**写真の詳しい使い方は[サイト](https://flychicken067.github.io/bird-human-picks/ja/)で。** 15言語に対応し、1,209種それぞれにページがあります。写真、同定した人数、大きさ、保全状況、分布、各言語の名前、クレジット表記の例、誤りの報告リンク。花叔のAIステッカーと並べて比べることもできます。
 
-鳥の実写写真のオープンなライブラリです。種ごとに iNaturalist の野外写真を 1 枚選び、どの写真も 3 人以上が 3 つ以上の異なる月に同じ種と同定し、別の種を挙げた人はいません。現在 1,209 種、39 目 145 科を収録し、世界共通の鳥類リスト [AviList v2026](https://www.avilist.org/) に従い、花叔の [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) と同じ ID を使っているので、そのまま結合できます。写真はすべて商用利用でき、撮影者・ライセンス・同定の根拠を 1 枚ずつ記録しています。
+[Ivan](https://github.com/flychicken067)によるオープンソースの鳥の実写写真ライブラリです。AIに描かせず人の判断だけで、花叔の「huashu-bird-sticker」をどこまで再現できるかを試すために作りました。種ごとにiNaturalistの野外写真を1枚選び、どれも3人以上が3つ以上の異なる月に同じ種と同定し、別の種を挙げた人はいません。世界共通の鳥類リスト[AviList v2026](https://www.avilist.org/)に従い、現在1,209種、39目145科。[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)と同じIDを使っているので、そのまま結合できます。写真はすべて商用利用でき、撮影者・ライセンス・同定の根拠を1枚ずつ記録しています。
 
-> **まだ増えています。** データ収集は 11,011 種のうち 7,894 種まで進み、完了すると収録数が増えます。花叔のセットは 10,973 種のステッカーがあり、私たちはまだその一部です。
+> **iNaturalistの全件照会が完了しました。** 11,011種のうち10,993種で同定データが取れ、残る18種は学名が一致しませんでした。新しく見つかった種は構図チェックと目視確認がまだで、終われば収録数が増えます。花叔のセットは10,973種のステッカーがあり、私たちは現在そのうち1,209種です。
 
-**ライセンスを一言で：** 写真の著作権は各撮影者にあり、それぞれのライセンス（CC0・CC BY・CC BY-SA。いずれも商用可、CC BY と CC BY-SA はクレジットが必要）で使います。整理したデータは CC BY 4.0、コードは MIT、第三者の部分は [NOTICE](NOTICE.md) を参照。
+**ライセンスを一言で：** 写真は商用を含むあらゆる用途に無料で使えます。条件は各写真のライセンスに従ったクレジット表記だけです（CC0は不要、CC BYとCC BY-SAは必要、改変したCC BY-SAは同じライセンスで共有）。整理したデータはCC BY 4.0、コードはMIT、第三者の部分は[NOTICE](NOTICE.md)を参照。
 
 ## ギャラリー
 
-収録済みの種からグループごとに 12 枚。なるべく 1 属 1 枚、同定人数の多いものから選びました。各プレートの下に撮影者を記載しています。
+写真の多い10グループから各12枚。なるべく1属1枚、同定人数の多いものから選び、最後に各目から1羽ずつ。各プレートの下に撮影者を記載しています。
 
-### ハチドリ · *Trochilidae* — 122 種
+### ハチドリ · *Trochilidae* — 122種
 
 ![ハチドリ](previews/families/trochilidae.jpg)
 
@@ -39,7 +39,7 @@
 
 </details>
 
-### カワセミ、ハチクイ、オウムなど色鮮やかな鳥 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40 種
+### カワセミ、ハチクイ、オウムなど色鮮やかな鳥 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40種
 
 ![カワセミ、ハチクイ、オウムなど色鮮やかな鳥](previews/families/colourful.jpg)
 
@@ -60,7 +60,7 @@
 
 </details>
 
-### ハト · *Columbidae* — 89 種
+### ハト · *Columbidae* — 89種
 
 ![ハト](previews/families/columbidae.jpg)
 
@@ -81,7 +81,7 @@
 
 </details>
 
-### カモ、ガン、ハクチョウ · *Anatidae* — 78 種
+### カモ、ガン、ハクチョウ · *Anatidae* — 78種
 
 ![カモ、ガン、ハクチョウ](previews/families/anatidae.jpg)
 
@@ -102,7 +102,7 @@
 
 </details>
 
-### キジ、ウズラ、ツカツクリ · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110 種
+### キジ、ウズラ、ツカツクリ · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110種
 
 ![キジ、ウズラ、ツカツクリ](previews/families/phasianidae.jpg)
 
@@ -123,7 +123,7 @@
 
 </details>
 
-### フクロウ · *Strigidae* · *Tytonidae* — 44 種
+### フクロウ · *Strigidae* · *Tytonidae* — 44種
 
 ![フクロウ](previews/families/owls.jpg)
 
@@ -144,7 +144,7 @@
 
 </details>
 
-### 猛禽類 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34 種
+### 猛禽類 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34種
 
 ![猛禽類](previews/families/raptors.jpg)
 
@@ -165,7 +165,7 @@
 
 </details>
 
-### サギ、トキ、コウノトリ · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64 種
+### サギ、トキ、コウノトリ · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64種
 
 ![サギ、トキ、コウノトリ](previews/families/herons.jpg)
 
@@ -186,7 +186,7 @@
 
 </details>
 
-### シギ、チドリ、カモメ · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115 種
+### シギ、チドリ、カモメ · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115種
 
 ![シギ、チドリ、カモメ](previews/families/shorebirds.jpg)
 
@@ -207,7 +207,7 @@
 
 </details>
 
-### 鳴禽類：ヒタキ、ツグミ、アメリカムシクイ、タイランチョウ、カラス · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63 種
+### 鳴禽類：ヒタキ、ツグミ、アメリカムシクイ、タイランチョウ、カラス · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63種
 
 ![鳴禽類：ヒタキ、ツグミ、アメリカムシクイ、タイランチョウ、カラス](previews/families/songbirds.jpg)
 
@@ -228,9 +228,9 @@
 
 </details>
 
-### 各目から 1 羽ずつ
+### 各目から1羽ずつ
 
-![各目から 1 羽ずつ](previews/orders.jpg)
+![各目から1羽ずつ](previews/orders.jpg)
 
 <details><summary>撮影者（左から右、上から下）</summary>
 
@@ -280,40 +280,46 @@
 
 | | |
 |---|---|
-| `data/species.json` | 1 種 1 レコード：分類、名前、ID、分布、形態、保全状況、そして写真・同定の根拠・チェック記録。花叔の `data/` と同じ項目基準。説明は [data/README.md](data/README.md) |
+| `data/species.json` | 1種1レコード、最も完全なデータ：分類、名前、ID、分布、形態、保全状況、そして写真・同定の根拠・チェック記録。花叔の`data/`と同じ項目基準。説明は[data/README.md](data/README.md)（1,209種） |
 | `data/species.csv` | 同じ内容を表形式にしたもの |
-| `data/names.csv` | 43 言語の名前 |
-| `data/field-guide.zh-Hans.json` | 325 種の中国語の図鑑メモ、CC BY-SA 4.0 |
-| `docs/` | サイト：15 言語、種ごとに 1 ページ |
-| `ios/` | オフライン iOS アプリのソース |
-| `scripts/、site/` | 収集・選定・プレート作成・サイト生成のスクリプト |
+| `data/names.csv` | 1,209種の43言語の名前（英語CC BY 4.0、他言語CC BY 3.0） |
+| `data/field-guide.zh-Hans.json` | 325種の中国語の図鑑メモ（CC BY-SA 4.0） |
+| `docs/` | サイト：15言語、種ごとに1ページ |
+| `ios/` | オフラインiOSアプリのソース |
+| `scripts/、site/` | 収集・選定・プレート作成・サイト生成のスクリプト（MIT） |
 
 ## 収録状況
 
-- 写真：1,209 種すべてにあり、写真ページ・元画像サイズ・ライセンスとその URL を記録。CC0 の 163 枚は撮影者が表記を放棄し iNaturalist も名前を出しませんが、撮影者のプロフィールへのリンクはあります。
-- 同定：どの写真も 3 人以上・3 か月以上。中央値は 5 人・3 か月で、異論はありません。
-- ID：iNaturalist の分類群 ID、eBird、Avibase は 1,209 種すべて。Wikidata 1,194 種、GBIF 1,176 種。
-- 名前・分布・形態・保全状況は花叔のデータから取っており、収録状況も同じです。たとえば全長があるのは 616 種だけです。
+- 写真：1,209種すべてにあり、写真ページ・元画像サイズ・ライセンスとそのURLを記録。CC0の163枚は撮影者が表記を放棄し、iNaturalistも名前を出しません。私たちが名前を補うことはせず、撮影者のプロフィールへのリンクだけを残しています。
+- 同定：どの写真も3人以上・3か月以上。中央値は5人・3か月で、異論はありません。
+- ID：iNaturalistの分類群ID、eBird、Avibaseは1,209種すべて。Wikidata 1,194種、GBIF 1,176種。
+- 名前・分布・形態・保全状況は花叔のデータをそのまま使っており、欠けている所も同じです。たとえば全長があるのは616種だけです。
 
 ## 写真の選び方と品質
 
-**種を決めるのは人です。** 写真は iNaturalist の野外の研究用観察から取り、3 つ以上のアカウントが現在この種と同定し、同定は 3 つ以上の異なる月にわたり、別の種を挙げた人はいません。元画像は長辺 1200 px 以上、ライセンスは CC0・CC BY・CC BY-SA のみ。
+**種を決めるのは人です。** 写真はiNaturalistの野外の研究用観察から取り、3つ以上のアカウントが現在この種と同定し、同定は3つ以上の異なる月にわたり、別の種を挙げた人はいません。元画像は長辺1200px以上、ライセンスはCC0・CC BY・CC BY-SAのみ。
 
-**画面をモデルで絞り込み、その後 1 枚ずつ見ます。** 検出モデルは鳥の数・大きさ・人や手の有無だけを見て、種は判断しません。その後すべてを目で確認し、隠れた鳥・一部だけの鳥・死んだ鳥・家禽・絵・別の鳥など 367 枚を除外しました。理由はすべて [docs/eye-check.csv](docs/eye-check.csv) にあります。
+**画面をモデルで絞り込み、その後1枚ずつ見ます。** 検出モデルは鳥の数・大きさ・人や手の有無だけを見て、種は判断しません。その後すべてを目で確認し、隠れた鳥・一部だけの鳥・死んだ鳥・家禽・絵・別の鳥など367枚を除外しました。理由はすべて[docs/eye-check.csv](docs/eye-check.csv)にあります。
 
-- 3 つのアカウントは 3 人の専門家ではなく、互いに追随することもあります。鳥類学者による全数確認はしていません。
-- 実写なので光・姿勢・背景はまちまちで、統一されたステッカーではありません。
-- 花叔版とどちらが誤りが少ないかは、両方を公開した後にそれぞれ指摘された誤りで比べます。それまでは「種の根拠がより強い」とだけ言え、「より良い」とは言えません。
+- **まだ9,749種が入っていません。** うち5,929種は3人・3か月の同定がそろった観察がなく、2,448種は構図チェックが未実施で作業中、879種は1羽がはっきり写った写真がなく、400種は元画像が小さく、90種は分類の範囲が変わったため当面除外、残る3種は学名の不一致か目視で除外しました。件数は[docs/stats.json](docs/stats.json)にあります。
 
-誤った写真を見つけたら [issue を開いて](../../issues/new/choose)ください。サイトの各種ページには鳥の名前入りの報告リンクがあります。バーダーの方からの訂正が、このプロジェクトに最も必要な貢献です。
+実写の写真ですが、種はiNaturalistの利用者が同定したもので、鳥類学者が1枚ずつ確認したものではありません。信頼できる参考写真として使い、細かな識別は図鑑で確かめてください。 花叔版とどちらが誤りが少ないかは、両方を公開した後にそれぞれ指摘された誤りで比べます。それまでは「種の根拠がより強い」とだけ言え、「より良い」とは言えません。
+
+誤った写真を見つけたら[issueを開いて](../../issues/new/choose)ください。サイトの各種ページには鳥の名前入りの報告リンクがあります。バーダーの方からの訂正が、このプロジェクトに最も必要な貢献です。
 
 ## クレジットと削除
 
-各写真のページ・撮影者・ライセンスは `data/species.json` の `photo` にあります。ご自身の写真を掲載してほしくない場合は「Remove my photo」の issue フォームでお知らせください。7 日以内に差し替え、今後も使いません。
+各写真のページ・撮影者・ライセンスは`data/species.json`の`photo`にあります。ご自身の写真を掲載してほしくない場合は「Remove my photo」のissueフォームでお知らせください。7日以内に差し替え、今後も使いません。
 
 ## 使い方
 
-写真はそれぞれのライセンスに従って使い、撮影者と iNaturalist を表記してください。サイトの各種ページにクレジット表記の例があり、写真のリンクは `data/species.csv` の `photoUrl` 列にあります。
+写真は1枚ずつ直接リンクできます。形式は：
+
+```
+https://inaturalist-open-data.s3.amazonaws.com/photos/<photoId>/original.jpg
+```
+
+番号は`data/species.csv`の`photoUrl`列にあります。撮影者とiNaturalistを表記してください。サイトの各種ページに表記例があります。
 
 データだけを取得するには：
 
@@ -324,9 +330,9 @@ cd bird-human-picks && git sparse-checkout set data
 
 ## 謝辞
 
-- 写真と同定：iNaturalist の撮影者と同定者。写真ごとに `data/species.json` に記載。写真そのものはリポジトリに含みません。
-- 分類・名前・ID・分布・形態・中国語の図鑑メモ：花叔の [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)、MIT。図鑑メモは CC BY-SA 4.0。
-- AviList v2026（CC BY 4.0）、IOC 世界鳥類リスト v15.2（CC BY 3.0）、AVONET（CC BY 4.0）、Wikidata（CC0）。
+- 写真と同定：iNaturalistの撮影者と同定者。写真ごとに`data/species.json`に記載。写真そのものはリポジトリに含みません。
+- 分類・名前・ID・分布・形態：[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)、花叔、MIT。中国語の図鑑メモも同リポジトリから、CC BY-SA 4.0。
+- AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026、CC BY 4.0；IOC世界鳥類リストv15.2、CC BY 3.0；AVONET、Tobiasほか、2022、CC BY 4.0；Wikidata、CC0。
 
 
 [BUILD.md](BUILD.md) · [RULES.md](RULES.md) · [PARITY.md](PARITY.md) · [NOTICE.md](NOTICE.md)

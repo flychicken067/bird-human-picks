@@ -1,4 +1,4 @@
-# Bird Human Picks: uma foto real de cada espécie de ave, identificada por várias pessoas
+# Fotos reais de aves, cada uma identificada por várias pessoas
 
 <img src="previews/header.jpg" alt="Site do Bird Human Picks: uma foto real de cada ave, cada uma identificada por pelo menos 3 pessoas" width="100%">
 
@@ -6,17 +6,17 @@
 
 <a href="https://flychicken067.github.io/bird-human-picks/pt-br/"><img src="docs/assets/og.png" alt="Site do Bird Human Picks: uma foto real de cada ave, cada uma identificada por pelo menos 3 pessoas" width="100%"></a>
 
-**Para usar tudo, acesse [o site](https://flychicken067.github.io/bird-human-picks/pt-br/).** Está em 15 idiomas, com uma página por espécie: a foto, quantas pessoas a identificaram, tamanho, estado de conservação, distribuição, nomes em outros idiomas, uma linha de crédito pronta e um link para avisar erros. Também dá para ver ao lado os adesivos de IA do Huashu.
+**Veja as fotos em uso no [site](https://flychicken067.github.io/bird-human-picks/pt-br/).** Está em 15 idiomas, com uma página para cada uma das 1.209 espécies: a foto, quantas pessoas a identificaram, tamanho, estado de conservação, distribuição, nomes em outros idiomas, uma linha de crédito pronta e um link para avisar erros. Também dá para ver ao lado os adesivos de IA do Huashu.
 
-Uma biblioteca aberta de fotos reais de aves. Cada espécie tem uma foto na natureza do iNaturalist que pelo menos 3 pessoas identificaram como a mesma espécie, em pelo menos 3 meses diferentes, sem ninguém sugerir outra. Hoje cobre 1,209 espécies de 39 ordens e 145 famílias, segue a lista mundial [AviList v2026](https://www.avilist.org/) e usa os mesmos identificadores do [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), de Huashu, então os dois se cruzam diretamente. Todas as fotos podem ser usadas comercialmente e registram autor, licença e a evidência por trás delas.
+Por [Ivan](https://github.com/flychicken067), para ver até onde só o julgamento humano, sem desenhos de IA, leva o objetivo do [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), de Huashu. Cada espécie tem uma foto na natureza do iNaturalist que pelo menos 3 pessoas identificaram como a mesma espécie, em pelo menos 3 meses diferentes, sem ninguém sugerir outra. Por enquanto 1.209 espécies de 39 ordens e 145 famílias, seguindo a [AviList v2026](https://www.avilist.org/) e com os mesmos identificadores do huashu-bird-sticker, então os dois se cruzam diretamente. Todas as fotos podem ser usadas comercialmente e registram autor, licença e a evidência por trás delas.
 
-> **Ainda crescendo.** A coleta cobriu 7,894 de 11.011 espécies; mais serão incluídas quando terminar. O conjunto do Huashu tem adesivos de 10.973 espécies, então por enquanto cobrimos só uma parte.
+> **A consulta completa ao iNaturalist terminou.** 10.993 de 11.011 espécies já têm dados de identificação; os nomes das outras 18 não bateram. As espécies novas ainda precisam da verificação de enquadramento e da revisão foto a foto; o total vai crescer depois disso. O conjunto do Huashu tem adesivos de 10.973 espécies; por enquanto temos 1.209 delas.
 
-**Licença em resumo:** as fotos pertencem a seus autores e são usadas sob a própria licença (CC0, CC BY ou CC BY-SA: todas permitem uso comercial; CC BY e CC BY-SA exigem crédito). Nossos dados compilados são CC BY 4.0, o código é MIT; partes de terceiros estão em [NOTICE](NOTICE.md).
+**Licença em resumo:** use as fotos para qualquer coisa, inclusive comercialmente, desde que dê crédito conforme a licença de cada uma (CC0 dispensa crédito; CC BY e CC BY-SA exigem; fotos CC BY-SA modificadas devem ser compartilhadas sob a mesma licença). Nossos dados compilados são CC BY 4.0, o código é MIT; partes de terceiros estão em [NOTICE](NOTICE.md).
 
 ## Galeria
 
-Grupos tirados das espécies que temos, 12 fotos cada, um gênero por foto sempre que possível, as mais bem respaldadas primeiro. Os autores aparecem abaixo de cada prancha.
+Os 10 grupos com mais fotos, 12 cada, um gênero por foto sempre que possível, as mais bem respaldadas primeiro; no fim, uma ave de cada ordem. Os autores aparecem abaixo de cada prancha.
 
 ### Beija-flores · *Trochilidae* — 122 espécies
 
@@ -280,20 +280,20 @@ Grupos tirados das espécies que temos, 12 fotos cada, um gênero por foto sempr
 
 | | |
 |---|---|
-| `data/species.json` | Um registro por espécie: taxonomia, nomes, identificadores, distribuição, características, estado de conservação, além da foto, da evidência de identificação e das nossas verificações. Mesmo padrão de campos do `data/` do Huashu; veja [data/README.md](data/README.md) |
+| `data/species.json` | Um registro por espécie, os dados mais completos: taxonomia, nomes, identificadores, distribuição, características, estado de conservação, além da foto, da evidência de identificação e das nossas verificações. Mesmo padrão de campos do `data/` do Huashu; veja [data/README.md](data/README.md) (1.209 espécies) |
 | `data/species.csv` | O mesmo, em tabela |
-| `data/names.csv` | Nomes em 43 idiomas |
-| `data/field-guide.zh-Hans.json` | Notas de campo em chinês de 325 espécies, CC BY-SA 4.0 |
+| `data/names.csv` | Nomes de 1.209 espécies em 43 idiomas (inglês CC BY 4.0, os demais CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | Notas de campo em chinês de 325 espécies (CC BY-SA 4.0) |
 | `docs/` | O site: 15 idiomas, uma página por espécie |
 | `ios/` | Código do app iOS offline |
-| `scripts/, site/` | Scripts que coletam, selecionam, desenham as pranchas e geram o site |
+| `scripts/, site/` | Scripts que coletam, selecionam, desenham as pranchas e geram o site (MIT) |
 
 ## Cobertura
 
-- Fotos: todas as 1,209 espécies, cada uma com página da foto, tamanho original, licença e link da licença. Os autores das 163 fotos CC0 abriram mão do crédito e o iNaturalist não informa o nome, mas todas apontam para o perfil do autor.
+- Fotos: todas as 1.209 espécies, cada uma com página da foto, tamanho original, licença e link da licença. Os autores das 163 fotos CC0 abriram mão do crédito e o iNaturalist não informa o nome; não preenchemos um nome por eles e mantemos o link para o perfil.
 - Evidência: cada foto tem pelo menos 3 identificadores em pelo menos 3 meses; a mediana é 5 pessoas em 3 meses, sem discordância.
-- Identificadores: táxon do iNaturalist, eBird e Avibase para todas as 1,209; Wikidata 1,194, GBIF 1,176.
-- Nomes, distribuição, características e estado vêm dos dados do Huashu e têm a mesma cobertura; por exemplo, só 616 espécies têm comprimento.
+- Identificadores: táxon do iNaturalist, eBird e Avibase para todas as 1.209; Wikidata 1.194, GBIF 1.176.
+- Nomes, distribuição, características e estado vêm sem alterações dos dados do Huashu, então as lacunas são as mesmas; por exemplo, só 616 espécies têm comprimento.
 
 ## Como as fotos são escolhidas e qual a qualidade
 
@@ -301,9 +301,9 @@ Grupos tirados das espécies que temos, 12 fotos cada, um gênero por foto sempr
 
 **Um modelo filtra o enquadramento e depois cada foto é vista.** O detector só verifica quantas aves há, o tamanho e se aparece uma pessoa ou mão; nunca decide a espécie. Depois cada foto foi vista e 367 foram removidas (aves escondidas, parciais, mortas, domésticas, desenhadas ou erradas), cada uma com o motivo em [docs/eye-check.csv](docs/eye-check.csv).
 
-- 3 contas não são 3 especialistas e podem seguir umas às outras; nenhum ornitólogo conferiu cada foto.
-- Fotos reais variam em luz, pose e fundo; não são adesivos de um mesmo estilo.
-- Qual conjunto erra menos, este ou o do Huashu, será julgado pelos erros apontados depois que ambos forem públicos. Até lá afirmamos só uma evidência mais forte da espécie, não resultados melhores.
+- **Ainda faltam 9.749 espécies.** 5.929 não têm nenhuma observação com 3 pessoas concordando ao longo de 3 meses; 2.448 aguardam a verificação de enquadramento, em andamento; 879 não têm foto com uma ave nítida; 400 só têm originais pequenos; 90 mudaram de limites e ficam de fora por enquanto; outras 3 falharam na correspondência de nomes ou na revisão foto a foto. As contagens estão em [docs/stats.json](docs/stats.json).
+
+São fotos reais, mas as espécies foram identificadas por usuários do iNaturalist, não conferidas uma a uma por ornitólogos. Use-as como fotos de referência confiáveis; para detalhes de identificação, consulte um guia de campo. Qual conjunto erra menos, este ou o do Huashu, será julgado pelos erros apontados depois que ambos forem públicos. Até lá afirmamos só uma evidência mais forte da espécie, não resultados melhores.
 
 Achou uma foto errada? [Abra uma issue](../../issues/new/choose); cada página de espécie do site tem um link para avisar com a ave já preenchida. Correções de observadores de aves são a contribuição de que este projeto mais precisa.
 
@@ -313,7 +313,13 @@ A página, o autor e a licença de cada foto estão em `photo` no `data/species.
 
 ## Como usar
 
-Use cada foto sob a própria licença: dê crédito ao autor e cite o iNaturalist. Cada página de espécie tem uma linha de crédito pronta; os links das fotos estão na coluna `photoUrl` do `data/species.csv`.
+Dá para linkar uma foto diretamente; o formato é:
+
+```
+https://inaturalist-open-data.s3.amazonaws.com/photos/<photoId>/original.jpg
+```
+
+O número está na coluna `photoUrl` do `data/species.csv`. Dê crédito ao autor e cite o iNaturalist; cada página de espécie tem uma linha de crédito pronta.
 
 Para baixar só os dados:
 
@@ -325,8 +331,8 @@ cd bird-human-picks && git sparse-checkout set data
 ## Créditos
 
 - Fotos e identificações: os fotógrafos e identificadores do iNaturalist, foto a foto em `data/species.json`. As fotos em si não estão neste repositório.
-- Taxonomia, nomes, identificadores, distribuição, características e notas de campo em chinês: [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), de Huashu, MIT; notas de campo CC BY-SA 4.0.
-- AviList v2026 (CC BY 4.0), lista mundial IOC v15.2 (CC BY 3.0), AVONET (CC BY 4.0), Wikidata (CC0).
+- Taxonomia, nomes, identificadores, distribuição, características: [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), Huashu, MIT. As notas de campo em chinês vêm do mesmo repositório, CC BY-SA 4.0.
+- AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026, CC BY 4.0; lista mundial IOC v15.2, CC BY 3.0; AVONET, Tobias et al., 2022, CC BY 4.0; Wikidata, CC0.
 
 
 [BUILD.md](BUILD.md) · [RULES.md](RULES.md) · [PARITY.md](PARITY.md) · [NOTICE.md](NOTICE.md)

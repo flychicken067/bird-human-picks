@@ -1,6 +1,6 @@
 # Data
 
-`species.json` is the complete dataset, one record per species, in AviList v2026 sequence. The CSV files are flattened subsets for spreadsheets. The layout and the shared fields follow [huashu-bird-sticker's data](https://github.com/alchaincyf/huashu-bird-sticker/tree/b700c37/data) (version 2.2.12, commit `b700c37`), so the two datasets can be joined on `id`.
+`species.json` is the complete dataset, one record per species, in AviList v2026 sequence. The CSV files are flattened subsets for spreadsheets. The layout and the shared fields follow [huashu-bird-sticker's data](https://github.com/alchaincyf/huashu-bird-sticker/tree/ee340d5/data) (version 2.2.15, commit `ee340d5`), so the two datasets can be joined on `id`.
 
 | File | Contents | License |
 |---|---|---|
@@ -58,7 +58,7 @@ All three allow commercial use. CC BY and CC BY-SA require crediting the photogr
 ## Sources
 
 - iNaturalist observations, photos and identifications, <https://www.inaturalist.org>. Each photo under its own license as listed.
-- huashu-bird-sticker data 2.2.12, Huashu (alchaincyf), MIT, <https://github.com/alchaincyf/huashu-bird-sticker>.
+- huashu-bird-sticker data 2.2.15, Huashu (alchaincyf), MIT, <https://github.com/alchaincyf/huashu-bird-sticker>.
 - AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026. <https://doi.org/10.2173/avilist.v2026>. CC BY 4.0.
 - IOC World Bird List v15.2, Gill, Donsker & Rasmussen (Eds), CC BY 3.0. <https://worldbirdnames.org/>
 - AVONET: Tobias, J. A. et al. (2022). *Ecology Letters* 25: 581–597. doi:10.1111/ele.13898. CC BY 4.0.

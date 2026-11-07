@@ -1,24 +1,24 @@
-# 人选鸟图：每种鸟一张多人认定的真实照片
+# Ivan开源：多人认定的鸟类真实照片库
 
-<img src="previews/header.jpg" alt="人选鸟图网站：每种鸟一张真实照片，每张都经至少 3 人认定" width="100%">
+<img src="previews/header.jpg" alt="人选鸟图网站：每种鸟一张真实照片，每张都经至少3人认定" width="100%">
 
 [English](README.md) · **简体中文** · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md)
 
-<a href="https://flychicken067.github.io/bird-human-picks/"><img src="docs/assets/og.png" alt="人选鸟图网站：每种鸟一张真实照片，每张都经至少 3 人认定" width="100%"></a>
+<a href="https://flychicken067.github.io/bird-human-picks/"><img src="docs/assets/og.png" alt="人选鸟图网站：每种鸟一张真实照片，每张都经至少3人认定" width="100%"></a>
 
-**完整的用法，去[网站](https://flychicken067.github.io/bird-human-picks/)看。** 网站有 15 种语言，每种鸟一个页面：照片、几个人认定、体型、保护等级、分布、各语言鸟名、引用方式和报错入口，也可以和花叔的 AI 贴纸并排对比。
+**这些照片的完整用法，去[网站](https://flychicken067.github.io/bird-human-picks/)看。** 人选鸟图网站有15种语言，1209种鸟每种一个页面：照片、几个人认定、体型、保护等级、分布、各语言鸟名、引用方式和报错入口，也能和花叔的AI贴纸并排对比。
 
-开源的鸟类真实照片库。每种鸟一张 iNaturalist 上的野外照片，每张都有至少 3 个人在至少 3 个不同月份认定为同一物种，而且没有人给出别的物种。目前收录 1,209 种、39 目 145 科，按全球统一鸟类名录 [AviList v2026](https://www.avilist.org/) 整理，和花叔的 [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) 用同一套编号，可以直接对接。照片全部可以免费商用，每张都记录了作者、授权和认定依据。
+[Ivan](https://github.com/flychicken067)开源的鸟类真实照片库，起因是想看看：不让AI画、只用人的判断，能把花叔的「huashu-bird-sticker」做到什么程度。每种鸟一张iNaturalist上的野外照片，至少3个人在至少3个不同月份认定为同一物种，没有人给出别的物种。按全球统一鸟类名录[AviList v2026](https://www.avilist.org/)整理，目前1209种、39目145科，和[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)用同一套编号，可以直接对接。照片全部可以免费商用，每张都记录了作者、授权和认定依据。
 
-> **还在扩充。** 全量查询已覆盖 7,894 / 11,011 种，查完后入选数会增加。花叔版有 10,973 种贴纸，我们目前只有他的一小部分。
+> **iNaturalist全量查询已经跑完。** 11011种里有10993种拿到了鉴定数据，另外18种学名对不上。新查到的鸟种还要做构图检查和逐张看图，做完后入选数会增加。花叔版有10973种贴纸，我们目前是其中的1209种。
 
-**授权一句话：** 照片版权归各自摄影师，按照片自己的授权使用（CC0、CC BY 或 CC BY-SA，全部允许商用，CC BY 和 CC BY-SA 要署名）。我们整理的数据按 CC BY 4.0，代码按 MIT，第三方部分见 [NOTICE](NOTICE.md)。
+**授权一句话：** 照片可以免费用于任何用途，包括商用，只要按每张照片自己的授权署名（CC0不用署名，CC BY和CC BY-SA要署名，CC BY-SA改过的要按同样授权分享）。我们整理的数据按CC BY 4.0，代码按MIT，第三方部分见[NOTICE](NOTICE.md)。
 
 ## 画廊
 
-按已收录的鸟种分组，每组 12 张，同一个属尽量只放一张，优先认定人数多的。每张图下面列了摄影师。
+10个照片最多、最有代表性的类群，每组12张，同一个属尽量只放一张，优先选认定人数多的；最后是每个目各一只。每张图下面列了摄影师。
 
-### 蜂鸟 · *Trochilidae* — 122 种
+### 蜂鸟 · *Trochilidae* — 122种
 
 ![蜂鸟](previews/families/trochilidae.jpg)
 
@@ -39,7 +39,7 @@
 
 </details>
 
-### 翠鸟、蜂虎、鹦鹉和其他彩色鸟 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40 种
+### 翠鸟、蜂虎、鹦鹉和其他彩色鸟 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40种
 
 ![翠鸟、蜂虎、鹦鹉和其他彩色鸟](previews/families/colourful.jpg)
 
@@ -60,7 +60,7 @@
 
 </details>
 
-### 鸠鸽 · *Columbidae* — 89 种
+### 鸠鸽 · *Columbidae* — 89种
 
 ![鸠鸽](previews/families/columbidae.jpg)
 
@@ -81,7 +81,7 @@
 
 </details>
 
-### 鸭、雁与天鹅 · *Anatidae* — 78 种
+### 鸭、雁与天鹅 · *Anatidae* — 78种
 
 ![鸭、雁与天鹅](previews/families/anatidae.jpg)
 
@@ -102,7 +102,7 @@
 
 </details>
 
-### 雉鸡、鹑与冢雉 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110 种
+### 雉鸡、鹑与冢雉 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110种
 
 ![雉鸡、鹑与冢雉](previews/families/phasianidae.jpg)
 
@@ -123,7 +123,7 @@
 
 </details>
 
-### 鸮 · *Strigidae* · *Tytonidae* — 44 种
+### 鸮 · *Strigidae* · *Tytonidae* — 44种
 
 ![鸮](previews/families/owls.jpg)
 
@@ -144,7 +144,7 @@
 
 </details>
 
-### 猛禽 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34 种
+### 猛禽 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34种
 
 ![猛禽](previews/families/raptors.jpg)
 
@@ -165,7 +165,7 @@
 
 </details>
 
-### 鹭、鹮与鹳 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64 种
+### 鹭、鹮与鹳 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64种
 
 ![鹭、鹮与鹳](previews/families/herons.jpg)
 
@@ -186,7 +186,7 @@
 
 </details>
 
-### 鹬、鸻与鸥 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115 种
+### 鹬、鸻与鸥 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115种
 
 ![鹬、鸻与鸥](previews/families/shorebirds.jpg)
 
@@ -207,7 +207,7 @@
 
 </details>
 
-### 鸣禽：鹟、鸫、莺、霸鹟与鸦 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63 种
+### 鸣禽：鹟、鸫、莺、霸鹟与鸦 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63种
 
 ![鸣禽：鹟、鸫、莺、霸鹟与鸦](previews/families/songbirds.jpg)
 
@@ -280,42 +280,48 @@
 
 | | |
 |---|---|
-| `data/species.json` | 每种一条记录：分类、鸟名、编号、分布、形态、保护等级，以及照片、认定依据和检查记录。字段标准和花叔的 `data/` 一致，说明见 [data/README.md](data/README.md) |
-| `data/species.csv` | 同上，摊平成表格，方便用 Excel 打开 |
-| `data/names.csv` | 43 种语言的鸟名 |
-| `data/field-guide.zh-Hans.json` | 325 种鸟的中文图鉴笔记，CC BY-SA 4.0 |
-| `docs/` | 网站：15 种语言，每种鸟一个页面 |
-| `ios/` | 离线 iOS App 源码 |
-| `scripts/、site/` | 采集、筛选、出图和建站的脚本 |
+| `data/species.json` | 每种一条记录，最完整的数据：分类、鸟名、编号、分布、形态、保护等级，以及照片、认定依据和检查记录。字段标准和花叔的`data/`一致，说明见[data/README.md](data/README.md)（1209种） |
+| `data/species.csv` | 同上，摊平成表格，方便用Excel打开 |
+| `data/names.csv` | 1209种鸟、43种语言的鸟名（英文CC BY 4.0，其他语言CC BY 3.0） |
+| `data/field-guide.zh-Hans.json` | 325种鸟的中文图鉴笔记（CC BY-SA 4.0） |
+| `docs/` | 网站：15种语言，每种鸟一个页面 |
+| `ios/` | 离线iOS App源码 |
+| `scripts/、site/` | 采集、筛选、出图和建站的脚本（MIT） |
 
 ## 覆盖情况
 
-- 照片：1,209 种全部有，每张都有照片页、原图尺寸、授权和授权链接。163 张 CC0 照片的摄影师放弃了署名，iNaturalist 不给名字，但都有作者主页链接。
-- 认定：每张至少 3 人、跨至少 3 个月，中位数是 5 人、3 个月，没有异议。
-- 编号：iNaturalist 物种编号、eBird、Avibase 1,209 种全有；Wikidata 1,194 种，GBIF 1,176 种。
-- 鸟名、分布、形态、保护等级取自花叔的数据，覆盖情况和他一样，比如体长只有 616 种有。
+- 照片：1209种全部有，每张都有照片页、原图尺寸、授权和授权链接。163张CC0照片的摄影师放弃了署名，iNaturalist也不给名字，我们不替他们补名字，只留作者主页链接。
+- 认定：每张至少3人、跨至少3个月，中位数是5人、3个月，没有异议。
+- 编号：iNaturalist物种编号、eBird、Avibase 1209种全有；Wikidata 1194种，GBIF 1176种。
+- 鸟名、分布、形态、保护等级原样取自花叔的数据，我们没有改动，所以缺的地方和他一样，比如体长只有616种有。
 
 ## 照片怎么选的，质量如何
 
-**物种对不对，由人决定。** 照片来自 iNaturalist 的野外研究级观测，至少 3 个账号当前认定为这个物种，认定跨至少 3 个不同月份，没有人给出别的物种。原图长边至少 1200 像素，授权只收 CC0、CC BY、CC BY-SA。
+**物种对不对，由人决定。** 照片来自iNaturalist的野外研究级观测，至少3个账号当前认定为这个物种，认定跨至少3个不同月份，没有人给出别的物种。原图长边至少1200像素，授权只收CC0、CC BY、CC BY-SA。
 
-**画面先由模型初筛，再逐张看。** 检测模型只看画面里有几只鸟、鸟多大、有没有人手，不判断物种。之后逐张看图，排除了 367 张：被遮挡、只拍到局部、死鸟、家禽、手绘画、拍错的鸟等，每张都写了原因，见 [docs/eye-check.csv](docs/eye-check.csv)。
+**画面先由模型初筛，再逐张看。** 检测模型只看画面里有几只鸟、鸟多大、有没有人手，不判断物种。之后逐张看图，排除了367张：被遮挡、只拍到局部、死鸟、家禽、手绘画、拍错的鸟等，每张都写了原因，见[docs/eye-check.csv](docs/eye-check.csv)。
 
-- 3 个账号不等于 3 位专家，他们也可能跟随别人的鉴定；没有鸟类学家逐张核对过。
-- 真实照片的光线、姿态和背景各不相同，不是统一风格的贴纸。
-- 和花叔版谁错得少，要等两版公开后比较各自被人指出的错误。在那之前只能说物种依据更强，不能说效果更好。
+- **还有9749种没有入选。** 其中5929种没有一条观测做到3人认定、跨3个月；2448种还没做构图检查，正在做；879种没有一张画面清楚的单只鸟照片；400种原图太小；90种分类范围变了，暂不收；另有3种因学名对不上或看图排除。每一项的计数见[docs/stats.json](docs/stats.json)。
 
-发现错图，欢迎[提 issue](../../issues/new/choose)；网站上每种鸟都有填好鸟名的报错链接。鸟友的纠错，是这个项目最需要的贡献。
+这些是真实照片，但物种是网友鉴定的，不是鸟类学家逐张核对的。当作一张可靠的参考照来用；涉及细节辨识，请以图鉴为准。 和花叔版谁错得少，要等两版公开后比较各自被人指出的错误。在那之前只能说物种依据更强，不能说效果更好。
+
+发现错图，欢迎[提issue](../../issues/new/choose)；网站上每种鸟都有填好鸟名的报错链接。鸟友的纠错，是这个项目最需要的贡献。
 
 ## 署名与撤下
 
-每张照片的页面、作者和授权写在 `data/species.json` 的 `photo` 里。如果照片是你拍的，而你不希望被收录，请用「摄影师撤回照片」issue 表单告诉我们，我们会在 7 天内换掉，以后也不再使用。
+每张照片的页面、作者和授权写在`data/species.json`的`photo`里。如果照片是你拍的，而你不希望被收录，请用「摄影师撤回照片」issue表单告诉我们，我们会在7天内换掉，以后也不再使用。
 
 ## 怎么用
 
-单张照片按它自己的授权使用：署名写摄影师，并注明来自 iNaturalist。网站上每种鸟都有现成的引用文字；照片链接在 `data/species.csv` 的 `photoUrl` 列。
+单张照片可以直接引用，链接格式是：
 
-只要数据，可以这样拉：
+```
+https://inaturalist-open-data.s3.amazonaws.com/photos/<photoId>/original.jpg
+```
+
+编号在`data/species.csv`的`photoUrl`列。署名写摄影师，并注明来自iNaturalist；网站上每种鸟都有现成的引用文字。
+
+只想要数据，可以这样拉：
 
 ```bash
 git clone --filter=blob:none --sparse https://github.com/flychicken067/bird-human-picks
@@ -324,9 +330,9 @@ cd bird-human-picks && git sparse-checkout set data
 
 ## 致谢
 
-- 照片和鉴定：iNaturalist 的摄影师和鉴定者，逐张写在 `data/species.json` 里。照片本身不在仓库中。
-- 分类、鸟名、编号、分布、形态和中文图鉴笔记：[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)（花叔），MIT；中文图鉴笔记 CC BY-SA 4.0。
-- AviList v2026（CC BY 4.0）、IOC 世界鸟类名录 v15.2（CC BY 3.0）、AVONET（CC BY 4.0）、Wikidata（CC0）。
+- 照片和鉴定：iNaturalist的摄影师和鉴定者，逐张写在`data/species.json`里。照片本身不在仓库中。
+- 分类、鸟名、编号、分布、形态：[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)，花叔，MIT。中文图鉴笔记同出该仓库，CC BY-SA 4.0。
+- AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026，CC BY 4.0；IOC世界鸟类名录v15.2，CC BY 3.0；AVONET，Tobias等，2022，CC BY 4.0；Wikidata，CC0。
 
 
 [BUILD.md](BUILD.md) · [RULES.md](RULES.md) · [PARITY.md](PARITY.md) · [NOTICE.md](NOTICE.md)

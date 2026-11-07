@@ -27,8 +27,8 @@ struct ContentView: View {
                         .padding(.horizontal)
                 }
                 Picker("范围", selection: $onlyFavorites) {
-                    Text("全部 \(store.birds.count)").tag(false)
-                    Text("收藏 \(store.favorites.count)").tag(true)
+                    Text("全部\(store.birds.count)").tag(false)
+                    Text("收藏\(store.favorites.count)").tag(true)
                 }
                 .pickerStyle(.segmented)
                 .padding(.horizontal)

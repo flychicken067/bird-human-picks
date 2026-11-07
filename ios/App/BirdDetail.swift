@@ -43,10 +43,10 @@ struct BirdDetail: View {
                     VStack(alignment: .leading, spacing: 6) {
                         Label(bird.evidence, systemImage: "person.3")
                             .font(.headline)
-                        Text("这张照片在 iNaturalist 上由 \(bird.agree) 个账号认定为这个物种，认定跨 \(bird.months) 个不同月份，没有人给出其他物种。")
+                        Text("这张照片在iNaturalist上由\(bird.agree)个账号认定为这个物种，认定跨\(bird.months)个不同月份，没有人给出其他物种。")
                             .font(.callout)
                             .foregroundStyle(.secondary)
-                        Text("真实照片，不是 AI 生成。物种由 iNaturalist 用户鉴定，人也会出错。")
+                        Text("真实照片，不是AI生成。物种由iNaturalist用户鉴定，人也会出错。")
                             .font(.footnote)
                             .foregroundStyle(.secondary)
                     }
@@ -56,7 +56,7 @@ struct BirdDetail: View {
                     Section(title: "图鉴笔记") {
                         if let s = bird.impression { Text(s) }
                         ForEach(bird.marks ?? [], id: \.self) { Text("· " + $0).foregroundStyle(.secondary) }
-                        Text("文字来自 huashu-bird-sticker 的中文图鉴笔记，CC BY-SA 4.0。").font(.caption).foregroundStyle(.tertiary)
+                        Text("文字来自huashu-bird-sticker的中文图鉴笔记，CC BY-SA 4.0。").font(.caption).foregroundStyle(.tertiary)
                     }
                 }
                 let size = [("体长", bird.length), ("翼展", bird.wingspan), ("体重", bird.weight)].compactMap { k, v in v.map { (k, $0) } }
@@ -68,7 +68,7 @@ struct BirdDetail: View {
                     }
                 }
                 if let code = bird.iucn, let name = bird.iucnName {
-                    Section(title: "IUCN 保护等级") { Text("\(code) · \(name)") }
+                    Section(title: "IUCN保护等级") { Text("\(code) · \(name)") }
                 }
                 if let r = bird.range {
                     Section(title: "分布") { Text(r) }
@@ -77,10 +77,10 @@ struct BirdDetail: View {
                     Text("照片：\(bird.credit ?? "")").font(.footnote)
                     Text("授权：\(bird.licence ?? "")").font(.footnote).foregroundStyle(.secondary)
                     if let s = bird.observation, let url = URL(string: s) {
-                        Link("在 iNaturalist 查看这条观测（需联网）", destination: url).font(.footnote)
+                        Link("在iNaturalist查看这条观测（需联网）", destination: url).font(.footnote)
                     }
                     if let url = bird.reportURL {
-                        Link("这张图不对？到 GitHub 报错（需联网）", destination: url).font(.footnote)
+                        Link("这张图不对？到GitHub报错（需联网）", destination: url).font(.footnote)
                     }
                 }
             }

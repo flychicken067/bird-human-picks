@@ -1,24 +1,24 @@
-# 人選鳥圖：每種鳥一張多人認定的真實照片
+# Ivan開源：多人認定的鳥類真實照片庫
 
-<img src="previews/header.jpg" alt="人選鳥圖網站：每種鳥一張真實照片，每張都經至少 3 人認定" width="100%">
+<img src="previews/header.jpg" alt="人選鳥圖網站：每種鳥一張真實照片，每張都經至少3人認定" width="100%">
 
 [English](README.md) · [简体中文](README.zh-Hans.md) · **繁體中文** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md)
 
-<a href="https://flychicken067.github.io/bird-human-picks/zh-hant/"><img src="docs/assets/og.png" alt="人選鳥圖網站：每種鳥一張真實照片，每張都經至少 3 人認定" width="100%"></a>
+<a href="https://flychicken067.github.io/bird-human-picks/zh-hant/"><img src="docs/assets/og.png" alt="人選鳥圖網站：每種鳥一張真實照片，每張都經至少3人認定" width="100%"></a>
 
-**完整的用法，請到[網站](https://flychicken067.github.io/bird-human-picks/zh-hant/)看。** 網站有 15 種語言，每種鳥一個頁面：照片、幾個人認定、體型、保育等級、分布、各語言鳥名、引用方式和回報入口，也可以和花叔的 AI 貼紙並排對比。
+**這些照片的完整用法，請到[網站](https://flychicken067.github.io/bird-human-picks/zh-hant/)看。** 人選鳥圖網站有15種語言，1209種鳥每種一個頁面：照片、幾個人認定、體型、保育等級、分布、各語言鳥名、引用方式和回報入口，也能和花叔的AI貼紙並排對比。
 
-開源的鳥類真實照片庫。每種鳥一張 iNaturalist 上的野外照片，每張都有至少 3 個人在至少 3 個不同月份認定為同一物種，而且沒有人給出別的物種。目前收錄 1,209 種、39 目 145 科，依全球統一鳥類名錄 [AviList v2026](https://www.avilist.org/) 整理，和花叔的 [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) 使用同一套編號，可以直接對接。照片全部可以免費商用，每張都記錄了作者、授權和認定依據。
+[Ivan](https://github.com/flychicken067)開源的鳥類真實照片庫，起因是想看看：不讓AI畫、只用人的判斷，能把花叔的「huashu-bird-sticker」做到什麼程度。每種鳥一張iNaturalist上的野外照片，至少3個人在至少3個不同月份認定為同一物種，沒有人給出別的物種。依全球統一鳥類名錄[AviList v2026](https://www.avilist.org/)整理，目前1209種、39目145科，和[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)使用同一套編號，可以直接對接。照片全部可以免費商用，每張都記錄了作者、授權和認定依據。
 
-> **還在擴充。** 全量查詢已涵蓋 7,894 / 11,011 種，查完後入選數會增加。花叔版有 10,973 種貼紙，我們目前只有其中一小部分。
+> **iNaturalist全量查詢已經跑完。** 11011種裡有10993種拿到了鑑定資料，另外18種學名對不上。新查到的鳥種還要做構圖檢查和逐張看圖，做完後入選數會增加。花叔版有10973種貼紙，我們目前是其中的1209種。
 
-**授權一句話：** 照片版權歸各自攝影師，依照片自己的授權使用（CC0、CC BY 或 CC BY-SA，全部允許商用，CC BY 和 CC BY-SA 要署名）。我們整理的資料採 CC BY 4.0，程式碼採 MIT，第三方部分見 [NOTICE](NOTICE.md)。
+**授權一句話：** 照片可以免費用於任何用途，包括商用，只要依每張照片自己的授權署名（CC0不用署名，CC BY和CC BY-SA要署名，CC BY-SA改過的要以相同授權分享）。我們整理的資料採CC BY 4.0，程式碼採MIT，第三方部分見[NOTICE](NOTICE.md)。
 
 ## 畫廊
 
-依已收錄的鳥種分組，每組 12 張，同一屬盡量只放一張，優先認定人數多的。每張圖下方列出攝影師。
+10個照片最多、最有代表性的類群，每組12張，同一屬盡量只放一張，優先選認定人數多的；最後是每個目各一隻。每張圖下方列出攝影師。
 
-### 蜂鳥 · *Trochilidae* — 122 種
+### 蜂鳥 · *Trochilidae* — 122種
 
 ![蜂鳥](previews/families/trochilidae.jpg)
 
@@ -39,7 +39,7 @@
 
 </details>
 
-### 翠鳥、蜂虎、鸚鵡和其他彩色鳥 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40 種
+### 翠鳥、蜂虎、鸚鵡和其他彩色鳥 · *Alcedinidae* · *Meropidae* · *Coraciidae* · *Ramphastidae* · *Megalaimidae* · *Psittacidae* · *Psittaculidae* · *Thraupidae* · *Nectariniidae* · *Paradisaeidae* · *Pipridae* — 40種
 
 ![翠鳥、蜂虎、鸚鵡和其他彩色鳥](previews/families/colourful.jpg)
 
@@ -60,7 +60,7 @@
 
 </details>
 
-### 鳩鴿 · *Columbidae* — 89 種
+### 鳩鴿 · *Columbidae* — 89種
 
 ![鳩鴿](previews/families/columbidae.jpg)
 
@@ -81,7 +81,7 @@
 
 </details>
 
-### 鴨、雁與天鵝 · *Anatidae* — 78 種
+### 鴨、雁與天鵝 · *Anatidae* — 78種
 
 ![鴨、雁與天鵝](previews/families/anatidae.jpg)
 
@@ -102,7 +102,7 @@
 
 </details>
 
-### 雉雞、鶉與塚雉 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110 種
+### 雉雞、鶉與塚雉 · *Phasianidae* · *Odontophoridae* · *Numididae* · *Megapodiidae* · *Cracidae* — 110種
 
 ![雉雞、鶉與塚雉](previews/families/phasianidae.jpg)
 
@@ -123,7 +123,7 @@
 
 </details>
 
-### 鴞 · *Strigidae* · *Tytonidae* — 44 種
+### 鴞 · *Strigidae* · *Tytonidae* — 44種
 
 ![鴞](previews/families/owls.jpg)
 
@@ -144,7 +144,7 @@
 
 </details>
 
-### 猛禽 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34 種
+### 猛禽 · *Accipitridae* · *Falconidae* · *Cathartidae* — 34種
 
 ![猛禽](previews/families/raptors.jpg)
 
@@ -165,7 +165,7 @@
 
 </details>
 
-### 鷺、䴉與鸛 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64 種
+### 鷺、䴉與鸛 · *Ardeidae* · *Threskiornithidae* · *Ciconiidae* — 64種
 
 ![鷺、䴉與鸛](previews/families/herons.jpg)
 
@@ -186,7 +186,7 @@
 
 </details>
 
-### 鷸、鴴與鷗 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115 種
+### 鷸、鴴與鷗 · *Scolopacidae* · *Charadriidae* · *Laridae* · *Recurvirostridae* · *Haematopodidae* — 115種
 
 ![鷸、鴴與鷗](previews/families/shorebirds.jpg)
 
@@ -207,7 +207,7 @@
 
 </details>
 
-### 鳴禽：鶲、鶇、鶯、霸鶲與鴉 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63 種
+### 鳴禽：鶲、鶇、鶯、霸鶲與鴉 · *Muscicapidae* · *Turdidae* · *Parulidae* · *Tyrannidae* · *Icteridae* · *Corvidae* · *Paridae* · *Fringillidae* · *Estrildidae* — 63種
 
 ![鳴禽：鶲、鶇、鶯、霸鶲與鴉](previews/families/songbirds.jpg)
 
@@ -280,42 +280,48 @@
 
 | | |
 |---|---|
-| `data/species.json` | 每種一筆記錄：分類、鳥名、編號、分布、形態、保育等級，以及照片、認定依據和檢查記錄。欄位標準和花叔的 `data/` 一致，說明見 [data/README.md](data/README.md) |
-| `data/species.csv` | 同上，攤平成表格，方便用 Excel 開啟 |
-| `data/names.csv` | 43 種語言的鳥名 |
-| `data/field-guide.zh-Hans.json` | 325 種鳥的中文圖鑑筆記，CC BY-SA 4.0 |
-| `docs/` | 網站：15 種語言，每種鳥一個頁面 |
-| `ios/` | 離線 iOS App 原始碼 |
-| `scripts/、site/` | 採集、篩選、出圖和建站的腳本 |
+| `data/species.json` | 每種一筆記錄，最完整的資料：分類、鳥名、編號、分布、形態、保育等級，以及照片、認定依據和檢查記錄。欄位標準和花叔的`data/`一致，說明見[data/README.md](data/README.md)（1209種） |
+| `data/species.csv` | 同上，攤平成表格，方便用Excel開啟 |
+| `data/names.csv` | 1209種鳥、43種語言的鳥名（英文CC BY 4.0，其他語言CC BY 3.0） |
+| `data/field-guide.zh-Hans.json` | 325種鳥的中文圖鑑筆記（CC BY-SA 4.0） |
+| `docs/` | 網站：15種語言，每種鳥一個頁面 |
+| `ios/` | 離線iOS App原始碼 |
+| `scripts/、site/` | 採集、篩選、出圖和建站的腳本（MIT） |
 
 ## 涵蓋情況
 
-- 照片：1,209 種全部都有，每張都有照片頁、原圖尺寸、授權和授權連結。163 張 CC0 照片的攝影師放棄了署名，iNaturalist 不提供名字，但都有作者主頁連結。
-- 認定：每張至少 3 人、跨至少 3 個月，中位數是 5 人、3 個月，沒有異議。
-- 編號：iNaturalist 物種編號、eBird、Avibase 1,209 種全有；Wikidata 1,194 種，GBIF 1,176 種。
-- 鳥名、分布、形態、保育等級取自花叔的資料，涵蓋情況和他一樣，例如體長只有 616 種有。
+- 照片：1209種全部都有，每張都有照片頁、原圖尺寸、授權和授權連結。163張CC0照片的攝影師放棄了署名，iNaturalist也不提供名字，我們不替他們補名字，只留作者主頁連結。
+- 認定：每張至少3人、跨至少3個月，中位數是5人、3個月，沒有異議。
+- 編號：iNaturalist物種編號、eBird、Avibase 1209種全有；Wikidata 1194種，GBIF 1176種。
+- 鳥名、分布、形態、保育等級原樣取自花叔的資料，我們沒有改動，所以缺的地方和他一樣，例如體長只有616種有。
 
 ## 照片怎麼選的，品質如何
 
-**物種對不對，由人決定。** 照片來自 iNaturalist 的野外研究級觀察，至少 3 個帳號目前認定為這個物種，認定跨至少 3 個不同月份，沒有人給出別的物種。原圖長邊至少 1200 像素，授權只收 CC0、CC BY、CC BY-SA。
+**物種對不對，由人決定。** 照片來自iNaturalist的野外研究級觀察，至少3個帳號目前認定為這個物種，認定跨至少3個不同月份，沒有人給出別的物種。原圖長邊至少1200像素，授權只收CC0、CC BY、CC BY-SA。
 
-**畫面先由模型初篩，再逐張看。** 偵測模型只看畫面裡有幾隻鳥、鳥多大、有沒有人手，不判斷物種。之後逐張看圖，排除了 367 張：被遮擋、只拍到局部、死鳥、家禽、手繪畫、拍錯的鳥等，每張都寫了原因，見 [docs/eye-check.csv](docs/eye-check.csv)。
+**畫面先由模型初篩，再逐張看。** 偵測模型只看畫面裡有幾隻鳥、鳥多大、有沒有人手，不判斷物種。之後逐張看圖，排除了367張：被遮擋、只拍到局部、死鳥、家禽、手繪畫、拍錯的鳥等，每張都寫了原因，見[docs/eye-check.csv](docs/eye-check.csv)。
 
-- 3 個帳號不等於 3 位專家，他們也可能跟隨別人的鑑定；沒有鳥類學家逐張核對過。
-- 真實照片的光線、姿態和背景各不相同，不是統一風格的貼紙。
-- 和花叔版誰錯得少，要等兩版公開後比較各自被指出的錯誤。在那之前只能說物種依據更強，不能說效果更好。
+- **還有9749種沒有入選。** 其中5929種沒有一筆觀察做到3人認定、跨3個月；2448種還沒做構圖檢查，正在做；879種沒有一張畫面清楚的單隻鳥照片；400種原圖太小；90種分類範圍變了，暫不收；另有3種因學名對不上或看圖排除。每一項的計數見[docs/stats.json](docs/stats.json)。
 
-發現錯圖，歡迎[提 issue](../../issues/new/choose)；網站上每種鳥都有填好鳥名的回報連結。鳥友的糾錯，是這個專案最需要的貢獻。
+這些是真實照片，但物種是網友鑑定的，不是鳥類學家逐張核對的。當作一張可靠的參考照來用；涉及細節辨識，請以圖鑑為準。 和花叔版誰錯得少，要等兩版公開後比較各自被指出的錯誤。在那之前只能說物種依據更強，不能說效果更好。
+
+發現錯圖，歡迎[提issue](../../issues/new/choose)；網站上每種鳥都有填好鳥名的回報連結。鳥友的糾錯，是這個專案最需要的貢獻。
 
 ## 署名與撤下
 
-每張照片的頁面、作者和授權寫在 `data/species.json` 的 `photo` 裡。如果照片是你拍的，而你不希望被收錄，請用「攝影師撤回照片」issue 表單告訴我們，我們會在 7 天內換掉，以後也不再使用。
+每張照片的頁面、作者和授權寫在`data/species.json`的`photo`裡。如果照片是你拍的，而你不希望被收錄，請用「攝影師撤回照片」issue表單告訴我們，我們會在7天內換掉，以後也不再使用。
 
 ## 怎麼用
 
-單張照片依它自己的授權使用：署名寫攝影師，並註明來自 iNaturalist。網站上每種鳥都有現成的引用文字；照片連結在 `data/species.csv` 的 `photoUrl` 欄。
+單張照片可以直接引用，連結格式是：
 
-只要資料，可以這樣拉：
+```
+https://inaturalist-open-data.s3.amazonaws.com/photos/<photoId>/original.jpg
+```
+
+編號在`data/species.csv`的`photoUrl`欄。署名寫攝影師，並註明來自iNaturalist；網站上每種鳥都有現成的引用文字。
+
+只想要資料，可以這樣拉：
 
 ```bash
 git clone --filter=blob:none --sparse https://github.com/flychicken067/bird-human-picks
@@ -324,9 +330,9 @@ cd bird-human-picks && git sparse-checkout set data
 
 ## 致謝
 
-- 照片和鑑定：iNaturalist 的攝影師和鑑定者，逐張寫在 `data/species.json` 裡。照片本身不在倉庫中。
-- 分類、鳥名、編號、分布、形態和中文圖鑑筆記：[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)（花叔），MIT；中文圖鑑筆記 CC BY-SA 4.0。
-- AviList v2026（CC BY 4.0）、IOC 世界鳥類名錄 v15.2（CC BY 3.0）、AVONET（CC BY 4.0）、Wikidata（CC0）。
+- 照片和鑑定：iNaturalist的攝影師和鑑定者，逐張寫在`data/species.json`裡。照片本身不在倉庫中。
+- 分類、鳥名、編號、分布、形態：[huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)，花叔，MIT。中文圖鑑筆記同出該倉庫，CC BY-SA 4.0。
+- AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026，CC BY 4.0；IOC世界鳥類名錄v15.2，CC BY 3.0；AVONET，Tobias等，2022，CC BY 4.0；Wikidata，CC0。
 
 
 [BUILD.md](BUILD.md) · [RULES.md](RULES.md) · [PARITY.md](PARITY.md) · [NOTICE.md](NOTICE.md)

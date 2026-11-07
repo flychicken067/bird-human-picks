@@ -1,4 +1,4 @@
-# Bird Human Picks: ein echtes Foto pro Vogelart, von mehreren Menschen bestimmt
+# Echte Vogelfotos, jedes von mehreren Menschen bestimmt
 
 <img src="previews/header.jpg" alt="Website von Bird Human Picks: ein echtes Foto pro Vogel, jedes von mindestens 3 Menschen bestimmt" width="100%">
 
@@ -6,17 +6,17 @@
 
 <a href="https://flychicken067.github.io/bird-human-picks/de/"><img src="docs/assets/og.png" alt="Website von Bird Human Picks: ein echtes Foto pro Vogel, jedes von mindestens 3 Menschen bestimmt" width="100%"></a>
 
-**Alles Weitere auf [der Website](https://flychicken067.github.io/bird-human-picks/de/).** Sie gibt es in 15 Sprachen, mit einer Seite pro Art: das Foto, wie viele Menschen es bestimmt haben, Größe, Gefährdungsstatus, Verbreitung, Namen in anderen Sprachen, eine fertige Urheberangabe und ein Link zum Melden von Fehlern. Huashus KI-Sticker lassen sich daneben einblenden.
+**Die Fotos im Einsatz zeigt [die Website](https://flychicken067.github.io/bird-human-picks/de/).** Sie gibt es in 15 Sprachen, mit einer Seite für jede der 1.209 Arten: das Foto, wie viele Menschen es bestimmt haben, Größe, Gefährdungsstatus, Verbreitung, Namen in anderen Sprachen, eine fertige Urheberangabe und ein Link zum Melden von Fehlern. Huashus KI-Sticker lassen sich daneben einblenden.
 
-Eine offene Sammlung echter Vogelfotos. Jede Art bekommt ein Freilandfoto von iNaturalist, das mindestens 3 Menschen in mindestens 3 verschiedenen Monaten als dieselbe Art bestimmt haben, ohne dass jemand eine andere genannt hat. Sie umfasst jetzt 1,209 Arten aus 39 Ordnungen und 145 Familien, folgt der weltweiten Liste [AviList v2026](https://www.avilist.org/) und nutzt dieselben IDs wie Huashus [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), sodass sich beide direkt verbinden lassen. Alle Fotos sind kommerziell nutzbar und nennen Urheber, Lizenz und die Belege dafür.
+Von [Ivan](https://github.com/flychicken067), um zu sehen, wie weit menschliches Urteil allein, ohne KI-Zeichnungen, beim Ziel von Huashus [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) kommt. Jede Art bekommt ein Freilandfoto von iNaturalist, das mindestens 3 Menschen in mindestens 3 verschiedenen Monaten als dieselbe Art bestimmt haben, ohne dass jemand eine andere genannt hat. Bisher 1.209 Arten aus 39 Ordnungen und 145 Familien, nach [AviList v2026](https://www.avilist.org/) und mit denselben IDs wie huashu-bird-sticker, sodass sich beide direkt verbinden lassen. Alle Fotos sind kommerziell nutzbar und nennen Urheber, Lizenz und die Belege dafür.
 
-> **Wächst noch.** Die Datensammlung hat 7,894 von 11.011 Arten erfasst; nach Abschluss kommen weitere hinzu. Huashus Sammlung hat Sticker für 10.973 Arten, wir decken bisher nur einen Teil davon ab.
+> **Die vollständige Abfrage bei iNaturalist ist abgeschlossen.** 10.993 von 11.011 Arten haben jetzt Bestimmungsdaten; die Namen der übrigen 18 passten nicht. Die neu gefundenen Arten brauchen noch die Bildprüfung und die Durchsicht Foto für Foto; danach wächst die Zahl. Huashus Sammlung hat Sticker für 10.973 Arten; wir haben bisher 1.209 davon.
 
-**Lizenz in Kürze:** Die Fotos gehören ihren Urhebern und werden unter ihrer eigenen Lizenz genutzt (CC0, CC BY oder CC BY-SA: alle erlauben kommerzielle Nutzung; CC BY und CC BY-SA verlangen eine Nennung). Unsere zusammengestellten Daten stehen unter CC BY 4.0, der Code unter MIT; Teile Dritter stehen in [NOTICE](NOTICE.md).
+**Lizenz in Kürze:** Nutze die Fotos für alles, auch kommerziell, solange du sie nach der Lizenz des jeweiligen Fotos nennst (CC0 braucht keine Nennung, CC BY und CC BY-SA schon; veränderte CC-BY-SA-Fotos müssen unter derselben Lizenz geteilt werden). Unsere zusammengestellten Daten stehen unter CC BY 4.0, der Code unter MIT; Teile Dritter stehen in [NOTICE](NOTICE.md).
 
 ## Galerie
 
-Gruppen aus den vorhandenen Arten, je 12 Fotos, möglichst eine Gattung pro Foto, die am besten belegten zuerst. Die Fotografierenden stehen unter jeder Tafel.
+Die 10 Gruppen mit den meisten Fotos, je 12, möglichst eine Gattung pro Foto, die am besten belegten zuerst; danach ein Vogel aus jeder Ordnung. Die Fotografierenden stehen unter jeder Tafel.
 
 ### Kolibris · *Trochilidae* — 122 Arten
 
@@ -280,20 +280,20 @@ Gruppen aus den vorhandenen Arten, je 12 Fotos, möglichst eine Gattung pro Foto
 
 | | |
 |---|---|
-| `data/species.json` | Ein Datensatz pro Art: Systematik, Namen, IDs, Verbreitung, Merkmale, Gefährdungsstatus, dazu das Foto, die Bestimmungsbelege und unsere Prüfungen. Gleicher Feldstandard wie Huashus `data/`; siehe [data/README.md](data/README.md) |
+| `data/species.json` | Ein Datensatz pro Art, die vollständigsten Daten: Systematik, Namen, IDs, Verbreitung, Merkmale, Gefährdungsstatus, dazu das Foto, die Bestimmungsbelege und unsere Prüfungen. Gleicher Feldstandard wie Huashus `data/`; siehe [data/README.md](data/README.md) (1.209 Arten) |
 | `data/species.csv` | Dasselbe als Tabelle |
-| `data/names.csv` | Namen in 43 Sprachen |
-| `data/field-guide.zh-Hans.json` | Chinesische Feldnotizen zu 325 Arten, CC BY-SA 4.0 |
+| `data/names.csv` | Namen von 1.209 Arten in 43 Sprachen (Englisch CC BY 4.0, andere CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | Chinesische Feldnotizen zu 325 Arten (CC BY-SA 4.0) |
 | `docs/` | Die Website: 15 Sprachen, eine Seite pro Art |
 | `ios/` | Quellcode der Offline-iOS-App |
-| `scripts/, site/` | Skripte zum Sammeln, Auswählen, Erstellen der Tafeln und der Website |
+| `scripts/, site/` | Skripte zum Sammeln, Auswählen, Erstellen der Tafeln und der Website (MIT) |
 
 ## Abdeckung
 
-- Fotos: alle 1,209 Arten, jeweils mit Fotoseite, Originalgröße, Lizenz und Lizenzlink. Die Urheber der 163 CC0-Fotos haben auf Nennung verzichtet und iNaturalist nennt keinen Namen, aber jedes verlinkt auf das Profil.
+- Fotos: alle 1.209 Arten, jeweils mit Fotoseite, Originalgröße, Lizenz und Lizenzlink. Die Urheber der 163 CC0-Fotos haben auf Nennung verzichtet und iNaturalist nennt keinen Namen; wir tragen keinen für sie ein und behalten den Link zum Profil.
 - Belege: jedes Foto hat mindestens 3 Bestimmer über mindestens 3 Monate; der Median liegt bei 5 Personen über 3 Monate, ohne Widerspruch.
-- IDs: iNaturalist-Taxon, eBird und Avibase für alle 1,209; Wikidata 1,194, GBIF 1,176.
-- Namen, Verbreitung, Merkmale und Status stammen aus Huashus Daten und haben dort dieselbe Abdeckung; zum Beispiel haben nur 616 Arten eine Körperlänge.
+- IDs: iNaturalist-Taxon, eBird und Avibase für alle 1.209; Wikidata 1.194, GBIF 1.176.
+- Namen, Verbreitung, Merkmale und Status stammen unverändert aus Huashus Daten, daher sind die Lücken dieselben; zum Beispiel haben nur 616 Arten eine Körperlänge.
 
 ## Wie die Fotos ausgewählt werden und wie gut sie sind
 
@@ -301,9 +301,9 @@ Gruppen aus den vorhandenen Arten, je 12 Fotos, möglichst eine Gattung pro Foto
 
 **Ein Modell prüft den Bildausschnitt, dann wird jedes Foto angesehen.** Der Detektor prüft nur, wie viele Vögel im Bild sind, wie groß, und ob eine Person oder Hand zu sehen ist; die Art bestimmt er nie. Danach wurde jedes Foto angesehen und 367 wurden entfernt (verdeckte, unvollständige, tote, domestizierte, gezeichnete oder falsche Vögel), jeweils mit Grund in [docs/eye-check.csv](docs/eye-check.csv).
 
-- 3 Konten sind keine 3 Fachleute und können einander folgen; keine Ornithologin hat jedes Foto geprüft.
-- Echte Fotos unterscheiden sich in Licht, Haltung und Hintergrund; es sind keine Sticker in einem Stil.
-- Welche Sammlung weniger Fehler hat, diese oder Huashus, zeigen die gemeldeten Fehler, sobald beide öffentlich sind. Bis dahin beanspruchen wir nur stärkere Belege für die Art, keine besseren Ergebnisse.
+- **9.749 Arten fehlen noch.** 5.929 haben keine Beobachtung, bei der 3 Menschen über 3 Monate übereinstimmen; 2.448 warten auf die Bildprüfung, die läuft; 879 haben kein Foto mit einem klar erkennbaren Vogel; 400 haben nur kleine Originale; 90 haben ihre Abgrenzung geändert und bleiben vorerst draußen; 3 weitere scheiterten am Namensabgleich oder an der Durchsicht. Die Zahlen stehen in [docs/stats.json](docs/stats.json).
+
+Das sind echte Fotos, aber die Arten haben iNaturalist-Nutzer bestimmt, nicht Ornithologen Foto für Foto. Nutze sie als verlässliche Referenzfotos; für feine Bestimmungsmerkmale gilt ein Bestimmungsbuch. Welche Sammlung weniger Fehler hat, diese oder Huashus, zeigen die gemeldeten Fehler, sobald beide öffentlich sind. Bis dahin beanspruchen wir nur stärkere Belege für die Art, keine besseren Ergebnisse.
 
 Ein falsches Foto gefunden? Bitte [ein Issue öffnen](../../issues/new/choose); jede Artseite der Website hat einen Meldelink mit eingetragenem Vogel. Korrekturen von Vogelbeobachtenden sind der Beitrag, den das Projekt am meisten braucht.
 
@@ -313,7 +313,13 @@ Seite, Urheber und Lizenz jedes Fotos stehen in `photo` in `data/species.json`. 
 
 ## Nutzung
 
-Nutze ein Foto unter seiner eigenen Lizenz: nenne den Urheber und iNaturalist. Jede Artseite hat eine fertige Zeile; die Fotolinks stehen in der Spalte `photoUrl` von `data/species.csv`.
+Ein einzelnes Foto lässt sich direkt verlinken; das Format ist:
+
+```
+https://inaturalist-open-data.s3.amazonaws.com/photos/<photoId>/original.jpg
+```
+
+Die Nummer steht in der Spalte `photoUrl` von `data/species.csv`. Nenne den Urheber und iNaturalist; jede Artseite hat eine fertige Zeile.
 
 Nur die Daten holen:
 
@@ -325,8 +331,8 @@ cd bird-human-picks && git sparse-checkout set data
 ## Dank
 
 - Fotos und Bestimmungen: die Fotografierenden und Bestimmenden von iNaturalist, Foto für Foto in `data/species.json`. Die Fotos selbst sind nicht in diesem Repository.
-- Systematik, Namen, IDs, Verbreitung, Merkmale und chinesische Feldnotizen: [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) von Huashu, MIT; Feldnotizen CC BY-SA 4.0.
-- AviList v2026 (CC BY 4.0), IOC World Bird List v15.2 (CC BY 3.0), AVONET (CC BY 4.0), Wikidata (CC0).
+- Systematik, Namen, IDs, Verbreitung, Merkmale: [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), Huashu, MIT. Die chinesischen Feldnotizen stammen aus demselben Repository, CC BY-SA 4.0.
+- AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026, CC BY 4.0; IOC World Bird List v15.2, CC BY 3.0; AVONET, Tobias et al., 2022, CC BY 4.0; Wikidata, CC0.
 
 
 [BUILD.md](BUILD.md) · [RULES.md](RULES.md) · [PARITY.md](PARITY.md) · [NOTICE.md](NOTICE.md)

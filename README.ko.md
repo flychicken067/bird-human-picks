@@ -1,4 +1,4 @@
-# Bird Human Picks: 새마다 여러 사람이 동정한 실제 사진 한 장
+# Ivan 오픈소스: 여러 사람이 동정한 새 실제 사진 라이브러리
 
 <img src="previews/header.jpg" alt="Bird Human Picks 웹사이트: 새마다 실제 사진 한 장, 모두 3명 이상이 동정" width="100%">
 
@@ -6,17 +6,17 @@
 
 <a href="https://flychicken067.github.io/bird-human-picks/ko/"><img src="docs/assets/og.png" alt="Bird Human Picks 웹사이트: 새마다 실제 사진 한 장, 모두 3명 이상이 동정" width="100%"></a>
 
-**전체 기능은 [웹사이트](https://flychicken067.github.io/bird-human-picks/ko/)에서 보세요.** 15개 언어로, 종마다 페이지가 있습니다. 사진, 동정한 사람 수, 크기, 보전 상태, 분포, 언어별 이름, 출처 표기 예시와 오류 신고 링크가 있고, 화수의 AI 스티커와 나란히 비교할 수도 있습니다.
+**사진의 전체 사용법은 [웹사이트](https://flychicken067.github.io/bird-human-picks/ko/)에서 보세요.** 15개 언어로, 1,209종마다 페이지가 있습니다. 사진, 동정한 사람 수, 크기, 보전 상태, 분포, 언어별 이름, 출처 표기 예시와 오류 신고 링크가 있고, 화수의 AI 스티커와 나란히 비교할 수도 있습니다.
 
-새 실제 사진의 오픈 라이브러리입니다. 종마다 iNaturalist의 야외 사진 한 장을 골랐고, 모든 사진은 3명 이상이 서로 다른 3개월 이상에 걸쳐 같은 종으로 동정했으며 다른 종을 제시한 사람은 없습니다. 현재 1,209종, 39목 145과를 수록했고, 세계 공통 조류 목록 [AviList v2026](https://www.avilist.org/)을 따르며 화수의 [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)와 같은 ID를 써서 바로 연결할 수 있습니다. 모든 사진은 상업적으로 쓸 수 있고, 촬영자·라이선스·동정 근거를 한 장씩 기록했습니다.
+[Ivan](https://github.com/flychicken067)이 공개한 새 실제 사진 라이브러리입니다. AI에게 그리게 하지 않고 사람의 판단만으로 화수의 「huashu-bird-sticker」를 어디까지 해낼 수 있는지 보려고 만들었습니다. 종마다 iNaturalist의 야외 사진 한 장을 골랐고, 모든 사진은 3명 이상이 서로 다른 3개월 이상에 걸쳐 같은 종으로 동정했으며 다른 종을 제시한 사람은 없습니다. 세계 공통 조류 목록 [AviList v2026](https://www.avilist.org/)을 따르며 현재 1,209종, 39목 145과이고, [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)와 같은 ID를 써서 바로 연결할 수 있습니다. 모든 사진은 상업적으로 쓸 수 있고, 촬영자·라이선스·동정 근거를 한 장씩 기록했습니다.
 
-> **계속 늘어나는 중입니다.** 데이터 수집은 11,011종 중 7,894종까지 진행됐고, 끝나면 수록 종이 늘어납니다. 화수의 세트는 10,973종의 스티커가 있어 아직 일부에 불과합니다.
+> **iNaturalist 전체 조회가 끝났습니다.** 11,011종 중 10,993종의 동정 데이터를 얻었고, 나머지 18종은 학명이 맞지 않았습니다. 새로 찾은 종은 구도 검사와 육안 확인을 거쳐야 하며, 끝나면 수록 종이 늘어납니다. 화수의 세트에는 10,973종의 스티커가 있고, 우리는 현재 그중 1,209종입니다.
 
-**라이선스 요약:** 사진 저작권은 각 촬영자에게 있으며 각 사진의 라이선스(CC0, CC BY, CC BY-SA. 모두 상업적 이용 가능, CC BY와 CC BY-SA는 출처 표기 필요)로 사용합니다. 정리한 데이터는 CC BY 4.0, 코드는 MIT이며 제3자 부분은 [NOTICE](NOTICE.md)를 보세요.
+**라이선스 요약:** 사진은 상업적 용도를 포함해 어디에든 무료로 쓸 수 있습니다. 조건은 각 사진의 라이선스에 따른 출처 표기뿐입니다(CC0는 불필요, CC BY와 CC BY-SA는 필요, 수정한 CC BY-SA는 같은 라이선스로 공유). 정리한 데이터는 CC BY 4.0, 코드는 MIT이며 제3자 부분은 [NOTICE](NOTICE.md)를 보세요.
 
 ## 갤러리
 
-수록된 종에서 그룹마다 12장을 골랐습니다. 가능하면 한 속에 한 장, 동정 인원이 많은 것부터. 각 이미지 아래에 촬영자를 적었습니다.
+사진이 가장 많은 10개 그룹에서 12장씩, 가능하면 한 속에 한 장, 동정 인원이 많은 것부터 골랐고, 마지막은 목마다 한 마리씩입니다. 각 이미지 아래에 촬영자를 적었습니다.
 
 ### 벌새 · *Trochilidae* — 122종
 
@@ -280,20 +280,20 @@
 
 | | |
 |---|---|
-| `data/species.json` | 종마다 한 레코드: 분류, 이름, ID, 분포, 형태, 보전 상태, 그리고 사진·동정 근거·검사 기록. 화수의 `data/`와 같은 필드 기준. 설명은 [data/README.md](data/README.md) |
+| `data/species.json` | 종마다 한 레코드, 가장 완전한 데이터: 분류, 이름, ID, 분포, 형태, 보전 상태, 그리고 사진·동정 근거·검사 기록. 화수의 `data/`와 같은 필드 기준. 설명은 [data/README.md](data/README.md)(1,209종) |
 | `data/species.csv` | 같은 내용을 표로 펼친 것 |
-| `data/names.csv` | 43개 언어의 이름 |
-| `data/field-guide.zh-Hans.json` | 325종의 중국어 도감 노트, CC BY-SA 4.0 |
+| `data/names.csv` | 1,209종의 43개 언어 이름(영어 CC BY 4.0, 그 외 CC BY 3.0) |
+| `data/field-guide.zh-Hans.json` | 325종의 중국어 도감 노트(CC BY-SA 4.0) |
 | `docs/` | 웹사이트: 15개 언어, 종마다 한 페이지 |
 | `ios/` | 오프라인 iOS 앱 소스 |
-| `scripts/, site/` | 수집, 선정, 이미지 제작, 사이트 생성 스크립트 |
+| `scripts/, site/` | 수집, 선정, 이미지 제작, 사이트 생성 스크립트(MIT) |
 
 ## 수록 현황
 
-- 사진: 1,209종 모두 있으며, 사진 페이지·원본 크기·라이선스와 그 링크를 기록했습니다. CC0 사진 163장은 촬영자가 표기를 포기했고 iNaturalist도 이름을 주지 않지만, 촬영자 프로필 링크는 있습니다.
+- 사진: 1,209종 모두 있으며, 사진 페이지·원본 크기·라이선스와 그 링크를 기록했습니다. CC0 사진 163장은 촬영자가 표기를 포기했고 iNaturalist도 이름을 주지 않습니다. 우리가 이름을 대신 채우지 않고, 촬영자 프로필 링크만 남깁니다.
 - 동정: 모든 사진이 3명 이상, 3개월 이상이며 중앙값은 5명, 3개월이고 이견은 없습니다.
 - ID: iNaturalist 분류군 ID, eBird, Avibase는 1,209종 모두, Wikidata 1,194종, GBIF 1,176종.
-- 이름, 분포, 형태, 보전 상태는 화수의 데이터에서 가져와 수록 현황도 같습니다. 예를 들어 몸길이는 616종에만 있습니다.
+- 이름, 분포, 형태, 보전 상태는 화수의 데이터를 그대로 썼으므로 빠진 곳도 같습니다. 예를 들어 몸길이는 616종에만 있습니다.
 
 ## 사진 선정 방법과 품질
 
@@ -301,9 +301,9 @@
 
 **모델로 화면을 거르고, 한 장씩 봅니다.** 검출 모델은 새의 수와 크기, 사람이나 손이 있는지만 보고 종은 판단하지 않습니다. 이후 모든 사진을 직접 보고 가려진 새, 일부만 나온 새, 죽은 새, 가금, 그림, 다른 새 등 367장을 제외했으며 사유는 [docs/eye-check.csv](docs/eye-check.csv)에 있습니다.
 
-- 계정 3개가 전문가 3명은 아니며 서로 따라 할 수도 있습니다. 조류학자가 모든 사진을 확인하지는 않았습니다.
-- 실제 사진이라 빛, 자세, 배경이 제각각이며 통일된 스티커가 아닙니다.
-- 화수 버전과 어느 쪽이 덜 틀리는지는 둘 다 공개한 뒤 각자 지적받은 오류로 비교합니다. 그전까지는 종 근거가 더 강하다고만 말할 수 있습니다.
+- **아직 9,749종이 들어오지 않았습니다.** 그중 5,929종은 3명·3개월 동정을 갖춘 관찰이 없고, 2,448종은 구도 검사를 아직 하지 않아 진행 중이며, 879종은 한 마리가 뚜렷한 사진이 없고, 400종은 원본이 작고, 90종은 분류 범위가 바뀌어 당분간 제외했으며, 나머지 3종은 학명 불일치나 육안 확인으로 제외했습니다. 집계는 [docs/stats.json](docs/stats.json)에 있습니다.
+
+실제 사진이지만 종은 iNaturalist 사용자가 동정한 것이며, 조류학자가 한 장씩 확인한 것은 아닙니다. 믿을 만한 참고 사진으로 쓰고, 세부 식별은 도감으로 확인하세요. 화수 버전과 어느 쪽이 덜 틀리는지는 둘 다 공개한 뒤 각자 지적받은 오류로 비교합니다. 그전까지는 종 근거가 더 강하다고만 말할 수 있습니다.
 
 잘못된 사진을 발견하면 [issue를 열어](../../issues/new/choose) 주세요. 사이트의 각 종 페이지에 새 이름이 채워진 신고 링크가 있습니다. 탐조인의 정정이 이 프로젝트에 가장 필요한 기여입니다.
 
@@ -313,7 +313,13 @@
 
 ## 사용법
 
-사진은 각자의 라이선스에 따라 쓰고 촬영자와 iNaturalist를 표기해 주세요. 사이트의 각 종 페이지에 표기 예시가 있고, 사진 링크는 `data/species.csv`의 `photoUrl` 열에 있습니다.
+사진 한 장은 바로 링크할 수 있습니다. 형식은:
+
+```
+https://inaturalist-open-data.s3.amazonaws.com/photos/<photoId>/original.jpg
+```
+
+번호는 `data/species.csv`의 `photoUrl` 열에 있습니다. 촬영자와 iNaturalist를 표기해 주세요. 사이트의 각 종 페이지에 표기 예시가 있습니다.
 
 데이터만 받으려면:
 
@@ -325,8 +331,8 @@ cd bird-human-picks && git sparse-checkout set data
 ## 감사의 말
 
 - 사진과 동정: iNaturalist의 촬영자와 동정자. 사진마다 `data/species.json`에 기록. 사진 자체는 저장소에 없습니다.
-- 분류, 이름, ID, 분포, 형태, 중국어 도감 노트: 화수의 [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), MIT. 도감 노트는 CC BY-SA 4.0.
-- AviList v2026(CC BY 4.0), IOC 세계 조류 목록 v15.2(CC BY 3.0), AVONET(CC BY 4.0), Wikidata(CC0).
+- 분류, 이름, ID, 분포, 형태: [huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker), 화수, MIT. 중국어 도감 노트도 같은 저장소에서, CC BY-SA 4.0.
+- AviList Core Team. 2026. AviList: The Global Avian Checklist, v2026, CC BY 4.0; IOC 세계 조류 목록 v15.2, CC BY 3.0; AVONET, Tobias 외, 2022, CC BY 4.0; Wikidata, CC0.
 
 
 [BUILD.md](BUILD.md) · [RULES.md](RULES.md) · [PARITY.md](PARITY.md) · [NOTICE.md](NOTICE.md)

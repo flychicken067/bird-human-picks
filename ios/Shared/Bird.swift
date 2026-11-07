@@ -33,7 +33,7 @@ struct Bird: Codable, Identifiable, Hashable {
     var marks: [String]? = nil
 
     var name: String { zh.isEmpty ? en : zh }
-    var evidence: String { "\(agree) 人认定 · 跨 \(months) 个月" }
+    var evidence: String { "\(agree)人认定 · 跨\(months)个月" }
 
     var iucnName: String? {
         guard let iucn else { return nil }

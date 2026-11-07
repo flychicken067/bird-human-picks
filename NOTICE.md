@@ -12,7 +12,7 @@ This repository links to, but does not contain, material from these sources.
 
 # 说明
 
-本仓库只链接、不存放以下内容：iNaturalist 照片（版权归摄影师，授权见 `docs/picks.csv`）；花叔的贴纸（CC BY 4.0）；检测模型权重（AGPL-3.0）。不保存鉴定者姓名和观测坐标。
+本仓库只链接、不存放以下内容：iNaturalist照片（版权归摄影师，授权见 `docs/picks.csv`）；花叔的贴纸（CC BY 4.0）；检测模型权重（AGPL-3.0）。不保存鉴定者姓名和观测坐标。
 
 ## huashu-bird-sticker data (MIT)
 
